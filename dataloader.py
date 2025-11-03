@@ -114,7 +114,6 @@ class PKDataloader:
         if not os.path.exists(self.save_data_file_name):
             self._download()
             self._build_dataset()
-            self._prune_herg()
 
         if not os.path.exists(self.drug_embed_file_name):
             self._generate_embeddings()
@@ -125,15 +124,10 @@ class PKDataloader:
         self
     ):
         adme_names = [
-            'Caco2_Wang',   # 906
-            'Lipophilicity_AstraZeneca',
-            'Solubility_AqSolDB',
-            'HydrationFreeEnergy_FreeSolv',
+            'Caco2_Wang',
             'PPBR_AZ',
             'VDss_Lombardo',
-            'Half_Life_Obach',
-            'Clearance_Hepatocyte_AZ',
-            'Clearance_Microsome_AZ',
+            'Half_Life_Obach'
         ]
 
         for name in adme_names:
@@ -143,10 +137,6 @@ class PKDataloader:
         data = Tox(name = 'LD50_Zhu', path=self.data_dir)
         self.data_dfs['LD50_Zhu'] = get_splits(data)
 
-        label_list = retrieve_label_name_list('herg_central')
-        for lname in label_list[:-1]: # no inhib
-            data = Tox(name = 'herg_central', label_name = lname)
-            self.data_dfs['herg_central_'+lname] = get_splits(data)
 
     def _build_dataset(
         self
@@ -173,24 +163,6 @@ class PKDataloader:
 
         self.df.to_csv(self.save_data_file_name, index=False)
 
-    
-    def _prune_herg(
-        self
-    ):
-        sum_comb = []
-        combinations = []
-        for row in self.df.drop(labels=['Drug', 'herg_central_hERG_at_10uM'], axis=1).iterrows():
-            s = "".join([str(int(np.isnan(v) == False)) for _,v in list(row)[1].items()])
-            combinations.append(s)
-            sum_comb.append(sum([int(t) for t in s]))
-
-        cbool = np.array(combinations) != '00000000001'
-        inc = np.random.choice([i for i, x in enumerate(cbool) if x == False], 7900, replace=False)
-        cbool = [True if i in inc else v for i,v in enumerate(cbool)]
-
-        self.df = self.df[cbool]
-
-        self.df.to_csv(self.save_data_file_name, index=False)
 
     def _generate_embeddings(
         self

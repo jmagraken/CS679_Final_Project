@@ -18,6 +18,8 @@ import csv
 
 from diffusion import DDIMScheduler
 
+assert(torch.cuda.is_available())
+
 parser = argparse.ArgumentParser()
 
 parser.add_argument('--lr', dest='lr', type=float, default=1e-3)
@@ -69,7 +71,7 @@ model = SDT(
     time_dim = 64,
     cond_size = 768,
     patch_size = 16,
-    y_dim = 12,
+    y_dim = 5,
     dim = 256,
     depth = 12,
     heads = 16,
