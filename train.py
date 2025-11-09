@@ -39,7 +39,8 @@ parser.add_argument('--embed_model', choices=[
     't5',
     'deberta',
     'chemberta_zinc',
-    'chemberta_10m'
+    'chemberta_10m',
+    'MHGGNN'
 ], default='t5')
 
 args = parser.parse_args()
@@ -69,7 +70,7 @@ device = "cuda"
 
 model = SDT(
     time_dim = 64,
-    cond_size = 768,
+    cond_size = 1024 if args.embed_model == 'MHGGNN' else 768,
     patch_size = 16,
     y_dim = 5,
     dim = 256,

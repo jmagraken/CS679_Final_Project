@@ -101,7 +101,8 @@ class PKDataloader:
             "t5":'sagawa/PubChem-10m-t5-v2',
             "deberta":'sagawa/PubChem-10m-deberta',
             'chemberta_zinc': 'seyonec/ChemBERTa-zinc-base-v1',
-            'chemberta_10m': 'DeepChem/ChemBERTa-10M-MLM'
+            'chemberta_10m': 'DeepChem/ChemBERTa-10M-MLM',
+            'MHGGNN': None
 
         }[embed_model_name]
 
@@ -116,6 +117,7 @@ class PKDataloader:
             self._build_dataset()
 
         if not os.path.exists(self.drug_embed_file_name):
+            assert(embed_model_name != 'MHGGNN')
             self._generate_embeddings()
 
         self.dataset = PKDataset(self.save_data_file_name, self.drug_embed_file_name)
