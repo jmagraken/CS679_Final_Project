@@ -17,6 +17,7 @@ from sklearn.metrics import mean_squared_error
 import csv
 
 from diffusion import DDIMScheduler
+import pandas as pd
 
 assert(torch.cuda.is_available())
 
@@ -56,6 +57,11 @@ trainset = dataloader.dataset
 dmss = trainset.dmss
 trainset, valset = torch.utils.data.random_split(trainset, [0.9,0.10])
 # valset, testset = torch.utils.data.random_split(valset, [0.5,0.5])
+
+# Save gt values into CSV
+valset_list = [valset.dataset.dataset[i] for i in valset.indices]
+gt_df = pd.DataFrame(valset_list)
+gt_df.to_csv(args.save_dir+'gt_dict.csv', index=False)
 
 print(trainset[1]['gt'].shape)
 print(trainset[1]['ma'].shape)

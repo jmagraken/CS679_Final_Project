@@ -1,0 +1,2500 @@
+{'type': 'train', 'e': 0, 'avgloss': 0.5208315488539244}
+{'type': 'train', 'e': 1, 'avgloss': 0.22811348814713328}
+{'type': 'train', 'e': 2, 'avgloss': 0.18176571005269102}
+{'type': 'train', 'e': 3, 'avgloss': 0.16814807920079483}
+{'type': 'train', 'e': 4, 'avgloss': 0.15446723056466957}
+{'type': 'train', 'e': 5, 'avgloss': 0.1249853623540778}
+{'type': 'train', 'e': 6, 'avgloss': 0.11082047851462114}
+{'type': 'train', 'e': 7, 'avgloss': 0.10231576703096691}
+{'type': 'train', 'e': 8, 'avgloss': 0.09582355540049703}
+{'type': 'train', 'e': 9, 'avgloss': 0.09561264789418171}
+{'type': 'val', 'e': 10, 'avgloss': 0.0913050853108105, 'avgvalmse': np.float32(0.9431229), 'beforemse': np.float32(0.29352143)}
+{'type': 'train', 'e': 11, 'avgloss': 0.09894377659810216}
+{'type': 'train', 'e': 12, 'avgloss': 0.10056067689468987}
+{'type': 'train', 'e': 13, 'avgloss': 0.09269562951828304}
+{'type': 'train', 'e': 14, 'avgloss': 0.08992874739985716}
+{'type': 'train', 'e': 15, 'avgloss': 0.08633967998780702}
+{'type': 'train', 'e': 16, 'avgloss': 0.089804639157496}
+{'type': 'train', 'e': 17, 'avgloss': 0.08802528953865955}
+{'type': 'train', 'e': 18, 'avgloss': 0.0878475684868662}
+{'type': 'train', 'e': 19, 'avgloss': 0.08726262497274499}
+{'type': 'val', 'e': 20, 'avgloss': 0.08468531346634815, 'avgvalmse': np.float32(0.50983024), 'beforemse': np.float32(0.30135134)}
+{'type': 'train', 'e': 21, 'avgloss': 0.08952465692633077}
+{'type': 'train', 'e': 22, 'avgloss': 0.08651163115313179}
+{'type': 'train', 'e': 23, 'avgloss': 0.08684332355072624}
+{'type': 'train', 'e': 24, 'avgloss': 0.08910171530748669}
+{'type': 'train', 'e': 25, 'avgloss': 0.08479998417590794}
+{'type': 'train', 'e': 26, 'avgloss': 0.0866660495337687}
+{'type': 'train', 'e': 27, 'avgloss': 0.08691387623548508}
+{'type': 'train', 'e': 28, 'avgloss': 0.08228024487432681}
+{'type': 'train', 'e': 29, 'avgloss': 0.08731967171556071}
+{'type': 'val', 'e': 30, 'avgloss': 0.08930993472274981, 'avgvalmse': np.float32(0.342358), 'beforemse': np.float32(0.30820408)}
+{'type': 'train', 'e': 31, 'avgloss': 0.08579449904592414}
+{'type': 'train', 'e': 32, 'avgloss': 0.08932510606552425}
+{'type': 'train', 'e': 33, 'avgloss': 0.08661113326486788}
+{'type': 'train', 'e': 34, 'avgloss': 0.0816881911535012}
+{'type': 'train', 'e': 35, 'avgloss': 0.0848470812565402}
+{'type': 'train', 'e': 36, 'avgloss': 0.08638501402578856}
+{'type': 'train', 'e': 37, 'avgloss': 0.08468438253590935}
+{'type': 'train', 'e': 38, 'avgloss': 0.0823315472195023}
+{'type': 'train', 'e': 39, 'avgloss': 0.08160867659669173}
+{'type': 'val', 'e': 40, 'avgloss': 0.08397949134048663, 'avgvalmse': np.float32(0.33589685), 'beforemse': np.float32(0.33287826)}
+{'type': 'train', 'e': 41, 'avgloss': 0.08206030412724144}
+{'type': 'train', 'e': 42, 'avgloss': 0.08363867904010572}
+{'type': 'train', 'e': 43, 'avgloss': 0.0868071419628043}
+{'type': 'train', 'e': 44, 'avgloss': 0.08572393773417723}
+{'type': 'train', 'e': 45, 'avgloss': 0.08648612154157538}
+{'type': 'train', 'e': 46, 'avgloss': 0.08278039489921771}
+{'type': 'train', 'e': 47, 'avgloss': 0.08368560240456932}
+{'type': 'train', 'e': 48, 'avgloss': 0.08509030898934916}
+{'type': 'train', 'e': 49, 'avgloss': 0.08712755261283171}
+{'type': 'val', 'e': 50, 'avgloss': 0.08397688402941353, 'avgvalmse': np.float32(0.29235747), 'beforemse': np.float32(0.28312588)}
+{'type': 'train', 'e': 51, 'avgloss': 0.08574022940899197}
+{'type': 'train', 'e': 52, 'avgloss': 0.08050996888624995}
+{'type': 'train', 'e': 53, 'avgloss': 0.08070418160212667}
+{'type': 'train', 'e': 54, 'avgloss': 0.08709790243914253}
+{'type': 'train', 'e': 55, 'avgloss': 0.08298163978677046}
+{'type': 'train', 'e': 56, 'avgloss': 0.08293605321332027}
+{'type': 'train', 'e': 57, 'avgloss': 0.0808861463477737}
+{'type': 'train', 'e': 58, 'avgloss': 0.08112698009139613}
+{'type': 'train', 'e': 59, 'avgloss': 0.08426388862885927}
+{'type': 'val', 'e': 60, 'avgloss': 0.07885057753638218, 'avgvalmse': np.float32(0.2993227), 'beforemse': np.float32(0.2938024)}
+{'type': 'train', 'e': 61, 'avgloss': 0.08067221625855095}
+{'type': 'train', 'e': 62, 'avgloss': 0.0824965352290555}
+{'type': 'train', 'e': 63, 'avgloss': 0.07888066356903628}
+{'type': 'train', 'e': 64, 'avgloss': 0.08193558258445639}
+{'type': 'train', 'e': 65, 'avgloss': 0.08212136398804815}
+{'type': 'train', 'e': 66, 'avgloss': 0.08446022397593449}
+{'type': 'train', 'e': 67, 'avgloss': 0.08078154372541528}
+{'type': 'train', 'e': 68, 'avgloss': 0.08298019280559138}
+{'type': 'train', 'e': 69, 'avgloss': 0.0823664665222168}
+{'type': 'val', 'e': 70, 'avgloss': 0.08616139073120921, 'avgvalmse': np.float32(0.38150325), 'beforemse': np.float32(0.38916)}
+{'type': 'train', 'e': 71, 'avgloss': 0.08031155521932401}
+{'type': 'train', 'e': 72, 'avgloss': 0.07885671132489254}
+{'type': 'train', 'e': 73, 'avgloss': 0.08061302257211585}
+{'type': 'train', 'e': 74, 'avgloss': 0.08327648396554746}
+{'type': 'train', 'e': 75, 'avgloss': 0.08170304133703835}
+{'type': 'train', 'e': 76, 'avgloss': 0.0823905530728792}
+{'type': 'train', 'e': 77, 'avgloss': 0.0828576703604899}
+{'type': 'train', 'e': 78, 'avgloss': 0.08505800915391822}
+{'type': 'train', 'e': 79, 'avgloss': 0.08237470098231968}
+{'type': 'val', 'e': 80, 'avgloss': 0.08002337185960066, 'avgvalmse': np.float32(0.28196272), 'beforemse': np.float32(0.28096858)}
+{'type': 'train', 'e': 81, 'avgloss': 0.08269238668052774}
+{'type': 'train', 'e': 82, 'avgloss': 0.08149195697746779}
+{'type': 'train', 'e': 83, 'avgloss': 0.08267962854159505}
+{'type': 'train', 'e': 84, 'avgloss': 0.08140348643064499}
+{'type': 'train', 'e': 85, 'avgloss': 0.08096912581669657}
+{'type': 'train', 'e': 86, 'avgloss': 0.08264574251676861}
+{'type': 'train', 'e': 87, 'avgloss': 0.08509746311526549}
+{'type': 'train', 'e': 88, 'avgloss': 0.08385252834934938}
+{'type': 'train', 'e': 89, 'avgloss': 0.08282006061390827}
+{'type': 'val', 'e': 90, 'avgloss': 0.0786128683309806, 'avgvalmse': np.float32(0.29705256), 'beforemse': np.float32(0.30480814)}
+{'type': 'train', 'e': 91, 'avgloss': 0.08102632980597646}
+{'type': 'train', 'e': 92, 'avgloss': 0.08009634441451023}
+{'type': 'train', 'e': 93, 'avgloss': 0.08015392054068415}
+{'type': 'train', 'e': 94, 'avgloss': 0.08014739736130364}
+{'type': 'train', 'e': 95, 'avgloss': 0.08091662510445244}
+{'type': 'train', 'e': 96, 'avgloss': 0.07707678526639938}
+{'type': 'train', 'e': 97, 'avgloss': 0.08080532441013738}
+{'type': 'train', 'e': 98, 'avgloss': 0.08253619074821472}
+{'type': 'train', 'e': 99, 'avgloss': 0.08180384416329234}
+{'type': 'val', 'e': 100, 'avgloss': 0.0776404689409231, 'avgvalmse': np.float32(0.3200096), 'beforemse': np.float32(0.31167212)}
+{'type': 'train', 'e': 101, 'avgloss': 0.07897932200055373}
+{'type': 'train', 'e': 102, 'avgloss': 0.0813432680933099}
+{'type': 'train', 'e': 103, 'avgloss': 0.08314072654435509}
+{'type': 'train', 'e': 104, 'avgloss': 0.08008622221256557}
+{'type': 'train', 'e': 105, 'avgloss': 0.07963886386469791}
+{'type': 'train', 'e': 106, 'avgloss': 0.07962594887143687}
+{'type': 'train', 'e': 107, 'avgloss': 0.08007883594224327}
+{'type': 'train', 'e': 108, 'avgloss': 0.07983874764881636}
+{'type': 'train', 'e': 109, 'avgloss': 0.07992126439747058}
+{'type': 'val', 'e': 110, 'avgloss': 0.08179197029063576, 'avgvalmse': np.float32(0.3027341), 'beforemse': np.float32(0.32238433)}
+{'type': 'train', 'e': 111, 'avgloss': 0.0824453528774412}
+{'type': 'train', 'e': 112, 'avgloss': 0.07901883399800251}
+{'type': 'train', 'e': 113, 'avgloss': 0.07761923929578379}
+{'type': 'train', 'e': 114, 'avgloss': 0.0809256363856165}
+{'type': 'train', 'e': 115, 'avgloss': 0.07848100952411953}
+{'type': 'train', 'e': 116, 'avgloss': 0.08439736970161137}
+{'type': 'train', 'e': 117, 'avgloss': 0.07910768883792978}
+{'type': 'train', 'e': 118, 'avgloss': 0.08032722418245516}
+{'type': 'train', 'e': 119, 'avgloss': 0.0785591708202111}
+{'type': 'val', 'e': 120, 'avgloss': 0.07865243954093833, 'avgvalmse': np.float32(0.36017486), 'beforemse': np.float32(0.36946204)}
+{'type': 'train', 'e': 121, 'avgloss': 0.07831767593559466}
+{'type': 'train', 'e': 122, 'avgloss': 0.08141043586166281}
+{'type': 'train', 'e': 123, 'avgloss': 0.07602739843883012}
+{'type': 'train', 'e': 124, 'avgloss': 0.0816096500738671}
+{'type': 'train', 'e': 125, 'avgloss': 0.08063792123606331}
+{'type': 'train', 'e': 126, 'avgloss': 0.0784738891218838}
+{'type': 'train', 'e': 127, 'avgloss': 0.07681458796325483}
+{'type': 'train', 'e': 128, 'avgloss': 0.07877305150032043}
+{'type': 'train', 'e': 129, 'avgloss': 0.08131453787025653}
+{'type': 'val', 'e': 130, 'avgloss': 0.08031424370251204, 'avgvalmse': np.float32(0.305854), 'beforemse': np.float32(0.31285337)}
+{'type': 'train', 'e': 131, 'avgloss': 0.08105047988264184}
+{'type': 'train', 'e': 132, 'avgloss': 0.08309533407813624}
+{'type': 'train', 'e': 133, 'avgloss': 0.08075603097677231}
+{'type': 'train', 'e': 134, 'avgloss': 0.07909563968056127}
+{'type': 'train', 'e': 135, 'avgloss': 0.07886097815475966}
+{'type': 'train', 'e': 136, 'avgloss': 0.07845687787783773}
+{'type': 'train', 'e': 137, 'avgloss': 0.08093305010544627}
+{'type': 'train', 'e': 138, 'avgloss': 0.07990919955466923}
+{'type': 'train', 'e': 139, 'avgloss': 0.07663676005445029}
+{'type': 'val', 'e': 140, 'avgloss': 0.08127726967397489, 'avgvalmse': np.float32(0.35001227), 'beforemse': np.float32(0.39089382)}
+{'type': 'train', 'e': 141, 'avgloss': 0.07997190560165204}
+{'type': 'train', 'e': 142, 'avgloss': 0.07820374204924233}
+{'type': 'train', 'e': 143, 'avgloss': 0.0788133254176692}
+{'type': 'train', 'e': 144, 'avgloss': 0.0784156922447054}
+{'type': 'train', 'e': 145, 'avgloss': 0.07939091167951885}
+{'type': 'train', 'e': 146, 'avgloss': 0.07954688448654978}
+{'type': 'train', 'e': 147, 'avgloss': 0.07956619717572865}
+{'type': 'train', 'e': 148, 'avgloss': 0.07731202793748755}
+{'type': 'train', 'e': 149, 'avgloss': 0.07801333854072973}
+{'type': 'val', 'e': 150, 'avgloss': 0.0798869576109083, 'avgvalmse': np.float32(0.2673997), 'beforemse': np.float32(0.2876741)}
+{'type': 'train', 'e': 151, 'avgloss': 0.07672092318534851}
+{'type': 'train', 'e': 152, 'avgloss': 0.08073473643315465}
+{'type': 'train', 'e': 153, 'avgloss': 0.08010012617236689}
+{'type': 'train', 'e': 154, 'avgloss': 0.07731980320654418}
+{'type': 'train', 'e': 155, 'avgloss': 0.07719475383821287}
+{'type': 'train', 'e': 156, 'avgloss': 0.0783358263342004}
+{'type': 'train', 'e': 157, 'avgloss': 0.07942551531289753}
+{'type': 'train', 'e': 158, 'avgloss': 0.07907416749941676}
+{'type': 'train', 'e': 159, 'avgloss': 0.07689069015415091}
+{'type': 'val', 'e': 160, 'avgloss': 0.07817875358619188, 'avgvalmse': np.float32(0.3199893), 'beforemse': np.float32(0.35674545)}
+{'type': 'train', 'e': 161, 'avgloss': 0.08079312506474946}
+{'type': 'train', 'e': 162, 'avgloss': 0.0741636464862447}
+{'type': 'train', 'e': 163, 'avgloss': 0.07915168647703372}
+{'type': 'train', 'e': 164, 'avgloss': 0.07603334125719573}
+{'type': 'train', 'e': 165, 'avgloss': 0.07664464767041959}
+{'type': 'train', 'e': 166, 'avgloss': 0.0771150741922228}
+{'type': 'train', 'e': 167, 'avgloss': 0.08004538558031384}
+{'type': 'train', 'e': 168, 'avgloss': 0.08101865610009745}
+{'type': 'train', 'e': 169, 'avgloss': 0.0794663056731224}
+{'type': 'val', 'e': 170, 'avgloss': 0.08044362852447912, 'avgvalmse': np.float32(0.27953804), 'beforemse': np.float32(0.33131996)}
+{'type': 'train', 'e': 171, 'avgloss': 0.07449467950745632}
+{'type': 'train', 'e': 172, 'avgloss': 0.08089406121718257}
+{'type': 'train', 'e': 173, 'avgloss': 0.07768709487036655}
+{'type': 'train', 'e': 174, 'avgloss': 0.07749616040995247}
+{'type': 'train', 'e': 175, 'avgloss': 0.07800363513984178}
+{'type': 'train', 'e': 176, 'avgloss': 0.07886863892015658}
+{'type': 'train', 'e': 177, 'avgloss': 0.075188431300615}
+{'type': 'train', 'e': 178, 'avgloss': 0.07705929522451602}
+{'type': 'train', 'e': 179, 'avgloss': 0.07590608926195848}
+{'type': 'val', 'e': 180, 'avgloss': 0.0780662192325843, 'avgvalmse': np.float32(0.2792697), 'beforemse': np.float32(0.3100269)}
+{'type': 'train', 'e': 181, 'avgloss': 0.07538090430592236}
+{'type': 'train', 'e': 182, 'avgloss': 0.07827039219831165}
+{'type': 'train', 'e': 183, 'avgloss': 0.07627487163010396}
+{'type': 'train', 'e': 184, 'avgloss': 0.07966465071627968}
+{'type': 'train', 'e': 185, 'avgloss': 0.07712651828401967}
+{'type': 'train', 'e': 186, 'avgloss': 0.07706920684952485}
+{'type': 'train', 'e': 187, 'avgloss': 0.07408242025657703}
+{'type': 'train', 'e': 188, 'avgloss': 0.07499030428497415}
+{'type': 'train', 'e': 189, 'avgloss': 0.0744146571347588}
+{'type': 'val', 'e': 190, 'avgloss': 0.07766278284160714, 'avgvalmse': np.float32(0.26884553), 'beforemse': np.float32(0.27489296)}
+{'type': 'train', 'e': 191, 'avgloss': 0.07955441859207656}
+{'type': 'train', 'e': 192, 'avgloss': 0.07701357414847926}
+{'type': 'train', 'e': 193, 'avgloss': 0.07715879184635062}
+{'type': 'train', 'e': 194, 'avgloss': 0.07735532581021912}
+{'type': 'train', 'e': 195, 'avgloss': 0.0768009710468744}
+{'type': 'train', 'e': 196, 'avgloss': 0.07661493240218413}
+{'type': 'train', 'e': 197, 'avgloss': 0.07602020784428246}
+{'type': 'train', 'e': 198, 'avgloss': 0.07370439485499733}
+{'type': 'train', 'e': 199, 'avgloss': 0.07658132753874126}
+{'type': 'val', 'e': 200, 'avgloss': 0.07531953740276788, 'avgvalmse': np.float32(0.2859082), 'beforemse': np.float32(0.3139889)}
+{'type': 'train', 'e': 201, 'avgloss': 0.07655000490577597}
+{'type': 'train', 'e': 202, 'avgloss': 0.07779094282733767}
+{'type': 'train', 'e': 203, 'avgloss': 0.07582292588133561}
+{'type': 'train', 'e': 204, 'avgloss': 0.0790734643998899}
+{'type': 'train', 'e': 205, 'avgloss': 0.07478630248653262}
+{'type': 'train', 'e': 206, 'avgloss': 0.07727464915890443}
+{'type': 'train', 'e': 207, 'avgloss': 0.07624260277340286}
+{'type': 'train', 'e': 208, 'avgloss': 0.07629570757087908}
+{'type': 'train', 'e': 209, 'avgloss': 0.07358314959626448}
+{'type': 'val', 'e': 210, 'avgloss': 0.0743901331565882, 'avgvalmse': np.float32(0.25332558), 'beforemse': np.float32(0.29262605)}
+{'type': 'train', 'e': 211, 'avgloss': 0.07508228719234467}
+{'type': 'train', 'e': 212, 'avgloss': 0.0762205590542994}
+{'type': 'train', 'e': 213, 'avgloss': 0.07512535703809638}
+{'type': 'train', 'e': 214, 'avgloss': 0.07688891652383302}
+{'type': 'train', 'e': 215, 'avgloss': 0.07568831781023427}
+{'type': 'train', 'e': 216, 'avgloss': 0.0761588517772524}
+{'type': 'train', 'e': 217, 'avgloss': 0.07231295442110613}
+{'type': 'train', 'e': 218, 'avgloss': 0.07363862034521605}
+{'type': 'train', 'e': 219, 'avgloss': 0.07122124711933889}
+{'type': 'val', 'e': 220, 'avgloss': 0.07334816710729349, 'avgvalmse': np.float32(0.2748459), 'beforemse': np.float32(0.30166575)}
+{'type': 'train', 'e': 221, 'avgloss': 0.07665695152000378}
+{'type': 'train', 'e': 222, 'avgloss': 0.07429616800264309}
+{'type': 'train', 'e': 223, 'avgloss': 0.0730791931089602}
+{'type': 'train', 'e': 224, 'avgloss': 0.0761770911906895}
+{'type': 'train', 'e': 225, 'avgloss': 0.07511486309139352}
+{'type': 'train', 'e': 226, 'avgloss': 0.07282381230279018}
+{'type': 'train', 'e': 227, 'avgloss': 0.07284966268037495}
+{'type': 'train', 'e': 228, 'avgloss': 0.07426249647611066}
+{'type': 'train', 'e': 229, 'avgloss': 0.07616659489117171}
+{'type': 'val', 'e': 230, 'avgloss': 0.07770097569415443, 'avgvalmse': np.float32(0.2828752), 'beforemse': np.float32(0.3178916)}
+{'type': 'train', 'e': 231, 'avgloss': 0.0714268890258513}
+{'type': 'train', 'e': 232, 'avgloss': 0.07085928556166197}
+{'type': 'train', 'e': 233, 'avgloss': 0.07335569984034489}
+{'type': 'train', 'e': 234, 'avgloss': 0.07665170493878816}
+{'type': 'train', 'e': 235, 'avgloss': 0.07392621589334387}
+{'type': 'train', 'e': 236, 'avgloss': 0.07677934122712989}
+{'type': 'train', 'e': 237, 'avgloss': 0.07482758772216345}
+{'type': 'train', 'e': 238, 'avgloss': 0.07253223108617883}
+{'type': 'train', 'e': 239, 'avgloss': 0.0718496153621297}
+{'type': 'val', 'e': 240, 'avgloss': 0.07385078464683734, 'avgvalmse': np.float32(0.32296416), 'beforemse': np.float32(0.39951026)}
+{'type': 'train', 'e': 241, 'avgloss': 0.07049970171953503}
+{'type': 'train', 'e': 242, 'avgloss': 0.07135882757996258}
+{'type': 'train', 'e': 243, 'avgloss': 0.07824826358180297}
+{'type': 'train', 'e': 244, 'avgloss': 0.07690655714587162}
+{'type': 'train', 'e': 245, 'avgloss': 0.07046537179695933}
+{'type': 'train', 'e': 246, 'avgloss': 0.07182488923794345}
+{'type': 'train', 'e': 247, 'avgloss': 0.07188206930693827}
+{'type': 'train', 'e': 248, 'avgloss': 0.07351233457264147}
+{'type': 'train', 'e': 249, 'avgloss': 0.07245973340774838}
+{'type': 'val', 'e': 250, 'avgloss': 0.07204325026587437, 'avgvalmse': np.float32(0.33290482), 'beforemse': np.float32(0.3673588)}
+{'type': 'train', 'e': 251, 'avgloss': 0.07256481188692544}
+{'type': 'train', 'e': 252, 'avgloss': 0.07256607868169483}
+{'type': 'train', 'e': 253, 'avgloss': 0.07632972221625478}
+{'type': 'train', 'e': 254, 'avgloss': 0.07530463192808001}
+{'type': 'train', 'e': 255, 'avgloss': 0.07243975153879116}
+{'type': 'train', 'e': 256, 'avgloss': 0.0712632809422518}
+{'type': 'train', 'e': 257, 'avgloss': 0.07370906283980921}
+{'type': 'train', 'e': 258, 'avgloss': 0.06969661696961052}
+{'type': 'train', 'e': 259, 'avgloss': 0.07080391323880146}
+{'type': 'val', 'e': 260, 'avgloss': 0.07551459517133863, 'avgvalmse': np.float32(0.31764367), 'beforemse': np.float32(0.3507769)}
+{'type': 'train', 'e': 261, 'avgloss': 0.07356144527071401}
+{'type': 'train', 'e': 262, 'avgloss': 0.07116262320625155}
+{'type': 'train', 'e': 263, 'avgloss': 0.0699935163322248}
+{'type': 'train', 'e': 264, 'avgloss': 0.0708823160905587}
+{'type': 'train', 'e': 265, 'avgloss': 0.07225230649897926}
+{'type': 'train', 'e': 266, 'avgloss': 0.07253612323026908}
+{'type': 'train', 'e': 267, 'avgloss': 0.07109617324251878}
+{'type': 'train', 'e': 268, 'avgloss': 0.07237490619483747}
+{'type': 'train', 'e': 269, 'avgloss': 0.07591361474049718}
+{'type': 'val', 'e': 270, 'avgloss': 0.0703936368227005, 'avgvalmse': np.float32(0.34343305), 'beforemse': np.float32(0.3363389)}
+{'type': 'train', 'e': 271, 'avgloss': 0.07475562315238149}
+{'type': 'train', 'e': 272, 'avgloss': 0.07456346954170026}
+{'type': 'train', 'e': 273, 'avgloss': 0.07144759575787343}
+{'type': 'train', 'e': 274, 'avgloss': 0.06961684674024582}
+{'type': 'train', 'e': 275, 'avgloss': 0.07110749949750148}
+{'type': 'train', 'e': 276, 'avgloss': 0.07095867669896076}
+{'type': 'train', 'e': 277, 'avgloss': 0.06983901246597893}
+{'type': 'train', 'e': 278, 'avgloss': 0.07423637689728486}
+{'type': 'train', 'e': 279, 'avgloss': 0.07580819745597087}
+{'type': 'val', 'e': 280, 'avgloss': 0.07345354086474369, 'avgvalmse': np.float32(0.22952197), 'beforemse': np.float32(0.25459835)}
+{'type': 'train', 'e': 281, 'avgloss': 0.07040367393117201}
+{'type': 'train', 'e': 282, 'avgloss': 0.07293897573100894}
+{'type': 'train', 'e': 283, 'avgloss': 0.07166518800352749}
+{'type': 'train', 'e': 284, 'avgloss': 0.06895660354118598}
+{'type': 'train', 'e': 285, 'avgloss': 0.07150424585530632}
+{'type': 'train', 'e': 286, 'avgloss': 0.07122914865612984}
+{'type': 'train', 'e': 287, 'avgloss': 0.06812745273897522}
+{'type': 'train', 'e': 288, 'avgloss': 0.07253203619467585}
+{'type': 'train', 'e': 289, 'avgloss': 0.07130791678240425}
+{'type': 'val', 'e': 290, 'avgloss': 0.06888903344148084, 'avgvalmse': np.float32(0.27557495), 'beforemse': np.float32(0.30461276)}
+{'type': 'train', 'e': 291, 'avgloss': 0.06943328051190627}
+{'type': 'train', 'e': 292, 'avgloss': 0.07256027703222476}
+{'type': 'train', 'e': 293, 'avgloss': 0.0755805720232035}
+{'type': 'train', 'e': 294, 'avgloss': 0.06964456799783204}
+{'type': 'train', 'e': 295, 'avgloss': 0.07025964930653572}
+{'type': 'train', 'e': 296, 'avgloss': 0.06990498461221394}
+{'type': 'train', 'e': 297, 'avgloss': 0.06820840859099438}
+{'type': 'train', 'e': 298, 'avgloss': 0.06981993270547766}
+{'type': 'train', 'e': 299, 'avgloss': 0.07058017524449449}
+{'type': 'val', 'e': 300, 'avgloss': 0.06713022291660309, 'avgvalmse': np.float32(0.2564778), 'beforemse': np.float32(0.27617362)}
+{'type': 'train', 'e': 301, 'avgloss': 0.06922218399612527}
+{'type': 'train', 'e': 302, 'avgloss': 0.07017185676254724}
+{'type': 'train', 'e': 303, 'avgloss': 0.06832493096590042}
+{'type': 'train', 'e': 304, 'avgloss': 0.07056250070270739}
+{'type': 'train', 'e': 305, 'avgloss': 0.06898807949925724}
+{'type': 'train', 'e': 306, 'avgloss': 0.06872700546917163}
+{'type': 'train', 'e': 307, 'avgloss': 0.07164563630756579}
+{'type': 'train', 'e': 308, 'avgloss': 0.07121054553671886}
+{'type': 'train', 'e': 309, 'avgloss': 0.06809762394741962}
+{'type': 'val', 'e': 310, 'avgloss': 0.06977228859537526, 'avgvalmse': np.float32(0.28365132), 'beforemse': np.float32(0.3111852)}
+{'type': 'train', 'e': 311, 'avgloss': 0.06605530883136548}
+{'type': 'train', 'e': 312, 'avgloss': 0.07120712670056444}
+{'type': 'train', 'e': 313, 'avgloss': 0.06857773328298017}
+{'type': 'train', 'e': 314, 'avgloss': 0.07485676360757727}
+{'type': 'train', 'e': 315, 'avgloss': 0.0668524095886632}
+{'type': 'train', 'e': 316, 'avgloss': 0.06907995770636358}
+{'type': 'train', 'e': 317, 'avgloss': 0.07201817651328288}
+{'type': 'train', 'e': 318, 'avgloss': 0.06887315409748178}
+{'type': 'train', 'e': 319, 'avgloss': 0.06757313365999021}
+{'type': 'val', 'e': 320, 'avgloss': 0.07037986971830067, 'avgvalmse': np.float32(0.23399617), 'beforemse': np.float32(0.2801696)}
+{'type': 'train', 'e': 321, 'avgloss': 0.06840849863855462}
+{'type': 'train', 'e': 322, 'avgloss': 0.07231126941348377}
+{'type': 'train', 'e': 323, 'avgloss': 0.06722445217402358}
+{'type': 'train', 'e': 324, 'avgloss': 0.06834264197631885}
+{'type': 'train', 'e': 325, 'avgloss': 0.07039320037553184}
+{'type': 'train', 'e': 326, 'avgloss': 0.07092951042087454}
+{'type': 'train', 'e': 327, 'avgloss': 0.07106206958231173}
+{'type': 'train', 'e': 328, 'avgloss': 0.06689373207719702}
+{'type': 'train', 'e': 329, 'avgloss': 0.07117766083071106}
+{'type': 'val', 'e': 330, 'avgloss': 0.06738398498610447, 'avgvalmse': np.float32(0.29421532), 'beforemse': np.float32(0.33459643)}
+{'type': 'train', 'e': 331, 'avgloss': 0.06650153312243913}
+{'type': 'train', 'e': 332, 'avgloss': 0.06749101943875614}
+{'type': 'train', 'e': 333, 'avgloss': 0.06737445098789115}
+{'type': 'train', 'e': 334, 'avgloss': 0.06718924131832625}
+{'type': 'train', 'e': 335, 'avgloss': 0.06619948678110775}
+{'type': 'train', 'e': 336, 'avgloss': 0.06557313450857212}
+{'type': 'train', 'e': 337, 'avgloss': 0.06387233008679591}
+{'type': 'train', 'e': 338, 'avgloss': 0.06593348811331548}
+{'type': 'train', 'e': 339, 'avgloss': 0.0642774471719014}
+{'type': 'val', 'e': 340, 'avgloss': 0.06645852444987548, 'avgvalmse': np.float32(0.30344975), 'beforemse': np.float32(0.30800197)}
+{'type': 'train', 'e': 341, 'avgloss': 0.06399466979660486}
+{'type': 'train', 'e': 342, 'avgloss': 0.0657731014254846}
+{'type': 'train', 'e': 343, 'avgloss': 0.0690501649913035}
+{'type': 'train', 'e': 344, 'avgloss': 0.06551021533577066}
+{'type': 'train', 'e': 345, 'avgloss': 0.06913082027121593}
+{'type': 'train', 'e': 346, 'avgloss': 0.06765094536699746}
+{'type': 'train', 'e': 347, 'avgloss': 0.06352722978121356}
+{'type': 'train', 'e': 348, 'avgloss': 0.06609961998305823}
+{'type': 'train', 'e': 349, 'avgloss': 0.06806939075651922}
+{'type': 'val', 'e': 350, 'avgloss': 0.06629266315384914, 'avgvalmse': np.float32(0.26542452), 'beforemse': np.float32(0.31253532)}
+{'type': 'train', 'e': 351, 'avgloss': 0.06654579839424084}
+{'type': 'train', 'e': 352, 'avgloss': 0.06436199812512648}
+{'type': 'train', 'e': 353, 'avgloss': 0.06634250126386944}
+{'type': 'train', 'e': 354, 'avgloss': 0.06562795215531399}
+{'type': 'train', 'e': 355, 'avgloss': 0.06358215781418901}
+{'type': 'train', 'e': 356, 'avgloss': 0.06594032892271091}
+{'type': 'train', 'e': 357, 'avgloss': 0.06662489316965405}
+{'type': 'train', 'e': 358, 'avgloss': 0.06945821956584328}
+{'type': 'train', 'e': 359, 'avgloss': 0.0694257126826989}
+{'type': 'val', 'e': 360, 'avgloss': 0.0629488531696169, 'avgvalmse': np.float32(0.22885136), 'beforemse': np.float32(0.25593245)}
+{'type': 'train', 'e': 361, 'avgloss': 0.06521326597583921}
+{'type': 'train', 'e': 362, 'avgloss': 0.06643783712857648}
+{'type': 'train', 'e': 363, 'avgloss': 0.06572086383637629}
+{'type': 'train', 'e': 364, 'avgloss': 0.06569935459839671}
+{'type': 'train', 'e': 365, 'avgloss': 0.06296755726400174}
+{'type': 'train', 'e': 366, 'avgloss': 0.06458156340216335}
+{'type': 'train', 'e': 367, 'avgloss': 0.06424287941895034}
+{'type': 'train', 'e': 368, 'avgloss': 0.06459018588066101}
+{'type': 'train', 'e': 369, 'avgloss': 0.06268365798812163}
+{'type': 'val', 'e': 370, 'avgloss': 0.06238736800457302, 'avgvalmse': np.float32(0.24682486), 'beforemse': np.float32(0.28395787)}
+{'type': 'train', 'e': 371, 'avgloss': 0.06433344553959996}
+{'type': 'train', 'e': 372, 'avgloss': 0.0623910317295476}
+{'type': 'train', 'e': 373, 'avgloss': 0.06558024059785039}
+{'type': 'train', 'e': 374, 'avgloss': 0.06791333599310172}
+{'type': 'train', 'e': 375, 'avgloss': 0.06351450281707864}
+{'type': 'train', 'e': 376, 'avgloss': 0.06192600648654135}
+{'type': 'train', 'e': 377, 'avgloss': 0.06291775326979787}
+{'type': 'train', 'e': 378, 'avgloss': 0.06360042134397909}
+{'type': 'train', 'e': 379, 'avgloss': 0.06517872253530904}
+{'type': 'val', 'e': 380, 'avgloss': 0.06362935606586306, 'avgvalmse': np.float32(0.25529906), 'beforemse': np.float32(0.36156884)}
+{'type': 'train', 'e': 381, 'avgloss': 0.06658660051854033}
+{'type': 'train', 'e': 382, 'avgloss': 0.06257179987273719}
+{'type': 'train', 'e': 383, 'avgloss': 0.06228612696653918}
+{'type': 'train', 'e': 384, 'avgloss': 0.06469004542419785}
+{'type': 'train', 'e': 385, 'avgloss': 0.06108163140322033}
+{'type': 'train', 'e': 386, 'avgloss': 0.05969390155453431}
+{'type': 'train', 'e': 387, 'avgloss': 0.061802795843074194}
+{'type': 'train', 'e': 388, 'avgloss': 0.05944435239622468}
+{'type': 'train', 'e': 389, 'avgloss': 0.06455604437934725}
+{'type': 'val', 'e': 390, 'avgloss': 0.06200887243214406, 'avgvalmse': np.float32(0.2948163), 'beforemse': np.float32(0.3509853)}
+{'type': 'train', 'e': 391, 'avgloss': 0.06392267385595723}
+{'type': 'train', 'e': 392, 'avgloss': 0.06380988971183174}
+{'type': 'train', 'e': 393, 'avgloss': 0.06273432840642176}
+{'type': 'train', 'e': 394, 'avgloss': 0.06318823797138114}
+{'type': 'train', 'e': 395, 'avgloss': 0.062485285887592716}
+{'type': 'train', 'e': 396, 'avgloss': 0.06415034614895519}
+{'type': 'train', 'e': 397, 'avgloss': 0.061895759286064854}
+{'type': 'train', 'e': 398, 'avgloss': 0.06036431499217686}
+{'type': 'train', 'e': 399, 'avgloss': 0.060224082320928574}
+{'type': 'val', 'e': 400, 'avgloss': 0.06327938582552106, 'avgvalmse': np.float32(0.27848533), 'beforemse': np.float32(0.3208276)}
+{'type': 'train', 'e': 401, 'avgloss': 0.06184277801137222}
+{'type': 'train', 'e': 402, 'avgloss': 0.062418197134607716}
+{'type': 'train', 'e': 403, 'avgloss': 0.06080903054067963}
+{'type': 'train', 'e': 404, 'avgloss': 0.06395810352344262}
+{'type': 'train', 'e': 405, 'avgloss': 0.06349809193297436}
+{'type': 'train', 'e': 406, 'avgloss': 0.05820184063754583}
+{'type': 'train', 'e': 407, 'avgloss': 0.061182536576923574}
+{'type': 'train', 'e': 408, 'avgloss': 0.05932342770852541}
+{'type': 'train', 'e': 409, 'avgloss': 0.05908832169677082}
+{'type': 'val', 'e': 410, 'avgloss': 0.05789991095662117, 'avgvalmse': np.float32(0.24738605), 'beforemse': np.float32(0.35114035)}
+{'type': 'train', 'e': 411, 'avgloss': 0.057709961933524984}
+{'type': 'train', 'e': 412, 'avgloss': 0.05719386237232309}
+{'type': 'train', 'e': 413, 'avgloss': 0.06115072259777471}
+{'type': 'train', 'e': 414, 'avgloss': 0.06498745515158302}
+{'type': 'train', 'e': 415, 'avgloss': 0.05919280844299417}
+{'type': 'train', 'e': 416, 'avgloss': 0.05951495429402903}
+{'type': 'train', 'e': 417, 'avgloss': 0.0588488847409424}
+{'type': 'train', 'e': 418, 'avgloss': 0.05910885216374146}
+{'type': 'train', 'e': 419, 'avgloss': 0.05805089383533126}
+{'type': 'val', 'e': 420, 'avgloss': 0.058726873248815536, 'avgvalmse': np.float32(0.25089118), 'beforemse': np.float32(0.2979276)}
+{'type': 'train', 'e': 421, 'avgloss': 0.06030509326803057}
+{'type': 'train', 'e': 422, 'avgloss': 0.05722994533808608}
+{'type': 'train', 'e': 423, 'avgloss': 0.06027503703769885}
+{'type': 'train', 'e': 424, 'avgloss': 0.05823493572442155}
+{'type': 'train', 'e': 425, 'avgloss': 0.05903395402588343}
+{'type': 'train', 'e': 426, 'avgloss': 0.06009614487227641}
+{'type': 'train', 'e': 427, 'avgloss': 0.05958730629400203}
+{'type': 'train', 'e': 428, 'avgloss': 0.05896249335063131}
+{'type': 'train', 'e': 429, 'avgloss': 0.05985708593537933}
+{'type': 'val', 'e': 430, 'avgloss': 0.058315205534822064, 'avgvalmse': np.float32(0.24547374), 'beforemse': np.float32(0.32269436)}
+{'type': 'train', 'e': 431, 'avgloss': 0.05674414258254202}
+{'type': 'train', 'e': 432, 'avgloss': 0.05771467030832642}
+{'type': 'train', 'e': 433, 'avgloss': 0.060035929672027886}
+{'type': 'train', 'e': 434, 'avgloss': 0.05855231751736842}
+{'type': 'train', 'e': 435, 'avgloss': 0.05936932367713828}
+{'type': 'train', 'e': 436, 'avgloss': 0.06023300890075533}
+{'type': 'train', 'e': 437, 'avgloss': 0.05698015815333316}
+{'type': 'train', 'e': 438, 'avgloss': 0.05707720529876257}
+{'type': 'train', 'e': 439, 'avgloss': 0.058562001507533226}
+{'type': 'val', 'e': 440, 'avgloss': 0.05847486245789026, 'avgvalmse': np.float32(0.24229376), 'beforemse': np.float32(0.30636334)}
+{'type': 'train', 'e': 441, 'avgloss': 0.05926155298948288}
+{'type': 'train', 'e': 442, 'avgloss': 0.05953973335655112}
+{'type': 'train', 'e': 443, 'avgloss': 0.058518263658410626}
+{'type': 'train', 'e': 444, 'avgloss': 0.0546375940504827}
+{'type': 'train', 'e': 445, 'avgloss': 0.06068091192527821}
+{'type': 'train', 'e': 446, 'avgloss': 0.05797051187408598}
+{'type': 'train', 'e': 447, 'avgloss': 0.055495116271470725}
+{'type': 'train', 'e': 448, 'avgloss': 0.05554105459075225}
+{'type': 'train', 'e': 449, 'avgloss': 0.055322234567842986}
+{'type': 'val', 'e': 450, 'avgloss': 0.058439352990765324, 'avgvalmse': np.float32(0.2645917), 'beforemse': np.float32(0.33002433)}
+{'type': 'train', 'e': 451, 'avgloss': 0.05752651962010484}
+{'type': 'train', 'e': 452, 'avgloss': 0.05789662936800405}
+{'type': 'train', 'e': 453, 'avgloss': 0.05842265329862896}
+{'type': 'train', 'e': 454, 'avgloss': 0.05780335319669623}
+{'type': 'train', 'e': 455, 'avgloss': 0.05761364141577169}
+{'type': 'train', 'e': 456, 'avgloss': 0.056515571906378397}
+{'type': 'train', 'e': 457, 'avgloss': 0.05490279511401528}
+{'type': 'train', 'e': 458, 'avgloss': 0.05532685098679442}
+{'type': 'train', 'e': 459, 'avgloss': 0.05381954226054644}
+{'type': 'val', 'e': 460, 'avgloss': 0.05781659464302816, 'avgvalmse': np.float32(0.24204512), 'beforemse': np.float32(0.28571174)}
+{'type': 'train', 'e': 461, 'avgloss': 0.057329923698776646}
+{'type': 'train', 'e': 462, 'avgloss': 0.05861082712286397}
+{'type': 'train', 'e': 463, 'avgloss': 0.05560005475815974}
+{'type': 'train', 'e': 464, 'avgloss': 0.055032353652151006}
+{'type': 'train', 'e': 465, 'avgloss': 0.055463238962386786}
+{'type': 'train', 'e': 466, 'avgloss': 0.05893874952667638}
+{'type': 'train', 'e': 467, 'avgloss': 0.05465377984862579}
+{'type': 'train', 'e': 468, 'avgloss': 0.05577766561978742}
+{'type': 'train', 'e': 469, 'avgloss': 0.05636733358627871}
+{'type': 'val', 'e': 470, 'avgloss': 0.05548360649692385, 'avgvalmse': np.float32(0.25630865), 'beforemse': np.float32(0.3651773)}
+{'type': 'train', 'e': 471, 'avgloss': 0.05303359404206276}
+{'type': 'train', 'e': 472, 'avgloss': 0.05581111794239596}
+{'type': 'train', 'e': 473, 'avgloss': 0.054530420193546696}
+{'type': 'train', 'e': 474, 'avgloss': 0.05176783706012525}
+{'type': 'train', 'e': 475, 'avgloss': 0.054075613813964946}
+{'type': 'train', 'e': 476, 'avgloss': 0.05441202242907725}
+{'type': 'train', 'e': 477, 'avgloss': 0.05467638236127401}
+{'type': 'train', 'e': 478, 'avgloss': 0.053120671722449754}
+{'type': 'train', 'e': 479, 'avgloss': 0.05418135500267932}
+{'type': 'val', 'e': 480, 'avgloss': 0.05244533325496473, 'avgvalmse': np.float32(0.22991942), 'beforemse': np.float32(0.31117675)}
+{'type': 'train', 'e': 481, 'avgloss': 0.053943066808738206}
+{'type': 'train', 'e': 482, 'avgloss': 0.05568196702944605}
+{'type': 'train', 'e': 483, 'avgloss': 0.05427974266441245}
+{'type': 'train', 'e': 484, 'avgloss': 0.0533417908376769}
+{'type': 'train', 'e': 485, 'avgloss': 0.05487204735216342}
+{'type': 'train', 'e': 486, 'avgloss': 0.053358883449905796}
+{'type': 'train', 'e': 487, 'avgloss': 0.05291117865004038}
+{'type': 'train', 'e': 488, 'avgloss': 0.0548156670441753}
+{'type': 'train', 'e': 489, 'avgloss': 0.05300029445635645}
+{'type': 'val', 'e': 490, 'avgloss': 0.05489276016229078, 'avgvalmse': np.float32(0.221716), 'beforemse': np.float32(0.27624294)}
+{'type': 'train', 'e': 491, 'avgloss': 0.058533144820677604}
+{'type': 'train', 'e': 492, 'avgloss': 0.0540474172877638}
+{'type': 'train', 'e': 493, 'avgloss': 0.05619453638792038}
+{'type': 'train', 'e': 494, 'avgloss': 0.05213662785919089}
+{'type': 'train', 'e': 495, 'avgloss': 0.052265259388246034}
+{'type': 'train', 'e': 496, 'avgloss': 0.05447008578400863}
+{'type': 'train', 'e': 497, 'avgloss': 0.05656391127329124}
+{'type': 'train', 'e': 498, 'avgloss': 0.05331577086134961}
+{'type': 'train', 'e': 499, 'avgloss': 0.05351084392321737}
+{'type': 'val', 'e': 500, 'avgloss': 0.05321268619675385, 'avgvalmse': np.float32(0.24168944), 'beforemse': np.float32(0.30481806)}
+{'type': 'train', 'e': 501, 'avgloss': 0.0522153546151362}
+{'type': 'train', 'e': 502, 'avgloss': 0.05339733824918145}
+{'type': 'train', 'e': 503, 'avgloss': 0.050718135151423906}
+{'type': 'train', 'e': 504, 'avgloss': 0.05152983002756771}
+{'type': 'train', 'e': 505, 'avgloss': 0.05214389629269901}
+{'type': 'train', 'e': 506, 'avgloss': 0.05357923280251654}
+{'type': 'train', 'e': 507, 'avgloss': 0.05170959253844462}
+{'type': 'train', 'e': 508, 'avgloss': 0.050085968485004025}
+{'type': 'train', 'e': 509, 'avgloss': 0.050997808183494364}
+{'type': 'val', 'e': 510, 'avgloss': 0.05324092919104978, 'avgvalmse': np.float32(0.29491946), 'beforemse': np.float32(0.33844498)}
+{'type': 'train', 'e': 511, 'avgloss': 0.0554384804869953}
+{'type': 'train', 'e': 512, 'avgloss': 0.05346959358767459}
+{'type': 'train', 'e': 513, 'avgloss': 0.053539940401127466}
+{'type': 'train', 'e': 514, 'avgloss': 0.053139757953192056}
+{'type': 'train', 'e': 515, 'avgloss': 0.05027298472429577}
+{'type': 'train', 'e': 516, 'avgloss': 0.05215202036656832}
+{'type': 'train', 'e': 517, 'avgloss': 0.05098343150396096}
+{'type': 'train', 'e': 518, 'avgloss': 0.05347906758910731}
+{'type': 'train', 'e': 519, 'avgloss': 0.053354867586964054}
+{'type': 'val', 'e': 520, 'avgloss': 0.04965253174304962, 'avgvalmse': np.float32(0.23870848), 'beforemse': np.float32(0.3428311)}
+{'type': 'train', 'e': 521, 'avgloss': 0.05158123472019246}
+{'type': 'train', 'e': 522, 'avgloss': 0.05137429739299573}
+{'type': 'train', 'e': 523, 'avgloss': 0.052737329547342504}
+{'type': 'train', 'e': 524, 'avgloss': 0.05208061243358411}
+{'type': 'train', 'e': 525, 'avgloss': 0.050553660839796066}
+{'type': 'train', 'e': 526, 'avgloss': 0.05259192911417861}
+{'type': 'train', 'e': 527, 'avgloss': 0.05101394437645611}
+{'type': 'train', 'e': 528, 'avgloss': 0.0545681571882022}
+{'type': 'train', 'e': 529, 'avgloss': 0.05118652060627937}
+{'type': 'val', 'e': 530, 'avgloss': 0.05000680704650126, 'avgvalmse': np.float32(0.24602433), 'beforemse': np.float32(0.33193395)}
+{'type': 'train', 'e': 531, 'avgloss': 0.049420733593012155}
+{'type': 'train', 'e': 532, 'avgloss': 0.05033070319577267}
+{'type': 'train', 'e': 533, 'avgloss': 0.05302484804078152}
+{'type': 'train', 'e': 534, 'avgloss': 0.05077396195970083}
+{'type': 'train', 'e': 535, 'avgloss': 0.050959721403686625}
+{'type': 'train', 'e': 536, 'avgloss': 0.05218917013783204}
+{'type': 'train', 'e': 537, 'avgloss': 0.05229259752913525}
+{'type': 'train', 'e': 538, 'avgloss': 0.05396525248100883}
+{'type': 'train', 'e': 539, 'avgloss': 0.05296084833772559}
+{'type': 'val', 'e': 540, 'avgloss': 0.05191863720354281, 'avgvalmse': np.float32(0.21469541), 'beforemse': np.float32(0.25860253)}
+{'type': 'train', 'e': 541, 'avgloss': 0.04899441960610842}
+{'type': 'train', 'e': 542, 'avgloss': 0.050603983237555154}
+{'type': 'train', 'e': 543, 'avgloss': 0.05027260886211144}
+{'type': 'train', 'e': 544, 'avgloss': 0.04992195277621871}
+{'type': 'train', 'e': 545, 'avgloss': 0.05006793906029902}
+{'type': 'train', 'e': 546, 'avgloss': 0.05051595168678384}
+{'type': 'train', 'e': 547, 'avgloss': 0.050399538521703924}
+{'type': 'train', 'e': 548, 'avgloss': 0.049467935962112325}
+{'type': 'train', 'e': 549, 'avgloss': 0.05239540377729818}
+{'type': 'val', 'e': 550, 'avgloss': 0.0516394982604604, 'avgvalmse': np.float32(0.22458632), 'beforemse': np.float32(0.31627968)}
+{'type': 'train', 'e': 551, 'avgloss': 0.050696167898805516}
+{'type': 'train', 'e': 552, 'avgloss': 0.050950723063004646}
+{'type': 'train', 'e': 553, 'avgloss': 0.05129100186260123}
+{'type': 'train', 'e': 554, 'avgloss': 0.051166270712488575}
+{'type': 'train', 'e': 555, 'avgloss': 0.051143209596997814}
+{'type': 'train', 'e': 556, 'avgloss': 0.04848035503374903}
+{'type': 'train', 'e': 557, 'avgloss': 0.04984158630433835}
+{'type': 'train', 'e': 558, 'avgloss': 0.05024297358958345}
+{'type': 'train', 'e': 559, 'avgloss': 0.04739798370160555}
+{'type': 'val', 'e': 560, 'avgloss': 0.05261894237054022, 'avgvalmse': np.float32(0.23128664), 'beforemse': np.float32(0.24898748)}
+{'type': 'train', 'e': 561, 'avgloss': 0.05051494742694654}
+{'type': 'train', 'e': 562, 'avgloss': 0.04863740484181203}
+{'type': 'train', 'e': 563, 'avgloss': 0.04565016513592318}
+{'type': 'train', 'e': 564, 'avgloss': 0.04871181986833874}
+{'type': 'train', 'e': 565, 'avgloss': 0.04701420841248412}
+{'type': 'train', 'e': 566, 'avgloss': 0.049476437858845056}
+{'type': 'train', 'e': 567, 'avgloss': 0.04826821504454864}
+{'type': 'train', 'e': 568, 'avgloss': 0.047097996269401754}
+{'type': 'train', 'e': 569, 'avgloss': 0.0489420169278195}
+{'type': 'val', 'e': 570, 'avgloss': 0.04814776699793966, 'avgvalmse': np.float32(0.25723496), 'beforemse': np.float32(0.29335442)}
+{'type': 'train', 'e': 571, 'avgloss': 0.0475770282117944}
+{'type': 'train', 'e': 572, 'avgloss': 0.04792740980261251}
+{'type': 'train', 'e': 573, 'avgloss': 0.05061010251704015}
+{'type': 'train', 'e': 574, 'avgloss': 0.04654840968157116}
+{'type': 'train', 'e': 575, 'avgloss': 0.047663654543851554}
+{'type': 'train', 'e': 576, 'avgloss': 0.04806387326435039}
+{'type': 'train', 'e': 577, 'avgloss': 0.04788610182310406}
+{'type': 'train', 'e': 578, 'avgloss': 0.048291235181846116}
+{'type': 'train', 'e': 579, 'avgloss': 0.04680514159171205}
+{'type': 'val', 'e': 580, 'avgloss': 0.047404846862742774, 'avgvalmse': np.float32(0.27830037), 'beforemse': np.float32(0.34431437)}
+{'type': 'train', 'e': 581, 'avgloss': 0.0467542886341873}
+{'type': 'train', 'e': 582, 'avgloss': 0.047227788912622554}
+{'type': 'train', 'e': 583, 'avgloss': 0.04976022929737443}
+{'type': 'train', 'e': 584, 'avgloss': 0.04833177908470756}
+{'type': 'train', 'e': 585, 'avgloss': 0.050224932400803814}
+{'type': 'train', 'e': 586, 'avgloss': 0.048611348985057125}
+{'type': 'train', 'e': 587, 'avgloss': 0.04861570247694066}
+{'type': 'train', 'e': 588, 'avgloss': 0.04643022719966738}
+{'type': 'train', 'e': 589, 'avgloss': 0.04920196003819767}
+{'type': 'val', 'e': 590, 'avgloss': 0.04901346662326863, 'avgvalmse': np.float32(0.22978865), 'beforemse': np.float32(0.27222398)}
+{'type': 'train', 'e': 591, 'avgloss': 0.045469002504097786}
+{'type': 'train', 'e': 592, 'avgloss': 0.04837212691965856}
+{'type': 'train', 'e': 593, 'avgloss': 0.04716018352069353}
+{'type': 'train', 'e': 594, 'avgloss': 0.04695493669102067}
+{'type': 'train', 'e': 595, 'avgloss': 0.047661970908704554}
+{'type': 'train', 'e': 596, 'avgloss': 0.04449288096082838}
+{'type': 'train', 'e': 597, 'avgloss': 0.04693878245981116}
+{'type': 'train', 'e': 598, 'avgloss': 0.04532665661291072}
+{'type': 'train', 'e': 599, 'avgloss': 0.04531613462849667}
+{'type': 'val', 'e': 600, 'avgloss': 0.04600356244727185, 'avgvalmse': np.float32(0.23550548), 'beforemse': np.float32(0.2790104)}
+{'type': 'train', 'e': 601, 'avgloss': 0.04474415532068202}
+{'type': 'train', 'e': 602, 'avgloss': 0.047994153083939305}
+{'type': 'train', 'e': 603, 'avgloss': 0.04851963312218064}
+{'type': 'train', 'e': 604, 'avgloss': 0.045616580663542995}
+{'type': 'train', 'e': 605, 'avgloss': 0.04851533727426278}
+{'type': 'train', 'e': 606, 'avgloss': 0.04878462262843784}
+{'type': 'train', 'e': 607, 'avgloss': 0.04709092155098915}
+{'type': 'train', 'e': 608, 'avgloss': 0.04827285342310604}
+{'type': 'train', 'e': 609, 'avgloss': 0.04806003896029372}
+{'type': 'val', 'e': 610, 'avgloss': 0.04558570722216054, 'avgvalmse': np.float32(0.2277741), 'beforemse': np.float32(0.30600378)}
+{'type': 'train', 'e': 611, 'avgloss': 0.04906154659233595}
+{'type': 'train', 'e': 612, 'avgloss': 0.04440144037729815}
+{'type': 'train', 'e': 613, 'avgloss': 0.048459929659178384}
+{'type': 'train', 'e': 614, 'avgloss': 0.04643031239117447}
+{'type': 'train', 'e': 615, 'avgloss': 0.04779128612656342}
+{'type': 'train', 'e': 616, 'avgloss': 0.0466421556315924}
+{'type': 'train', 'e': 617, 'avgloss': 0.04561826312228253}
+{'type': 'train', 'e': 618, 'avgloss': 0.04637383924503075}
+{'type': 'train', 'e': 619, 'avgloss': 0.04483756422996521}
+{'type': 'val', 'e': 620, 'avgloss': 0.04481598832889607, 'avgvalmse': np.float32(0.26754948), 'beforemse': np.float32(0.2872649)}
+{'type': 'train', 'e': 621, 'avgloss': 0.04448763888917471}
+{'type': 'train', 'e': 622, 'avgloss': 0.043898921655981166}
+{'type': 'train', 'e': 623, 'avgloss': 0.0442912415846398}
+{'type': 'train', 'e': 624, 'avgloss': 0.04506590178138331}
+{'type': 'train', 'e': 625, 'avgloss': 0.045681325620726534}
+{'type': 'train', 'e': 626, 'avgloss': 0.04810004504887681}
+{'type': 'train', 'e': 627, 'avgloss': 0.04634235916953338}
+{'type': 'train', 'e': 628, 'avgloss': 0.04388674544660669}
+{'type': 'train', 'e': 629, 'avgloss': 0.04369842613998212}
+{'type': 'val', 'e': 630, 'avgloss': 0.04518748094376765, 'avgvalmse': np.float32(0.22490303), 'beforemse': np.float32(0.3244512)}
+{'type': 'train', 'e': 631, 'avgloss': 0.04627816222215954}
+{'type': 'train', 'e': 632, 'avgloss': 0.046805957626355324}
+{'type': 'train', 'e': 633, 'avgloss': 0.04376197488684403}
+{'type': 'train', 'e': 634, 'avgloss': 0.04298079484387448}
+{'type': 'train', 'e': 635, 'avgloss': 0.04174907662366566}
+{'type': 'train', 'e': 636, 'avgloss': 0.043230981811096796}
+{'type': 'train', 'e': 637, 'avgloss': 0.043318040472896474}
+{'type': 'train', 'e': 638, 'avgloss': 0.04262913410600863}
+{'type': 'train', 'e': 639, 'avgloss': 0.04519348787633996}
+{'type': 'val', 'e': 640, 'avgloss': 0.04494006872961396, 'avgvalmse': np.float32(0.25773206), 'beforemse': np.float32(0.3679769)}
+{'type': 'train', 'e': 641, 'avgloss': 0.04296632062055563}
+{'type': 'train', 'e': 642, 'avgloss': 0.043442047936351674}
+{'type': 'train', 'e': 643, 'avgloss': 0.04618107860809878}
+{'type': 'train', 'e': 644, 'avgloss': 0.04781662653151311}
+{'type': 'train', 'e': 645, 'avgloss': 0.04473363157165678}
+{'type': 'train', 'e': 646, 'avgloss': 0.0448200302688699}
+{'type': 'train', 'e': 647, 'avgloss': 0.044087055090226625}
+{'type': 'train', 'e': 648, 'avgloss': 0.04573169762366697}
+{'type': 'train', 'e': 649, 'avgloss': 0.04228168471079124}
+{'type': 'val', 'e': 650, 'avgloss': 0.04403955116868019, 'avgvalmse': np.float32(0.2081144), 'beforemse': np.float32(0.26849124)}
+{'type': 'train', 'e': 651, 'avgloss': 0.0439325802420315}
+{'type': 'train', 'e': 652, 'avgloss': 0.045723938040043176}
+{'type': 'train', 'e': 653, 'avgloss': 0.04489777197963313}
+{'type': 'train', 'e': 654, 'avgloss': 0.046481029375603326}
+{'type': 'train', 'e': 655, 'avgloss': 0.04323203920533782}
+{'type': 'train', 'e': 656, 'avgloss': 0.04509701579809189}
+{'type': 'train', 'e': 657, 'avgloss': 0.04559307663064254}
+{'type': 'train', 'e': 658, 'avgloss': 0.04390551581194526}
+{'type': 'train', 'e': 659, 'avgloss': 0.04262301600293109}
+{'type': 'val', 'e': 660, 'avgloss': 0.04386160895228386, 'avgvalmse': np.float32(0.24164873), 'beforemse': np.float32(0.32042965)}
+{'type': 'train', 'e': 661, 'avgloss': 0.04386687180713603}
+{'type': 'train', 'e': 662, 'avgloss': 0.045311777215254936}
+{'type': 'train', 'e': 663, 'avgloss': 0.04418628662824631}
+{'type': 'train', 'e': 664, 'avgloss': 0.04322074157627005}
+{'type': 'train', 'e': 665, 'avgloss': 0.04339284528242914}
+{'type': 'train', 'e': 666, 'avgloss': 0.043180295707363835}
+{'type': 'train', 'e': 667, 'avgloss': 0.04347470736033038}
+{'type': 'train', 'e': 668, 'avgloss': 0.043546874076128006}
+{'type': 'train', 'e': 669, 'avgloss': 0.04169579732574915}
+{'type': 'val', 'e': 670, 'avgloss': 0.041766601761705, 'avgvalmse': np.float32(0.24502987), 'beforemse': np.float32(0.2920689)}
+{'type': 'train', 'e': 671, 'avgloss': 0.04307568426194944}
+{'type': 'train', 'e': 672, 'avgloss': 0.0443129255191276}
+{'type': 'train', 'e': 673, 'avgloss': 0.0443383469001243}
+{'type': 'train', 'e': 674, 'avgloss': 0.04587785625144055}
+{'type': 'train', 'e': 675, 'avgloss': 0.041933970035691014}
+{'type': 'train', 'e': 676, 'avgloss': 0.041044536389802634}
+{'type': 'train', 'e': 677, 'avgloss': 0.041796283208225905}
+{'type': 'train', 'e': 678, 'avgloss': 0.04370942378514692}
+{'type': 'train', 'e': 679, 'avgloss': 0.04305802834661383}
+{'type': 'val', 'e': 680, 'avgloss': 0.04307851254155761, 'avgvalmse': np.float32(0.21557736), 'beforemse': np.float32(0.28017476)}
+{'type': 'train', 'e': 681, 'avgloss': 0.040233823421754335}
+{'type': 'train', 'e': 682, 'avgloss': 0.04101775880706938}
+{'type': 'train', 'e': 683, 'avgloss': 0.04108055837844547}
+{'type': 'train', 'e': 684, 'avgloss': 0.042203950058472786}
+{'type': 'train', 'e': 685, 'avgloss': 0.041183393644659144}
+{'type': 'train', 'e': 686, 'avgloss': 0.04497876449635154}
+{'type': 'train', 'e': 687, 'avgloss': 0.042180480729592476}
+{'type': 'train', 'e': 688, 'avgloss': 0.04527731965246953}
+{'type': 'train', 'e': 689, 'avgloss': 0.04183690210706309}
+{'type': 'val', 'e': 690, 'avgloss': 0.04276759844077261, 'avgvalmse': np.float32(0.24819402), 'beforemse': np.float32(0.34256783)}
+{'type': 'train', 'e': 691, 'avgloss': 0.04198742559865901}
+{'type': 'train', 'e': 692, 'avgloss': 0.042825189272039814}
+{'type': 'train', 'e': 693, 'avgloss': 0.042448834565125014}
+{'type': 'train', 'e': 694, 'avgloss': 0.04459455079938236}
+{'type': 'train', 'e': 695, 'avgloss': 0.04308412890685232}
+{'type': 'train', 'e': 696, 'avgloss': 0.043906693003679574}
+{'type': 'train', 'e': 697, 'avgloss': 0.04252724976916062}
+{'type': 'train', 'e': 698, 'avgloss': 0.04066822364142066}
+{'type': 'train', 'e': 699, 'avgloss': 0.042499967311557973}
+{'type': 'val', 'e': 700, 'avgloss': 0.04100410071642775, 'avgvalmse': np.float32(0.26056588), 'beforemse': np.float32(0.39153004)}
+{'type': 'train', 'e': 701, 'avgloss': 0.04081826029639495}
+{'type': 'train', 'e': 702, 'avgloss': 0.042373140195482654}
+{'type': 'train', 'e': 703, 'avgloss': 0.041882074781154334}
+{'type': 'train', 'e': 704, 'avgloss': 0.041546475926512165}
+{'type': 'train', 'e': 705, 'avgloss': 0.042051880963538825}
+{'type': 'train', 'e': 706, 'avgloss': 0.04184416122734547}
+{'type': 'train', 'e': 707, 'avgloss': 0.04132124742394999}
+{'type': 'train', 'e': 708, 'avgloss': 0.043925032803886814}
+{'type': 'train', 'e': 709, 'avgloss': 0.04159265952674966}
+{'type': 'val', 'e': 710, 'avgloss': 0.04034663962298318, 'avgvalmse': np.float32(0.21028018), 'beforemse': np.float32(0.2633879)}
+{'type': 'train', 'e': 711, 'avgloss': 0.039514482609535516}
+{'type': 'train', 'e': 712, 'avgloss': 0.04058613294833585}
+{'type': 'train', 'e': 713, 'avgloss': 0.04091679461692509}
+{'type': 'train', 'e': 714, 'avgloss': 0.03880425846498264}
+{'type': 'train', 'e': 715, 'avgloss': 0.03969254325094976}
+{'type': 'train', 'e': 716, 'avgloss': 0.04166921012495693}
+{'type': 'train', 'e': 717, 'avgloss': 0.0441724561939114}
+{'type': 'train', 'e': 718, 'avgloss': 0.04143583803976837}
+{'type': 'train', 'e': 719, 'avgloss': 0.0404796565049573}
+{'type': 'val', 'e': 720, 'avgloss': 0.042382022660029564, 'avgvalmse': np.float32(0.24286914), 'beforemse': np.float32(0.29430112)}
+{'type': 'train', 'e': 721, 'avgloss': 0.03912302302686792}
+{'type': 'train', 'e': 722, 'avgloss': 0.04187555591526784}
+{'type': 'train', 'e': 723, 'avgloss': 0.040278163983633646}
+{'type': 'train', 'e': 724, 'avgloss': 0.041578988103490123}
+{'type': 'train', 'e': 725, 'avgloss': 0.04164257822068114}
+{'type': 'train', 'e': 726, 'avgloss': 0.04239687911773983}
+{'type': 'train', 'e': 727, 'avgloss': 0.03960088356152961}
+{'type': 'train', 'e': 728, 'avgloss': 0.040108267806078256}
+{'type': 'train', 'e': 729, 'avgloss': 0.040409441057004426}
+{'type': 'val', 'e': 730, 'avgloss': 0.04308007677134715, 'avgvalmse': np.float32(0.21439022), 'beforemse': np.float32(0.29862377)}
+{'type': 'train', 'e': 731, 'avgloss': 0.03958979278410736}
+{'type': 'train', 'e': 732, 'avgloss': 0.04071570530925926}
+{'type': 'train', 'e': 733, 'avgloss': 0.03977577407893382}
+{'type': 'train', 'e': 734, 'avgloss': 0.038726226867813816}
+{'type': 'train', 'e': 735, 'avgloss': 0.038631024917489605}
+{'type': 'train', 'e': 736, 'avgloss': 0.039955709129571915}
+{'type': 'train', 'e': 737, 'avgloss': 0.039892281258576794}
+{'type': 'train', 'e': 738, 'avgloss': 0.04173406664478151}
+{'type': 'train', 'e': 739, 'avgloss': 0.03911702844657396}
+{'type': 'val', 'e': 740, 'avgloss': 0.04282704779976293, 'avgvalmse': np.float32(0.26674792), 'beforemse': np.float32(0.30563208)}
+{'type': 'train', 'e': 741, 'avgloss': 0.03886932556174303}
+{'type': 'train', 'e': 742, 'avgloss': 0.03860618095648916}
+{'type': 'train', 'e': 743, 'avgloss': 0.04233409680033985}
+{'type': 'train', 'e': 744, 'avgloss': 0.0428226399970682}
+{'type': 'train', 'e': 745, 'avgloss': 0.040262966759895026}
+{'type': 'train', 'e': 746, 'avgloss': 0.040649923937101116}
+{'type': 'train', 'e': 747, 'avgloss': 0.04204677221806426}
+{'type': 'train', 'e': 748, 'avgloss': 0.039442886255289376}
+{'type': 'train', 'e': 749, 'avgloss': 0.040587619731300754}
+{'type': 'val', 'e': 750, 'avgloss': 0.038689525994031054, 'avgvalmse': np.float32(0.23154391), 'beforemse': np.float32(0.31699577)}
+{'type': 'train', 'e': 751, 'avgloss': 0.03860110867964594}
+{'type': 'train', 'e': 752, 'avgloss': 0.039342776627132765}
+{'type': 'train', 'e': 753, 'avgloss': 0.039574391257606055}
+{'type': 'train', 'e': 754, 'avgloss': 0.03909387831625186}
+{'type': 'train', 'e': 755, 'avgloss': 0.039784305581921024}
+{'type': 'train', 'e': 756, 'avgloss': 0.039500172593091666}
+{'type': 'train', 'e': 757, 'avgloss': 0.037678635336066545}
+{'type': 'train', 'e': 758, 'avgloss': 0.04092301604779143}
+{'type': 'train', 'e': 759, 'avgloss': 0.03908172524289081}
+{'type': 'val', 'e': 760, 'avgloss': 0.03903389271152647, 'avgvalmse': np.float32(0.2519543), 'beforemse': np.float32(0.36103082)}
+{'type': 'train', 'e': 761, 'avgloss': 0.041727321516526375}
+{'type': 'train', 'e': 762, 'avgloss': 0.03905598015377396}
+{'type': 'train', 'e': 763, 'avgloss': 0.03724600090400169}
+{'type': 'train', 'e': 764, 'avgloss': 0.04106266894622853}
+{'type': 'train', 'e': 765, 'avgloss': 0.040154090249224714}
+{'type': 'train', 'e': 766, 'avgloss': 0.0394322360424619}
+{'type': 'train', 'e': 767, 'avgloss': 0.04080970683380177}
+{'type': 'train', 'e': 768, 'avgloss': 0.04103318258727852}
+{'type': 'train', 'e': 769, 'avgloss': 0.037232537802897}
+{'type': 'val', 'e': 770, 'avgloss': 0.039650106704548785, 'avgvalmse': np.float32(0.28447717), 'beforemse': np.float32(0.35455832)}
+{'type': 'train', 'e': 771, 'avgloss': 0.03775258146618542}
+{'type': 'train', 'e': 772, 'avgloss': 0.0406956915792666}
+{'type': 'train', 'e': 773, 'avgloss': 0.03940172571884958}
+{'type': 'train', 'e': 774, 'avgloss': 0.038057740483629074}
+{'type': 'train', 'e': 775, 'avgloss': 0.0383370946112432}
+{'type': 'train', 'e': 776, 'avgloss': 0.0398026159719417}
+{'type': 'train', 'e': 777, 'avgloss': 0.03987279269648226}
+{'type': 'train', 'e': 778, 'avgloss': 0.03615769390997134}
+{'type': 'train', 'e': 779, 'avgloss': 0.03772222907527497}
+{'type': 'val', 'e': 780, 'avgloss': 0.04153182730078697, 'avgvalmse': np.float32(0.27265105), 'beforemse': np.float32(0.3596611)}
+{'type': 'train', 'e': 781, 'avgloss': 0.03867818709266813}
+{'type': 'train', 'e': 782, 'avgloss': 0.04010178011498953}
+{'type': 'train', 'e': 783, 'avgloss': 0.037699131000983085}
+{'type': 'train', 'e': 784, 'avgloss': 0.039105927669688276}
+{'type': 'train', 'e': 785, 'avgloss': 0.03868980431242993}
+{'type': 'train', 'e': 786, 'avgloss': 0.03921129966252729}
+{'type': 'train', 'e': 787, 'avgloss': 0.0389567039122707}
+{'type': 'train', 'e': 788, 'avgloss': 0.03784215842422686}
+{'type': 'train', 'e': 789, 'avgloss': 0.03993592744595126}
+{'type': 'val', 'e': 790, 'avgloss': 0.038271512934251836, 'avgvalmse': np.float32(0.22604094), 'beforemse': np.float32(0.27667952)}
+{'type': 'train', 'e': 791, 'avgloss': 0.04108443326855961}
+{'type': 'train', 'e': 792, 'avgloss': 0.039149141037150434}
+{'type': 'train', 'e': 793, 'avgloss': 0.04115514133713747}
+{'type': 'train', 'e': 794, 'avgloss': 0.038682512742908376}
+{'type': 'train', 'e': 795, 'avgloss': 0.03965909563397106}
+{'type': 'train', 'e': 796, 'avgloss': 0.04019032271676942}
+{'type': 'train', 'e': 797, 'avgloss': 0.0384879395561783}
+{'type': 'train', 'e': 798, 'avgloss': 0.04056946011750322}
+{'type': 'train', 'e': 799, 'avgloss': 0.037090029077310314}
+{'type': 'val', 'e': 800, 'avgloss': 0.03649950723506903, 'avgvalmse': np.float32(0.24441011), 'beforemse': np.float32(0.34205624)}
+{'type': 'train', 'e': 801, 'avgloss': 0.03928078671819285}
+{'type': 'train', 'e': 802, 'avgloss': 0.03858043714181373}
+{'type': 'train', 'e': 803, 'avgloss': 0.04013371898939735}
+{'type': 'train', 'e': 804, 'avgloss': 0.04089729036939772}
+{'type': 'train', 'e': 805, 'avgloss': 0.040566786045306606}
+{'type': 'train', 'e': 806, 'avgloss': 0.03971044895680327}
+{'type': 'train', 'e': 807, 'avgloss': 0.03607239417339626}
+{'type': 'train', 'e': 808, 'avgloss': 0.0369706558749864}
+{'type': 'train', 'e': 809, 'avgloss': 0.03933122832524149}
+{'type': 'val', 'e': 810, 'avgloss': 0.036823952276455726, 'avgvalmse': np.float32(0.21220642), 'beforemse': np.float32(0.28615442)}
+{'type': 'train', 'e': 811, 'avgloss': 0.03694521096584044}
+{'type': 'train', 'e': 812, 'avgloss': 0.04124434184479086}
+{'type': 'train', 'e': 813, 'avgloss': 0.040602248358099086}
+{'type': 'train', 'e': 814, 'avgloss': 0.038586859150152454}
+{'type': 'train', 'e': 815, 'avgloss': 0.03805190285569743}
+{'type': 'train', 'e': 816, 'avgloss': 0.040406367692508195}
+{'type': 'train', 'e': 817, 'avgloss': 0.03855077726276297}
+{'type': 'train', 'e': 818, 'avgloss': 0.03632695188647822}
+{'type': 'train', 'e': 819, 'avgloss': 0.039301840294348564}
+{'type': 'val', 'e': 820, 'avgloss': 0.037416709488944, 'avgvalmse': np.float32(0.2704043), 'beforemse': np.float32(0.34044454)}
+{'type': 'train', 'e': 821, 'avgloss': 0.03856344785737364}
+{'type': 'train', 'e': 822, 'avgloss': 0.03775064735428283}
+{'type': 'train', 'e': 823, 'avgloss': 0.0378545403088394}
+{'type': 'train', 'e': 824, 'avgloss': 0.037881390240631606}
+{'type': 'train', 'e': 825, 'avgloss': 0.03927136016519446}
+{'type': 'train', 'e': 826, 'avgloss': 0.03741546141866006}
+{'type': 'train', 'e': 827, 'avgloss': 0.03908428432125794}
+{'type': 'train', 'e': 828, 'avgloss': 0.039153261992492173}
+{'type': 'train', 'e': 829, 'avgloss': 0.039851612754558265}
+{'type': 'val', 'e': 830, 'avgloss': 0.039062966249491037, 'avgvalmse': np.float32(0.22475709), 'beforemse': np.float32(0.32835147)}
+{'type': 'train', 'e': 831, 'avgloss': 0.03472471345019968}
+{'type': 'train', 'e': 832, 'avgloss': 0.036884889006614685}
+{'type': 'train', 'e': 833, 'avgloss': 0.0388586001568719}
+{'type': 'train', 'e': 834, 'avgloss': 0.036297176327360306}
+{'type': 'train', 'e': 835, 'avgloss': 0.038781646933210526}
+{'type': 'train', 'e': 836, 'avgloss': 0.03740857159228701}
+{'type': 'train', 'e': 837, 'avgloss': 0.03631592287044776}
+{'type': 'train', 'e': 838, 'avgloss': 0.038378572973765825}
+{'type': 'train', 'e': 839, 'avgloss': 0.03588072279174077}
+{'type': 'val', 'e': 840, 'avgloss': 0.03551656017570119, 'avgvalmse': np.float32(0.19150996), 'beforemse': np.float32(0.26151088)}
+{'type': 'train', 'e': 841, 'avgloss': 0.03404002175911477}
+{'type': 'train', 'e': 842, 'avgloss': 0.03667749778220528}
+{'type': 'train', 'e': 843, 'avgloss': 0.03767222617017595}
+{'type': 'train', 'e': 844, 'avgloss': 0.03668120905364815}
+{'type': 'train', 'e': 845, 'avgloss': 0.03508059719675466}
+{'type': 'train', 'e': 846, 'avgloss': 0.04053535567302453}
+{'type': 'train', 'e': 847, 'avgloss': 0.03627535877259154}
+{'type': 'train', 'e': 848, 'avgloss': 0.036262125463077895}
+{'type': 'train', 'e': 849, 'avgloss': 0.03827056680854998}
+{'type': 'val', 'e': 850, 'avgloss': 0.03609042016691283, 'avgvalmse': np.float32(0.2475512), 'beforemse': np.float32(0.29716694)}
+{'type': 'train', 'e': 851, 'avgloss': 0.03786349071091727}
+{'type': 'train', 'e': 852, 'avgloss': 0.03748441311089616}
+{'type': 'train', 'e': 853, 'avgloss': 0.036147632194977054}
+{'type': 'train', 'e': 854, 'avgloss': 0.03672164825624541}
+{'type': 'train', 'e': 855, 'avgloss': 0.03617743687017968}
+{'type': 'train', 'e': 856, 'avgloss': 0.03788808566567145}
+{'type': 'train', 'e': 857, 'avgloss': 0.036801421524662724}
+{'type': 'train', 'e': 858, 'avgloss': 0.03673376093961691}
+{'type': 'train', 'e': 859, 'avgloss': 0.03727867954263562}
+{'type': 'val', 'e': 860, 'avgloss': 0.03824337640483128, 'avgvalmse': np.float32(0.33072305), 'beforemse': np.float32(0.32896256)}
+{'type': 'train', 'e': 861, 'avgloss': 0.04092243098114666}
+{'type': 'train', 'e': 862, 'avgloss': 0.03564446537118209}
+{'type': 'train', 'e': 863, 'avgloss': 0.03804621639612474}
+{'type': 'train', 'e': 864, 'avgloss': 0.03767882463963408}
+{'type': 'train', 'e': 865, 'avgloss': 0.03732986071784245}
+{'type': 'train', 'e': 866, 'avgloss': 0.03794915582004346}
+{'type': 'train', 'e': 867, 'avgloss': 0.03863753427408243}
+{'type': 'train', 'e': 868, 'avgloss': 0.03436395584752685}
+{'type': 'train', 'e': 869, 'avgloss': 0.03473411265172457}
+{'type': 'val', 'e': 870, 'avgloss': 0.03406276857774509, 'avgvalmse': np.float32(0.27838525), 'beforemse': np.float32(0.35646662)}
+{'type': 'train', 'e': 871, 'avgloss': 0.03634592312339105}
+{'type': 'train', 'e': 872, 'avgloss': 0.03613185627680076}
+{'type': 'train', 'e': 873, 'avgloss': 0.03417371223239522}
+{'type': 'train', 'e': 874, 'avgloss': 0.036538277605646534}
+{'type': 'train', 'e': 875, 'avgloss': 0.034409483796671816}
+{'type': 'train', 'e': 876, 'avgloss': 0.03508011271294795}
+{'type': 'train', 'e': 877, 'avgloss': 0.03751267237882865}
+{'type': 'train', 'e': 878, 'avgloss': 0.036058675595804265}
+{'type': 'train', 'e': 879, 'avgloss': 0.036158656603411624}
+{'type': 'val', 'e': 880, 'avgloss': 0.03690921123090543, 'avgvalmse': np.float32(0.27315116), 'beforemse': np.float32(0.299317)}
+{'type': 'train', 'e': 881, 'avgloss': 0.035697295673583686}
+{'type': 'train', 'e': 882, 'avgloss': 0.03646960521214887}
+{'type': 'train', 'e': 883, 'avgloss': 0.034008687754210676}
+{'type': 'train', 'e': 884, 'avgloss': 0.03461609447472974}
+{'type': 'train', 'e': 885, 'avgloss': 0.03358101982035135}
+{'type': 'train', 'e': 886, 'avgloss': 0.03377362203441168}
+{'type': 'train', 'e': 887, 'avgloss': 0.034550841995760015}
+{'type': 'train', 'e': 888, 'avgloss': 0.03518393018135899}
+{'type': 'train', 'e': 889, 'avgloss': 0.0359005115338062}
+{'type': 'val', 'e': 890, 'avgloss': 0.03703586208192926, 'avgvalmse': np.float32(0.25478753), 'beforemse': np.float32(0.31758144)}
+{'type': 'train', 'e': 891, 'avgloss': 0.03588851256982276}
+{'type': 'train', 'e': 892, 'avgloss': 0.035025246539398244}
+{'type': 'train', 'e': 893, 'avgloss': 0.03686115086862916}
+{'type': 'train', 'e': 894, 'avgloss': 0.037245130558547224}
+{'type': 'train', 'e': 895, 'avgloss': 0.03492575364285394}
+{'type': 'train', 'e': 896, 'avgloss': 0.036028616816589705}
+{'type': 'train', 'e': 897, 'avgloss': 0.033928406375803445}
+{'type': 'train', 'e': 898, 'avgloss': 0.035368910353434715}
+{'type': 'train', 'e': 899, 'avgloss': 0.03495106444154915}
+{'type': 'val', 'e': 900, 'avgloss': 0.03585798773718508, 'avgvalmse': np.float32(0.22868125), 'beforemse': np.float32(0.2947094)}
+{'type': 'train', 'e': 901, 'avgloss': 0.0383503580171811}
+{'type': 'train', 'e': 902, 'avgloss': 0.036266380626904335}
+{'type': 'train', 'e': 903, 'avgloss': 0.03620481128363233}
+{'type': 'train', 'e': 904, 'avgloss': 0.035607188547912394}
+{'type': 'train', 'e': 905, 'avgloss': 0.03629158701943724}
+{'type': 'train', 'e': 906, 'avgloss': 0.034209525898883215}
+{'type': 'train', 'e': 907, 'avgloss': 0.036026982590556145}
+{'type': 'train', 'e': 908, 'avgloss': 0.0384554239480119}
+{'type': 'train', 'e': 909, 'avgloss': 0.03366023860871792}
+{'type': 'val', 'e': 910, 'avgloss': 0.0376266815552586, 'avgvalmse': np.float32(0.26413432), 'beforemse': np.float32(0.34782186)}
+{'type': 'train', 'e': 911, 'avgloss': 0.03388434256377973}
+{'type': 'train', 'e': 912, 'avgloss': 0.0347209183597251}
+{'type': 'train', 'e': 913, 'avgloss': 0.034116636079392935}
+{'type': 'train', 'e': 914, 'avgloss': 0.03414612077176571}
+{'type': 'train', 'e': 915, 'avgloss': 0.03750432527771121}
+{'type': 'train', 'e': 916, 'avgloss': 0.03671456726365968}
+{'type': 'train', 'e': 917, 'avgloss': 0.03465179657857669}
+{'type': 'train', 'e': 918, 'avgloss': 0.0338950751251296}
+{'type': 'train', 'e': 919, 'avgloss': 0.034760891312831325}
+{'type': 'val', 'e': 920, 'avgloss': 0.03478645141187467, 'avgvalmse': np.float32(0.24730544), 'beforemse': np.float32(0.29394886)}
+{'type': 'train', 'e': 921, 'avgloss': 0.03515198660132132}
+{'type': 'train', 'e': 922, 'avgloss': 0.036689913978702145}
+{'type': 'train', 'e': 923, 'avgloss': 0.03273050202743003}
+{'type': 'train', 'e': 924, 'avgloss': 0.035021236362425906}
+{'type': 'train', 'e': 925, 'avgloss': 0.03646804843293993}
+{'type': 'train', 'e': 926, 'avgloss': 0.038639670532000694}
+{'type': 'train', 'e': 927, 'avgloss': 0.03888346921456488}
+{'type': 'train', 'e': 928, 'avgloss': 0.0386008423213896}
+{'type': 'train', 'e': 929, 'avgloss': 0.034715451888347924}
+{'type': 'val', 'e': 930, 'avgloss': 0.03564416705385635, 'avgvalmse': np.float32(0.24092643), 'beforemse': np.float32(0.31820413)}
+{'type': 'train', 'e': 931, 'avgloss': 0.03541217626709687}
+{'type': 'train', 'e': 932, 'avgloss': 0.0348425418334572}
+{'type': 'train', 'e': 933, 'avgloss': 0.03435816635426722}
+{'type': 'train', 'e': 934, 'avgloss': 0.03570044893575342}
+{'type': 'train', 'e': 935, 'avgloss': 0.03616396210303432}
+{'type': 'train', 'e': 936, 'avgloss': 0.03629885319816439}
+{'type': 'train', 'e': 937, 'avgloss': 0.033494814250030015}
+{'type': 'train', 'e': 938, 'avgloss': 0.03455085189718949}
+{'type': 'train', 'e': 939, 'avgloss': 0.03486333512946179}
+{'type': 'val', 'e': 940, 'avgloss': 0.03428306636449538, 'avgvalmse': np.float32(0.2384249), 'beforemse': np.float32(0.31168425)}
+{'type': 'train', 'e': 941, 'avgloss': 0.034623424277493826}
+{'type': 'train', 'e': 942, 'avgloss': 0.033777485356519095}
+{'type': 'train', 'e': 943, 'avgloss': 0.03701806931119216}
+{'type': 'train', 'e': 944, 'avgloss': 0.035377412054099534}
+{'type': 'train', 'e': 945, 'avgloss': 0.03615686522894784}
+{'type': 'train', 'e': 946, 'avgloss': 0.03364726783413636}
+{'type': 'train', 'e': 947, 'avgloss': 0.03451337969224704}
+{'type': 'train', 'e': 948, 'avgloss': 0.03451919732125182}
+{'type': 'train', 'e': 949, 'avgloss': 0.035884734047086614}
+{'type': 'val', 'e': 950, 'avgloss': 0.03272258362879878, 'avgvalmse': np.float32(0.24032785), 'beforemse': np.float32(0.3282709)}
+{'type': 'train', 'e': 951, 'avgloss': 0.03274264274851272}
+{'type': 'train', 'e': 952, 'avgloss': 0.034796049916430524}
+{'type': 'train', 'e': 953, 'avgloss': 0.03448703708617311}
+{'type': 'train', 'e': 954, 'avgloss': 0.036674166392338906}
+{'type': 'train', 'e': 955, 'avgloss': 0.03480050389311815}
+{'type': 'train', 'e': 956, 'avgloss': 0.03597636099316572}
+{'type': 'train', 'e': 957, 'avgloss': 0.0333545584427683}
+{'type': 'train', 'e': 958, 'avgloss': 0.03458415756100103}
+{'type': 'train', 'e': 959, 'avgloss': 0.03593071108978046}
+{'type': 'val', 'e': 960, 'avgloss': 0.03514048819871325, 'avgvalmse': np.float32(0.24740475), 'beforemse': np.float32(0.314834)}
+{'type': 'train', 'e': 961, 'avgloss': 0.03408771184714217}
+{'type': 'train', 'e': 962, 'avgloss': 0.03456993293213217}
+{'type': 'train', 'e': 963, 'avgloss': 0.033303653821349144}
+{'type': 'train', 'e': 964, 'avgloss': 0.034088780025118275}
+{'type': 'train', 'e': 965, 'avgloss': 0.03260866964333936}
+{'type': 'train', 'e': 966, 'avgloss': 0.03321342611391293}
+{'type': 'train', 'e': 967, 'avgloss': 0.034622392764216976}
+{'type': 'train', 'e': 968, 'avgloss': 0.034722284756992995}
+{'type': 'train', 'e': 969, 'avgloss': 0.033299720012827924}
+{'type': 'val', 'e': 970, 'avgloss': 0.03245633840560913, 'avgvalmse': np.float32(0.28118336), 'beforemse': np.float32(0.37496385)}
+{'type': 'train', 'e': 971, 'avgloss': 0.03463082015514374}
+{'type': 'train', 'e': 972, 'avgloss': 0.03282494607724642}
+{'type': 'train', 'e': 973, 'avgloss': 0.03317687934950778}
+{'type': 'train', 'e': 974, 'avgloss': 0.034009316838101336}
+{'type': 'train', 'e': 975, 'avgloss': 0.03530324044588365}
+{'type': 'train', 'e': 976, 'avgloss': 0.03404822220143519}
+{'type': 'train', 'e': 977, 'avgloss': 0.03420096724049041}
+{'type': 'train', 'e': 978, 'avgloss': 0.03518293297996646}
+{'type': 'train', 'e': 979, 'avgloss': 0.03275038948968837}
+{'type': 'val', 'e': 980, 'avgloss': 0.033702752209807695, 'avgvalmse': np.float32(0.24101603), 'beforemse': np.float32(0.32104418)}
+{'type': 'train', 'e': 981, 'avgloss': 0.03139733238831947}
+{'type': 'train', 'e': 982, 'avgloss': 0.03429731177656274}
+{'type': 'train', 'e': 983, 'avgloss': 0.033197611570358276}
+{'type': 'train', 'e': 984, 'avgloss': 0.03504906437898937}
+{'type': 'train', 'e': 985, 'avgloss': 0.03190072763123011}
+{'type': 'train', 'e': 986, 'avgloss': 0.0316302430276808}
+{'type': 'train', 'e': 987, 'avgloss': 0.03319866269042617}
+{'type': 'train', 'e': 988, 'avgloss': 0.03615575999413666}
+{'type': 'train', 'e': 989, 'avgloss': 0.03549957481261931}
+{'type': 'val', 'e': 990, 'avgloss': 0.0334349528543259, 'avgvalmse': np.float32(0.25652644), 'beforemse': np.float32(0.34503874)}
+{'type': 'train', 'e': 991, 'avgloss': 0.0335352612953437}
+{'type': 'train', 'e': 992, 'avgloss': 0.03285596588332402}
+{'type': 'train', 'e': 993, 'avgloss': 0.03369982050437676}
+{'type': 'train', 'e': 994, 'avgloss': 0.03416174032578343}
+{'type': 'train', 'e': 995, 'avgloss': 0.03403114282379025}
+{'type': 'train', 'e': 996, 'avgloss': 0.03218614692358594}
+{'type': 'train', 'e': 997, 'avgloss': 0.034135589278058}
+{'type': 'train', 'e': 998, 'avgloss': 0.032826269045472145}
+{'type': 'train', 'e': 999, 'avgloss': 0.03273588879720161}
+{'type': 'val', 'e': 1000, 'avgloss': 0.03301305265018815, 'avgvalmse': np.float32(0.21766014), 'beforemse': np.float32(0.30676687)}
+{'type': 'train', 'e': 1001, 'avgloss': 0.03070673248485515}
+{'type': 'train', 'e': 1002, 'avgloss': 0.03409006368172796}
+{'type': 'train', 'e': 1003, 'avgloss': 0.034539104292267246}
+{'type': 'train', 'e': 1004, 'avgloss': 0.03364516186871027}
+{'type': 'train', 'e': 1005, 'avgloss': 0.035104179068615564}
+{'type': 'train', 'e': 1006, 'avgloss': 0.03498821538922034}
+{'type': 'train', 'e': 1007, 'avgloss': 0.03104752547254688}
+{'type': 'train', 'e': 1008, 'avgloss': 0.03352713045713149}
+{'type': 'train', 'e': 1009, 'avgloss': 0.0336335874897869}
+{'type': 'val', 'e': 1010, 'avgloss': 0.03054049316989748, 'avgvalmse': np.float32(0.26588097), 'beforemse': np.float32(0.30986387)}
+{'type': 'train', 'e': 1011, 'avgloss': 0.03388110381600104}
+{'type': 'train', 'e': 1012, 'avgloss': 0.031918911655482496}
+{'type': 'train', 'e': 1013, 'avgloss': 0.033056771676791344}
+{'type': 'train', 'e': 1014, 'avgloss': 0.03182912490477687}
+{'type': 'train', 'e': 1015, 'avgloss': 0.031738355853839925}
+{'type': 'train', 'e': 1016, 'avgloss': 0.03121687814985451}
+{'type': 'train', 'e': 1017, 'avgloss': 0.033807577369244474}
+{'type': 'train', 'e': 1018, 'avgloss': 0.03291912582751952}
+{'type': 'train', 'e': 1019, 'avgloss': 0.03164709780953432}
+{'type': 'val', 'e': 1020, 'avgloss': 0.03349522373786098, 'avgvalmse': np.float32(0.198951), 'beforemse': np.float32(0.2745304)}
+{'type': 'train', 'e': 1021, 'avgloss': 0.03312773561399234}
+{'type': 'train', 'e': 1022, 'avgloss': 0.034781470502677714}
+{'type': 'train', 'e': 1023, 'avgloss': 0.03143283822818806}
+{'type': 'train', 'e': 1024, 'avgloss': 0.03241574293688724}
+{'type': 'train', 'e': 1025, 'avgloss': 0.033658310967056376}
+{'type': 'train', 'e': 1026, 'avgloss': 0.03208082649660738}
+{'type': 'train', 'e': 1027, 'avgloss': 0.03193092159926891}
+{'type': 'train', 'e': 1028, 'avgloss': 0.03205122681040513}
+{'type': 'train', 'e': 1029, 'avgloss': 0.031079332883420744}
+{'type': 'val', 'e': 1030, 'avgloss': 0.0321122502025805, 'avgvalmse': np.float32(0.23861839), 'beforemse': np.float32(0.34138238)}
+{'type': 'train', 'e': 1031, 'avgloss': 0.032284625952965336}
+{'type': 'train', 'e': 1032, 'avgloss': 0.03218178490274831}
+{'type': 'train', 'e': 1033, 'avgloss': 0.033860733242411366}
+{'type': 'train', 'e': 1034, 'avgloss': 0.03166253090296921}
+{'type': 'train', 'e': 1035, 'avgloss': 0.031871903785749486}
+{'type': 'train', 'e': 1036, 'avgloss': 0.03308630166085143}
+{'type': 'train', 'e': 1037, 'avgloss': 0.03425878903975612}
+{'type': 'train', 'e': 1038, 'avgloss': 0.0337232950290567}
+{'type': 'train', 'e': 1039, 'avgloss': 0.031281158328056335}
+{'type': 'val', 'e': 1040, 'avgloss': 0.03067144633908021, 'avgvalmse': np.float32(0.24860726), 'beforemse': np.float32(0.31012607)}
+{'type': 'train', 'e': 1041, 'avgloss': 0.03331718721279973}
+{'type': 'train', 'e': 1042, 'avgloss': 0.03282801914764078}
+{'type': 'train', 'e': 1043, 'avgloss': 0.031425818114688524}
+{'type': 'train', 'e': 1044, 'avgloss': 0.029869769944956426}
+{'type': 'train', 'e': 1045, 'avgloss': 0.03205838554391736}
+{'type': 'train', 'e': 1046, 'avgloss': 0.030919662235598815}
+{'type': 'train', 'e': 1047, 'avgloss': 0.03274866066088802}
+{'type': 'train', 'e': 1048, 'avgloss': 0.030556273695669676}
+{'type': 'train', 'e': 1049, 'avgloss': 0.034401594416091315}
+{'type': 'val', 'e': 1050, 'avgloss': 0.032448235703142064, 'avgvalmse': np.float32(0.27552912), 'beforemse': np.float32(0.4232026)}
+{'type': 'train', 'e': 1051, 'avgloss': 0.03150703983479425}
+{'type': 'train', 'e': 1052, 'avgloss': 0.032263027504086494}
+{'type': 'train', 'e': 1053, 'avgloss': 0.031599794465460275}
+{'type': 'train', 'e': 1054, 'avgloss': 0.033374117589310595}
+{'type': 'train', 'e': 1055, 'avgloss': 0.033028583679544296}
+{'type': 'train', 'e': 1056, 'avgloss': 0.03282346537238673}
+{'type': 'train', 'e': 1057, 'avgloss': 0.0331320248936352}
+{'type': 'train', 'e': 1058, 'avgloss': 0.032336058291165454}
+{'type': 'train', 'e': 1059, 'avgloss': 0.032892073651677685}
+{'type': 'val', 'e': 1060, 'avgloss': 0.0328967553612433, 'avgvalmse': np.float32(0.27725855), 'beforemse': np.float32(0.40056983)}
+{'type': 'train', 'e': 1061, 'avgloss': 0.030436103379255848}
+{'type': 'train', 'e': 1062, 'avgloss': 0.03179807862953136}
+{'type': 'train', 'e': 1063, 'avgloss': 0.03185507184580753}
+{'type': 'train', 'e': 1064, 'avgloss': 0.03139447107126838}
+{'type': 'train', 'e': 1065, 'avgloss': 0.031160171094693635}
+{'type': 'train', 'e': 1066, 'avgloss': 0.03371312390816839}
+{'type': 'train', 'e': 1067, 'avgloss': 0.03439134790709144}
+{'type': 'train', 'e': 1068, 'avgloss': 0.032672721010289694}
+{'type': 'train', 'e': 1069, 'avgloss': 0.0313908410699744}
+{'type': 'val', 'e': 1070, 'avgloss': 0.03269132001227454, 'avgvalmse': np.float32(0.22394116), 'beforemse': np.float32(0.35669947)}
+{'type': 'train', 'e': 1071, 'avgloss': 0.032718148670698464}
+{'type': 'train', 'e': 1072, 'avgloss': 0.032083681343417415}
+{'type': 'train', 'e': 1073, 'avgloss': 0.03186448565439174}
+{'type': 'train', 'e': 1074, 'avgloss': 0.030727642931436237}
+{'type': 'train', 'e': 1075, 'avgloss': 0.03282744809985161}
+{'type': 'train', 'e': 1076, 'avgloss': 0.030785870493242617}
+{'type': 'train', 'e': 1077, 'avgloss': 0.03178733106898634}
+{'type': 'train', 'e': 1078, 'avgloss': 0.031078932708815524}
+{'type': 'train', 'e': 1079, 'avgloss': 0.030604993630396694}
+{'type': 'val', 'e': 1080, 'avgloss': 0.03153139293978089, 'avgvalmse': np.float32(0.30422425), 'beforemse': np.float32(0.39263466)}
+{'type': 'train', 'e': 1081, 'avgloss': 0.03399892161159139}
+{'type': 'train', 'e': 1082, 'avgloss': 0.032265583935536836}
+{'type': 'train', 'e': 1083, 'avgloss': 0.03313002049138671}
+{'type': 'train', 'e': 1084, 'avgloss': 0.03323187924137241}
+{'type': 'train', 'e': 1085, 'avgloss': 0.03141683849849199}
+{'type': 'train', 'e': 1086, 'avgloss': 0.034600590110609404}
+{'type': 'train', 'e': 1087, 'avgloss': 0.03311979692233236}
+{'type': 'train', 'e': 1088, 'avgloss': 0.030862577161506602}
+{'type': 'train', 'e': 1089, 'avgloss': 0.03186078722539701}
+{'type': 'val', 'e': 1090, 'avgloss': 0.03215287400311545, 'avgvalmse': np.float32(0.22415775), 'beforemse': np.float32(0.25101265)}
+{'type': 'train', 'e': 1091, 'avgloss': 0.031281965833745505}
+{'type': 'train', 'e': 1092, 'avgloss': 0.03336808271706104}
+{'type': 'train', 'e': 1093, 'avgloss': 0.032989552342577985}
+{'type': 'train', 'e': 1094, 'avgloss': 0.030919161282087628}
+{'type': 'train', 'e': 1095, 'avgloss': 0.03248047632606406}
+{'type': 'train', 'e': 1096, 'avgloss': 0.03203743549161836}
+{'type': 'train', 'e': 1097, 'avgloss': 0.029552732055124483}
+{'type': 'train', 'e': 1098, 'avgloss': 0.031293256306334546}
+{'type': 'train', 'e': 1099, 'avgloss': 0.032434147831640746}
+{'type': 'val', 'e': 1100, 'avgloss': 0.030124236192358166, 'avgvalmse': np.float32(0.23001982), 'beforemse': np.float32(0.32209253)}
+{'type': 'train', 'e': 1101, 'avgloss': 0.031389893865899035}
+{'type': 'train', 'e': 1102, 'avgloss': 0.03174559301451633}
+{'type': 'train', 'e': 1103, 'avgloss': 0.03130272560213741}
+{'type': 'train', 'e': 1104, 'avgloss': 0.029776761700448236}
+{'type': 'train', 'e': 1105, 'avgloss': 0.03144825573422407}
+{'type': 'train', 'e': 1106, 'avgloss': 0.03158466576745635}
+{'type': 'train', 'e': 1107, 'avgloss': 0.03214087307845291}
+{'type': 'train', 'e': 1108, 'avgloss': 0.02961840804078077}
+{'type': 'train', 'e': 1109, 'avgloss': 0.029441803791805318}
+{'type': 'val', 'e': 1110, 'avgloss': 0.030692011608104957, 'avgvalmse': np.float32(0.22825201), 'beforemse': np.float32(0.24517687)}
+{'type': 'train', 'e': 1111, 'avgloss': 0.03211223853653983}
+{'type': 'train', 'e': 1112, 'avgloss': 0.0320018111286979}
+{'type': 'train', 'e': 1113, 'avgloss': 0.03216820161201452}
+{'type': 'train', 'e': 1114, 'avgloss': 0.03061016658811193}
+{'type': 'train', 'e': 1115, 'avgloss': 0.0301899580579055}
+{'type': 'train', 'e': 1116, 'avgloss': 0.030968377758797846}
+{'type': 'train', 'e': 1117, 'avgloss': 0.02880189479573777}
+{'type': 'train', 'e': 1118, 'avgloss': 0.030933632760455732}
+{'type': 'train', 'e': 1119, 'avgloss': 0.03188349159532472}
+{'type': 'val', 'e': 1120, 'avgloss': 0.03325062294147516, 'avgvalmse': np.float32(0.26763728), 'beforemse': np.float32(0.3381103)}
+{'type': 'train', 'e': 1121, 'avgloss': 0.03198129899407688}
+{'type': 'train', 'e': 1122, 'avgloss': 0.029367861975180477}
+{'type': 'train', 'e': 1123, 'avgloss': 0.030332941561937332}
+{'type': 'train', 'e': 1124, 'avgloss': 0.03115640561047353}
+{'type': 'train', 'e': 1125, 'avgloss': 0.03104609515714018}
+{'type': 'train', 'e': 1126, 'avgloss': 0.028864981410534757}
+{'type': 'train', 'e': 1127, 'avgloss': 0.030680652609781214}
+{'type': 'train', 'e': 1128, 'avgloss': 0.03245289025730208}
+{'type': 'train', 'e': 1129, 'avgloss': 0.03167478651984742}
+{'type': 'val', 'e': 1130, 'avgloss': 0.031615983694791794, 'avgvalmse': np.float32(0.2259094), 'beforemse': np.float32(0.30732456)}
+{'type': 'train', 'e': 1131, 'avgloss': 0.03154647115029787}
+{'type': 'train', 'e': 1132, 'avgloss': 0.030596453108285602}
+{'type': 'train', 'e': 1133, 'avgloss': 0.030387650390988903}
+{'type': 'train', 'e': 1134, 'avgloss': 0.031829574586529484}
+{'type': 'train', 'e': 1135, 'avgloss': 0.03228489172301794}
+{'type': 'train', 'e': 1136, 'avgloss': 0.03278389553490438}
+{'type': 'train', 'e': 1137, 'avgloss': 0.030148969473023163}
+{'type': 'train', 'e': 1138, 'avgloss': 0.03031366279250697}
+{'type': 'train', 'e': 1139, 'avgloss': 0.030773218034913664}
+{'type': 'val', 'e': 1140, 'avgloss': 0.0324484823565734, 'avgvalmse': np.float32(0.2330728), 'beforemse': np.float32(0.34687734)}
+{'type': 'train', 'e': 1141, 'avgloss': 0.032418716110681235}
+{'type': 'train', 'e': 1142, 'avgloss': 0.0324634744932777}
+{'type': 'train', 'e': 1143, 'avgloss': 0.03209614694902772}
+{'type': 'train', 'e': 1144, 'avgloss': 0.03130357085089935}
+{'type': 'train', 'e': 1145, 'avgloss': 0.031088594445272497}
+{'type': 'train', 'e': 1146, 'avgloss': 0.032883012961400185}
+{'type': 'train', 'e': 1147, 'avgloss': 0.02996385920988886}
+{'type': 'train', 'e': 1148, 'avgloss': 0.029483892415699205}
+{'type': 'train', 'e': 1149, 'avgloss': 0.030979203844540996}
+{'type': 'val', 'e': 1150, 'avgloss': 0.03219715672496118, 'avgvalmse': np.float32(0.22479312), 'beforemse': np.float32(0.33414745)}
+{'type': 'train', 'e': 1151, 'avgloss': 0.030977462173292513}
+{'type': 'train', 'e': 1152, 'avgloss': 0.0324887831352259}
+{'type': 'train', 'e': 1153, 'avgloss': 0.03125045272080522}
+{'type': 'train', 'e': 1154, 'avgloss': 0.031784403579015484}
+{'type': 'train', 'e': 1155, 'avgloss': 0.03141687192807072}
+{'type': 'train', 'e': 1156, 'avgloss': 0.030128128238414462}
+{'type': 'train', 'e': 1157, 'avgloss': 0.029668303990834637}
+{'type': 'train', 'e': 1158, 'avgloss': 0.0302377072604079}
+{'type': 'train', 'e': 1159, 'avgloss': 0.029923257270925922}
+{'type': 'val', 'e': 1160, 'avgloss': 0.032751818530653655, 'avgvalmse': np.float32(0.22877556), 'beforemse': np.float32(0.29478583)}
+{'type': 'train', 'e': 1161, 'avgloss': 0.031931854882522634}
+{'type': 'train', 'e': 1162, 'avgloss': 0.028762315154859896}
+{'type': 'train', 'e': 1163, 'avgloss': 0.02988537224499803}
+{'type': 'train', 'e': 1164, 'avgloss': 0.03200251618890386}
+{'type': 'train', 'e': 1165, 'avgloss': 0.030499927797599843}
+{'type': 'train', 'e': 1166, 'avgloss': 0.033630512360679474}
+{'type': 'train', 'e': 1167, 'avgloss': 0.033501383995539265}
+{'type': 'train', 'e': 1168, 'avgloss': 0.03315755293557519}
+{'type': 'train', 'e': 1169, 'avgloss': 0.032553349572576974}
+{'type': 'val', 'e': 1170, 'avgloss': 0.03200942170070974, 'avgvalmse': np.float32(0.2340641), 'beforemse': np.float32(0.33823726)}
+{'type': 'train', 'e': 1171, 'avgloss': 0.030146776845580654}
+{'type': 'train', 'e': 1172, 'avgloss': 0.03246611062633364}
+{'type': 'train', 'e': 1173, 'avgloss': 0.03300455104755728}
+{'type': 'train', 'e': 1174, 'avgloss': 0.03349903245505534}
+{'type': 'train', 'e': 1175, 'avgloss': 0.03205548589558978}
+{'type': 'train', 'e': 1176, 'avgloss': 0.031646570190787315}
+{'type': 'train', 'e': 1177, 'avgloss': 0.03095281457430438}
+{'type': 'train', 'e': 1178, 'avgloss': 0.03110183206828017}
+{'type': 'train', 'e': 1179, 'avgloss': 0.030910529490364224}
+{'type': 'val', 'e': 1180, 'avgloss': 0.029478342615460094, 'avgvalmse': np.float32(0.26117805), 'beforemse': np.float32(0.38432503)}
+{'type': 'train', 'e': 1181, 'avgloss': 0.03170402210793997}
+{'type': 'train', 'e': 1182, 'avgloss': 0.027725956255668087}
+{'type': 'train', 'e': 1183, 'avgloss': 0.02966047323455936}
+{'type': 'train', 'e': 1184, 'avgloss': 0.03067601050593351}
+{'type': 'train', 'e': 1185, 'avgloss': 0.029438880615328487}
+{'type': 'train', 'e': 1186, 'avgloss': 0.03132421699793715}
+{'type': 'train', 'e': 1187, 'avgloss': 0.030535122183592694}
+{'type': 'train', 'e': 1188, 'avgloss': 0.02943953205096094}
+{'type': 'train', 'e': 1189, 'avgloss': 0.028338559069915822}
+{'type': 'val', 'e': 1190, 'avgloss': 0.029761996512350283, 'avgvalmse': np.float32(0.22347338), 'beforemse': np.float32(0.30253693)}
+{'type': 'train', 'e': 1191, 'avgloss': 0.031292667024229705}
+{'type': 'train', 'e': 1192, 'avgloss': 0.028865664805236616}
+{'type': 'train', 'e': 1193, 'avgloss': 0.029976863708151013}
+{'type': 'train', 'e': 1194, 'avgloss': 0.03265238278790524}
+{'type': 'train', 'e': 1195, 'avgloss': 0.0303780106141379}
+{'type': 'train', 'e': 1196, 'avgloss': 0.02933840130112673}
+{'type': 'train', 'e': 1197, 'avgloss': 0.030382408711471055}
+{'type': 'train', 'e': 1198, 'avgloss': 0.027181764868529218}
+{'type': 'train', 'e': 1199, 'avgloss': 0.03020992120237727}
+{'type': 'val', 'e': 1200, 'avgloss': 0.0312191426361862, 'avgvalmse': np.float32(0.25605524), 'beforemse': np.float32(0.28184855)}
+{'type': 'train', 'e': 1201, 'avgloss': 0.03061690406971856}
+{'type': 'train', 'e': 1202, 'avgloss': 0.029940313806659298}
+{'type': 'train', 'e': 1203, 'avgloss': 0.03173803087127836}
+{'type': 'train', 'e': 1204, 'avgloss': 0.0298482759022399}
+{'type': 'train', 'e': 1205, 'avgloss': 0.029662047267744417}
+{'type': 'train', 'e': 1206, 'avgloss': 0.028254255946529538}
+{'type': 'train', 'e': 1207, 'avgloss': 0.03095940431874049}
+{'type': 'train', 'e': 1208, 'avgloss': 0.028079595514818242}
+{'type': 'train', 'e': 1209, 'avgloss': 0.03007241769840843}
+{'type': 'val', 'e': 1210, 'avgloss': 0.029369624723729334, 'avgvalmse': np.float32(0.22720288), 'beforemse': np.float32(0.35718325)}
+{'type': 'train', 'e': 1211, 'avgloss': 0.028834211885144834}
+{'type': 'train', 'e': 1212, 'avgloss': 0.029125207741009563}
+{'type': 'train', 'e': 1213, 'avgloss': 0.02650788651877328}
+{'type': 'train', 'e': 1214, 'avgloss': 0.028400580055619542}
+{'type': 'train', 'e': 1215, 'avgloss': 0.02969842590391636}
+{'type': 'train', 'e': 1216, 'avgloss': 0.029425061847034254}
+{'type': 'train', 'e': 1217, 'avgloss': 0.029452104611616386}
+{'type': 'train', 'e': 1218, 'avgloss': 0.028139158495162662}
+{'type': 'train', 'e': 1219, 'avgloss': 0.02949012237551965}
+{'type': 'val', 'e': 1220, 'avgloss': 0.029100561906632624, 'avgvalmse': np.float32(0.23001106), 'beforemse': np.float32(0.31580052)}
+{'type': 'train', 'e': 1221, 'avgloss': 0.02846547784773927}
+{'type': 'train', 'e': 1222, 'avgloss': 0.029472604590026957}
+{'type': 'train', 'e': 1223, 'avgloss': 0.029816246836593275}
+{'type': 'train', 'e': 1224, 'avgloss': 0.03187791091438971}
+{'type': 'train', 'e': 1225, 'avgloss': 0.029438967179310948}
+{'type': 'train', 'e': 1226, 'avgloss': 0.030665334118039983}
+{'type': 'train', 'e': 1227, 'avgloss': 0.029338564821764043}
+{'type': 'train', 'e': 1228, 'avgloss': 0.031303483502645245}
+{'type': 'train', 'e': 1229, 'avgloss': 0.030524281392756262}
+{'type': 'val', 'e': 1230, 'avgloss': 0.026694128583920628, 'avgvalmse': np.float32(0.21556364), 'beforemse': np.float32(0.27812016)}
+{'type': 'train', 'e': 1231, 'avgloss': 0.02895549351447507}
+{'type': 'train', 'e': 1232, 'avgloss': 0.0296330226487235}
+{'type': 'train', 'e': 1233, 'avgloss': 0.030503817882977034}
+{'type': 'train', 'e': 1234, 'avgloss': 0.0309871129299465}
+{'type': 'train', 'e': 1235, 'avgloss': 0.029473098289025456}
+{'type': 'train', 'e': 1236, 'avgloss': 0.028741531270115}
+{'type': 'train', 'e': 1237, 'avgloss': 0.030875959482632186}
+{'type': 'train', 'e': 1238, 'avgloss': 0.02724281374953295}
+{'type': 'train', 'e': 1239, 'avgloss': 0.02993984010658766}
+{'type': 'val', 'e': 1240, 'avgloss': 0.0302498247474432, 'avgvalmse': np.float32(0.27543223), 'beforemse': np.float32(0.34877273)}
+{'type': 'train', 'e': 1241, 'avgloss': 0.029436579954467322}
+{'type': 'train', 'e': 1242, 'avgloss': 0.029802449635769192}
+{'type': 'train', 'e': 1243, 'avgloss': 0.030806049312415876}
+{'type': 'train', 'e': 1244, 'avgloss': 0.03138337500001255}
+{'type': 'train', 'e': 1245, 'avgloss': 0.031775903839029764}
+{'type': 'train', 'e': 1246, 'avgloss': 0.028636834927295383}
+{'type': 'train', 'e': 1247, 'avgloss': 0.029009201318809862}
+{'type': 'train', 'e': 1248, 'avgloss': 0.029201045632362366}
+{'type': 'train', 'e': 1249, 'avgloss': 0.028642414235755018}
+{'type': 'val', 'e': 1250, 'avgloss': 0.03241607105653537, 'avgvalmse': np.float32(0.23690318), 'beforemse': np.float32(0.3201569)}
+{'type': 'train', 'e': 1251, 'avgloss': 0.030701688539824988}
+{'type': 'train', 'e': 1252, 'avgloss': 0.02883725093775674}
+{'type': 'train', 'e': 1253, 'avgloss': 0.028083792250407368}
+{'type': 'train', 'e': 1254, 'avgloss': 0.027477016672492027}
+{'type': 'train', 'e': 1255, 'avgloss': 0.028100187547112767}
+{'type': 'train', 'e': 1256, 'avgloss': 0.02865589361049627}
+{'type': 'train', 'e': 1257, 'avgloss': 0.02909564746445731}
+{'type': 'train', 'e': 1258, 'avgloss': 0.03170503960236123}
+{'type': 'train', 'e': 1259, 'avgloss': 0.02823848110672675}
+{'type': 'val', 'e': 1260, 'avgloss': 0.029272065743019705, 'avgvalmse': np.float32(0.2200836), 'beforemse': np.float32(0.28751996)}
+{'type': 'train', 'e': 1261, 'avgloss': 0.02978877546755891}
+{'type': 'train', 'e': 1262, 'avgloss': 0.028366501394071077}
+{'type': 'train', 'e': 1263, 'avgloss': 0.03006533680385665}
+{'type': 'train', 'e': 1264, 'avgloss': 0.03113424944642343}
+{'type': 'train', 'e': 1265, 'avgloss': 0.030464321276859233}
+{'type': 'train', 'e': 1266, 'avgloss': 0.028108449652791023}
+{'type': 'train', 'e': 1267, 'avgloss': 0.029699976114850295}
+{'type': 'train', 'e': 1268, 'avgloss': 0.028787919565250997}
+{'type': 'train', 'e': 1269, 'avgloss': 0.03124609883678587}
+{'type': 'val', 'e': 1270, 'avgloss': 0.0298823608379615, 'avgvalmse': np.float32(0.26753893), 'beforemse': np.float32(0.3128809)}
+{'type': 'train', 'e': 1271, 'avgloss': 0.028285586814347067}
+{'type': 'train', 'e': 1272, 'avgloss': 0.029778113980826578}
+{'type': 'train', 'e': 1273, 'avgloss': 0.028626316864239543}
+{'type': 'train', 'e': 1274, 'avgloss': 0.027961754191078637}
+{'type': 'train', 'e': 1275, 'avgloss': 0.028642450214216585}
+{'type': 'train', 'e': 1276, 'avgloss': 0.03010355612557185}
+{'type': 'train', 'e': 1277, 'avgloss': 0.02813854578294252}
+{'type': 'train', 'e': 1278, 'avgloss': 0.029934082278295568}
+{'type': 'train', 'e': 1279, 'avgloss': 0.031245861496580273}
+{'type': 'val', 'e': 1280, 'avgloss': 0.030876991093942995, 'avgvalmse': np.float32(0.252179), 'beforemse': np.float32(0.3175051)}
+{'type': 'train', 'e': 1281, 'avgloss': 0.029017094522714615}
+{'type': 'train', 'e': 1282, 'avgloss': 0.029341795236656542}
+{'type': 'train', 'e': 1283, 'avgloss': 0.02993996529594848}
+{'type': 'train', 'e': 1284, 'avgloss': 0.028236552778827518}
+{'type': 'train', 'e': 1285, 'avgloss': 0.029831456216542346}
+{'type': 'train', 'e': 1286, 'avgloss': 0.029752357715838833}
+{'type': 'train', 'e': 1287, 'avgloss': 0.03105512526082365}
+{'type': 'train', 'e': 1288, 'avgloss': 0.02798096208195937}
+{'type': 'train', 'e': 1289, 'avgloss': 0.029480423778295517}
+{'type': 'val', 'e': 1290, 'avgloss': 0.027515504117074766, 'avgvalmse': np.float32(0.24301656), 'beforemse': np.float32(0.2834846)}
+{'type': 'train', 'e': 1291, 'avgloss': 0.02814059930020257}
+{'type': 'train', 'e': 1292, 'avgloss': 0.028054878507789812}
+{'type': 'train', 'e': 1293, 'avgloss': 0.02747016929482159}
+{'type': 'train', 'e': 1294, 'avgloss': 0.028640302486325566}
+{'type': 'train', 'e': 1295, 'avgloss': 0.029263883142879133}
+{'type': 'train', 'e': 1296, 'avgloss': 0.02817042858192795}
+{'type': 'train', 'e': 1297, 'avgloss': 0.03081943320208474}
+{'type': 'train', 'e': 1298, 'avgloss': 0.02812949391572099}
+{'type': 'train', 'e': 1299, 'avgloss': 0.028969124155609233}
+{'type': 'val', 'e': 1300, 'avgloss': 0.02838757075369358, 'avgvalmse': np.float32(0.21169262), 'beforemse': np.float32(0.27387437)}
+{'type': 'train', 'e': 1301, 'avgloss': 0.02708496398439533}
+{'type': 'train', 'e': 1302, 'avgloss': 0.028186259497153133}
+{'type': 'train', 'e': 1303, 'avgloss': 0.027958560538919347}
+{'type': 'train', 'e': 1304, 'avgloss': 0.028884646139646832}
+{'type': 'train', 'e': 1305, 'avgloss': 0.026682315296248385}
+{'type': 'train', 'e': 1306, 'avgloss': 0.027436654916719386}
+{'type': 'train', 'e': 1307, 'avgloss': 0.029488141011250645}
+{'type': 'train', 'e': 1308, 'avgloss': 0.02833482436835766}
+{'type': 'train', 'e': 1309, 'avgloss': 0.029958642725097507}
+{'type': 'val', 'e': 1310, 'avgloss': 0.029055197772226836, 'avgvalmse': np.float32(0.24315552), 'beforemse': np.float32(0.32532105)}
+{'type': 'train', 'e': 1311, 'avgloss': 0.02980948661110903}
+{'type': 'train', 'e': 1312, 'avgloss': 0.029933958461410122}
+{'type': 'train', 'e': 1313, 'avgloss': 0.03142309884883856}
+{'type': 'train', 'e': 1314, 'avgloss': 0.030933882060803865}
+{'type': 'train', 'e': 1315, 'avgloss': 0.031717929106793906}
+{'type': 'train', 'e': 1316, 'avgloss': 0.03114893610932325}
+{'type': 'train', 'e': 1317, 'avgloss': 0.03110510983357304}
+{'type': 'train', 'e': 1318, 'avgloss': 0.02775162576060546}
+{'type': 'train', 'e': 1319, 'avgloss': 0.028522474005034094}
+{'type': 'val', 'e': 1320, 'avgloss': 0.029629345493097054, 'avgvalmse': np.float32(0.22668053), 'beforemse': np.float32(0.2982485)}
+{'type': 'train', 'e': 1321, 'avgloss': 0.028680908248612757}
+{'type': 'train', 'e': 1322, 'avgloss': 0.028236016925228268}
+{'type': 'train', 'e': 1323, 'avgloss': 0.030129395915489448}
+{'type': 'train', 'e': 1324, 'avgloss': 0.024813394405339893}
+{'type': 'train', 'e': 1325, 'avgloss': 0.029003946404708058}
+{'type': 'train', 'e': 1326, 'avgloss': 0.02758805091051679}
+{'type': 'train', 'e': 1327, 'avgloss': 0.02953934336179181}
+{'type': 'train', 'e': 1328, 'avgloss': 0.029152560881093928}
+{'type': 'train', 'e': 1329, 'avgloss': 0.029512005809106324}
+{'type': 'val', 'e': 1330, 'avgloss': 0.030812616999212065, 'avgvalmse': np.float32(0.25722608), 'beforemse': np.float32(0.3361931)}
+{'type': 'train', 'e': 1331, 'avgloss': 0.02991926277938642}
+{'type': 'train', 'e': 1332, 'avgloss': 0.02960860591969992}
+{'type': 'train', 'e': 1333, 'avgloss': 0.02711159735918045}
+{'type': 'train', 'e': 1334, 'avgloss': 0.026775604310004336}
+{'type': 'train', 'e': 1335, 'avgloss': 0.02686202535895925}
+{'type': 'train', 'e': 1336, 'avgloss': 0.027825772076060896}
+{'type': 'train', 'e': 1337, 'avgloss': 0.028498495389756403}
+{'type': 'train', 'e': 1338, 'avgloss': 0.030410493380929295}
+{'type': 'train', 'e': 1339, 'avgloss': 0.029852297059015223}
+{'type': 'val', 'e': 1340, 'avgloss': 0.031083601575933005, 'avgvalmse': np.float32(0.29044855), 'beforemse': np.float32(0.41375557)}
+{'type': 'train', 'e': 1341, 'avgloss': 0.030876353579132182}
+{'type': 'train', 'e': 1342, 'avgloss': 0.02850107123192988}
+{'type': 'train', 'e': 1343, 'avgloss': 0.02961726006316511}
+{'type': 'train', 'e': 1344, 'avgloss': 0.028872723936250334}
+{'type': 'train', 'e': 1345, 'avgloss': 0.026919886077705183}
+{'type': 'train', 'e': 1346, 'avgloss': 0.027162765397837286}
+{'type': 'train', 'e': 1347, 'avgloss': 0.028452054450386448}
+{'type': 'train', 'e': 1348, 'avgloss': 0.029775989781084814}
+{'type': 'train', 'e': 1349, 'avgloss': 0.02831650613562057}
+{'type': 'val', 'e': 1350, 'avgloss': 0.027830745926813075, 'avgvalmse': np.float32(0.21175183), 'beforemse': np.float32(0.34286144)}
+{'type': 'train', 'e': 1351, 'avgloss': 0.02856363130635337}
+{'type': 'train', 'e': 1352, 'avgloss': 0.028122813980046072}
+{'type': 'train', 'e': 1353, 'avgloss': 0.029291343139974696}
+{'type': 'train', 'e': 1354, 'avgloss': 0.027505835322173017}
+{'type': 'train', 'e': 1355, 'avgloss': 0.02741750025827634}
+{'type': 'train', 'e': 1356, 'avgloss': 0.029187057265325597}
+{'type': 'train', 'e': 1357, 'avgloss': 0.025876100714269438}
+{'type': 'train', 'e': 1358, 'avgloss': 0.0258647662244345}
+{'type': 'train', 'e': 1359, 'avgloss': 0.026626423883594964}
+{'type': 'val', 'e': 1360, 'avgloss': 0.027406254097035055, 'avgvalmse': np.float32(0.25961816), 'beforemse': np.float32(0.31976533)}
+{'type': 'train', 'e': 1361, 'avgloss': 0.02617252372989529}
+{'type': 'train', 'e': 1362, 'avgloss': 0.027445024957782345}
+{'type': 'train', 'e': 1363, 'avgloss': 0.02764496197433848}
+{'type': 'train', 'e': 1364, 'avgloss': 0.027541641832182284}
+{'type': 'train', 'e': 1365, 'avgloss': 0.026977829733177236}
+{'type': 'train', 'e': 1366, 'avgloss': 0.026975153406199655}
+{'type': 'train', 'e': 1367, 'avgloss': 0.027614838590747433}
+{'type': 'train', 'e': 1368, 'avgloss': 0.026660457743625892}
+{'type': 'train', 'e': 1369, 'avgloss': 0.028050288263904422}
+{'type': 'val', 'e': 1370, 'avgloss': 0.029829518771485278, 'avgvalmse': np.float32(0.26248682), 'beforemse': np.float32(0.35275784)}
+{'type': 'train', 'e': 1371, 'avgloss': 0.0287616169570308}
+{'type': 'train', 'e': 1372, 'avgloss': 0.027661557162278576}
+{'type': 'train', 'e': 1373, 'avgloss': 0.026827771412698848}
+{'type': 'train', 'e': 1374, 'avgloss': 0.028481638647223775}
+{'type': 'train', 'e': 1375, 'avgloss': 0.02975056594923923}
+{'type': 'train', 'e': 1376, 'avgloss': 0.028807080693935092}
+{'type': 'train', 'e': 1377, 'avgloss': 0.028672180383613233}
+{'type': 'train', 'e': 1378, 'avgloss': 0.02799845035923155}
+{'type': 'train', 'e': 1379, 'avgloss': 0.028522153041864697}
+{'type': 'val', 'e': 1380, 'avgloss': 0.027796546291363865, 'avgvalmse': np.float32(0.23094195), 'beforemse': np.float32(0.36488196)}
+{'type': 'train', 'e': 1381, 'avgloss': 0.028026944712588663}
+{'type': 'train', 'e': 1382, 'avgloss': 0.026810749679019575}
+{'type': 'train', 'e': 1383, 'avgloss': 0.02696956762749898}
+{'type': 'train', 'e': 1384, 'avgloss': 0.02641910098885235}
+{'type': 'train', 'e': 1385, 'avgloss': 0.027286010549256678}
+{'type': 'train', 'e': 1386, 'avgloss': 0.026338634032167886}
+{'type': 'train', 'e': 1387, 'avgloss': 0.027096316904613848}
+{'type': 'train', 'e': 1388, 'avgloss': 0.029571816913391415}
+{'type': 'train', 'e': 1389, 'avgloss': 0.028481446598705492}
+{'type': 'val', 'e': 1390, 'avgloss': 0.02648272443758814, 'avgvalmse': np.float32(0.21247745), 'beforemse': np.float32(0.2991946)}
+{'type': 'train', 'e': 1391, 'avgloss': 0.02778974283290537}
+{'type': 'train', 'e': 1392, 'avgloss': 0.029095872060248728}
+{'type': 'train', 'e': 1393, 'avgloss': 0.027684617003327923}
+{'type': 'train', 'e': 1394, 'avgloss': 0.027657449343486837}
+{'type': 'train', 'e': 1395, 'avgloss': 0.025671087793613736}
+{'type': 'train', 'e': 1396, 'avgloss': 0.027528768503352216}
+{'type': 'train', 'e': 1397, 'avgloss': 0.02776096437714602}
+{'type': 'train', 'e': 1398, 'avgloss': 0.027201860750976362}
+{'type': 'train', 'e': 1399, 'avgloss': 0.026857057488278338}
+{'type': 'val', 'e': 1400, 'avgloss': 0.028334593792494974, 'avgvalmse': np.float32(0.2603626), 'beforemse': np.float32(0.31650612)}
+{'type': 'train', 'e': 1401, 'avgloss': 0.02770437515879932}
+{'type': 'train', 'e': 1402, 'avgloss': 0.029161650589422175}
+{'type': 'train', 'e': 1403, 'avgloss': 0.02513287294852106}
+{'type': 'train', 'e': 1404, 'avgloss': 0.029729240426891727}
+{'type': 'train', 'e': 1405, 'avgloss': 0.02769991588827811}
+{'type': 'train', 'e': 1406, 'avgloss': 0.02680973689022817}
+{'type': 'train', 'e': 1407, 'avgloss': 0.02615606882854512}
+{'type': 'train', 'e': 1408, 'avgloss': 0.03009404977293391}
+{'type': 'train', 'e': 1409, 'avgloss': 0.02870814472829041}
+{'type': 'val', 'e': 1410, 'avgloss': 0.027699044660518046, 'avgvalmse': np.float32(0.24918471), 'beforemse': np.float32(0.30857298)}
+{'type': 'train', 'e': 1411, 'avgloss': 0.02869777802966143}
+{'type': 'train', 'e': 1412, 'avgloss': 0.028154876671339337}
+{'type': 'train', 'e': 1413, 'avgloss': 0.027792065257304592}
+{'type': 'train', 'e': 1414, 'avgloss': 0.026967388430708332}
+{'type': 'train', 'e': 1415, 'avgloss': 0.027026328993471044}
+{'type': 'train', 'e': 1416, 'avgloss': 0.03073422944075183}
+{'type': 'train', 'e': 1417, 'avgloss': 0.027024285769776293}
+{'type': 'train', 'e': 1418, 'avgloss': 0.02973246525384878}
+{'type': 'train', 'e': 1419, 'avgloss': 0.026480541515507196}
+{'type': 'val', 'e': 1420, 'avgloss': 0.02768226840386265, 'avgvalmse': np.float32(0.25269094), 'beforemse': np.float32(0.34261373)}
+{'type': 'train', 'e': 1421, 'avgloss': 0.02847868517825478}
+{'type': 'train', 'e': 1422, 'avgloss': 0.027244196420437412}
+{'type': 'train', 'e': 1423, 'avgloss': 0.02705528665530054}
+{'type': 'train', 'e': 1424, 'avgloss': 0.026596367849331153}
+{'type': 'train', 'e': 1425, 'avgloss': 0.027156361525780277}
+{'type': 'train', 'e': 1426, 'avgloss': 0.026612982644062293}
+{'type': 'train', 'e': 1427, 'avgloss': 0.026862566016222302}
+{'type': 'train', 'e': 1428, 'avgloss': 0.02634030021727085}
+{'type': 'train', 'e': 1429, 'avgloss': 0.02856276203927241}
+{'type': 'val', 'e': 1430, 'avgloss': 0.02797000737566697, 'avgvalmse': np.float32(0.27945766), 'beforemse': np.float32(0.37735787)}
+{'type': 'train', 'e': 1431, 'avgloss': 0.026749206608847567}
+{'type': 'train', 'e': 1432, 'avgloss': 0.026714057906677847}
+{'type': 'train', 'e': 1433, 'avgloss': 0.027188086686165708}
+{'type': 'train', 'e': 1434, 'avgloss': 0.028728482068369265}
+{'type': 'train', 'e': 1435, 'avgloss': 0.02773151468289526}
+{'type': 'train', 'e': 1436, 'avgloss': 0.02930313584051634}
+{'type': 'train', 'e': 1437, 'avgloss': 0.025121763740715227}
+{'type': 'train', 'e': 1438, 'avgloss': 0.029759794963817848}
+{'type': 'train', 'e': 1439, 'avgloss': 0.027288749617965596}
+{'type': 'val', 'e': 1440, 'avgloss': 0.026587968300047674, 'avgvalmse': np.float32(0.24111874), 'beforemse': np.float32(0.33603075)}
+{'type': 'train', 'e': 1441, 'avgloss': 0.024896158983832913}
+{'type': 'train', 'e': 1442, 'avgloss': 0.027920453171981007}
+{'type': 'train', 'e': 1443, 'avgloss': 0.02775305342909537}
+{'type': 'train', 'e': 1444, 'avgloss': 0.028882900547040135}
+{'type': 'train', 'e': 1445, 'avgloss': 0.02705307206825206}
+{'type': 'train', 'e': 1446, 'avgloss': 0.02715964085961643}
+{'type': 'train', 'e': 1447, 'avgloss': 0.026133550330996513}
+{'type': 'train', 'e': 1448, 'avgloss': 0.026466026412029015}
+{'type': 'train', 'e': 1449, 'avgloss': 0.026522690528317502}
+{'type': 'val', 'e': 1450, 'avgloss': 0.028523443266749382, 'avgvalmse': np.float32(0.22764866), 'beforemse': np.float32(0.3236277)}
+{'type': 'train', 'e': 1451, 'avgloss': 0.02889010261156057}
+{'type': 'train', 'e': 1452, 'avgloss': 0.029764463046663685}
+{'type': 'train', 'e': 1453, 'avgloss': 0.028743429697657887}
+{'type': 'train', 'e': 1454, 'avgloss': 0.027059464176234446}
+{'type': 'train', 'e': 1455, 'avgloss': 0.02903796173632145}
+{'type': 'train', 'e': 1456, 'avgloss': 0.027627465364180114}
+{'type': 'train', 'e': 1457, 'avgloss': 0.026211576634331754}
+{'type': 'train', 'e': 1458, 'avgloss': 0.027299836375995687}
+{'type': 'train', 'e': 1459, 'avgloss': 0.02928807341346615}
+{'type': 'val', 'e': 1460, 'avgloss': 0.02750114586792494, 'avgvalmse': np.float32(0.27069673), 'beforemse': np.float32(0.34392357)}
+{'type': 'train', 'e': 1461, 'avgloss': 0.029104297490496384}
+{'type': 'train', 'e': 1462, 'avgloss': 0.02884288367472197}
+{'type': 'train', 'e': 1463, 'avgloss': 0.028663150279929762}
+{'type': 'train', 'e': 1464, 'avgloss': 0.030212123927317168}
+{'type': 'train', 'e': 1465, 'avgloss': 0.027584257094483627}
+{'type': 'train', 'e': 1466, 'avgloss': 0.02716833000120364}
+{'type': 'train', 'e': 1467, 'avgloss': 0.025483646184990282}
+{'type': 'train', 'e': 1468, 'avgloss': 0.02590217421713628}
+{'type': 'train', 'e': 1469, 'avgloss': 0.028205055743455887}
+{'type': 'val', 'e': 1470, 'avgloss': 0.02777008084874404, 'avgvalmse': np.float32(0.22676706), 'beforemse': np.float32(0.31876716)}
+{'type': 'train', 'e': 1471, 'avgloss': 0.025884347722718592}
+{'type': 'train', 'e': 1472, 'avgloss': 0.029598108835910495}
+{'type': 'train', 'e': 1473, 'avgloss': 0.026984236448218946}
+{'type': 'train', 'e': 1474, 'avgloss': 0.026138199101153173}
+{'type': 'train', 'e': 1475, 'avgloss': 0.027948735870028798}
+{'type': 'train', 'e': 1476, 'avgloss': 0.027481535743725926}
+{'type': 'train', 'e': 1477, 'avgloss': 0.02692998847679088}
+{'type': 'train', 'e': 1478, 'avgloss': 0.028778097151141418}
+{'type': 'train', 'e': 1479, 'avgloss': 0.02881797422703944}
+{'type': 'val', 'e': 1480, 'avgloss': 0.028405963590270596, 'avgvalmse': np.float32(0.25749865), 'beforemse': np.float32(0.34304872)}
+{'type': 'train', 'e': 1481, 'avgloss': 0.02845196867067563}
+{'type': 'train', 'e': 1482, 'avgloss': 0.026474404197774436}
+{'type': 'train', 'e': 1483, 'avgloss': 0.02685863240376899}
+{'type': 'train', 'e': 1484, 'avgloss': 0.02692217477842381}
+{'type': 'train', 'e': 1485, 'avgloss': 0.026311659989388364}
+{'type': 'train', 'e': 1486, 'avgloss': 0.027691518103605824}
+{'type': 'train', 'e': 1487, 'avgloss': 0.02922237968366397}
+{'type': 'train', 'e': 1488, 'avgloss': 0.028442158608844404}
+{'type': 'train', 'e': 1489, 'avgloss': 0.02884317169848241}
+{'type': 'val', 'e': 1490, 'avgloss': 0.028769624370493387, 'avgvalmse': np.float32(0.28861383), 'beforemse': np.float32(0.44010672)}
+{'type': 'train', 'e': 1491, 'avgloss': 0.029888272971699114}
+{'type': 'train', 'e': 1492, 'avgloss': 0.028642519720290836}
+{'type': 'train', 'e': 1493, 'avgloss': 0.028251516289616887}
+{'type': 'train', 'e': 1494, 'avgloss': 0.02990170499603999}
+{'type': 'train', 'e': 1495, 'avgloss': 0.02910146823054866}
+{'type': 'train', 'e': 1496, 'avgloss': 0.028287535141173163}
+{'type': 'train', 'e': 1497, 'avgloss': 0.027449893716134523}
+{'type': 'train', 'e': 1498, 'avgloss': 0.02698939528904463}
+{'type': 'train', 'e': 1499, 'avgloss': 0.026855476984852238}
+{'type': 'val', 'e': 1500, 'avgloss': 0.026642164901683207, 'avgvalmse': np.float32(0.30699703), 'beforemse': np.float32(0.31111562)}
+{'type': 'train', 'e': 1501, 'avgloss': 0.025373705123600206}
+{'type': 'train', 'e': 1502, 'avgloss': 0.02586724511102626}
+{'type': 'train', 'e': 1503, 'avgloss': 0.025772309911094214}
+{'type': 'train', 'e': 1504, 'avgloss': 0.026615246248088385}
+{'type': 'train', 'e': 1505, 'avgloss': 0.027056277386452023}
+{'type': 'train', 'e': 1506, 'avgloss': 0.026933947185936728}
+{'type': 'train', 'e': 1507, 'avgloss': 0.02530313841998577}
+{'type': 'train', 'e': 1508, 'avgloss': 0.025571852138167935}
+{'type': 'train', 'e': 1509, 'avgloss': 0.027424023633724766}
+{'type': 'val', 'e': 1510, 'avgloss': 0.027533281006311115, 'avgvalmse': np.float32(0.22681314), 'beforemse': np.float32(0.3138466)}
+{'type': 'train', 'e': 1511, 'avgloss': 0.024993079077256352}
+{'type': 'train', 'e': 1512, 'avgloss': 0.026280465780904417}
+{'type': 'train', 'e': 1513, 'avgloss': 0.027195884797133897}
+{'type': 'train', 'e': 1514, 'avgloss': 0.027915860967416512}
+{'type': 'train', 'e': 1515, 'avgloss': 0.029090174130703274}
+{'type': 'train', 'e': 1516, 'avgloss': 0.028224203245420205}
+{'type': 'train', 'e': 1517, 'avgloss': 0.025483108468745883}
+{'type': 'train', 'e': 1518, 'avgloss': 0.02612563330484064}
+{'type': 'train', 'e': 1519, 'avgloss': 0.028746072497022778}
+{'type': 'val', 'e': 1520, 'avgloss': 0.025397509336471558, 'avgvalmse': np.float32(0.2342258), 'beforemse': np.float32(0.30005124)}
+{'type': 'train', 'e': 1521, 'avgloss': 0.025218591584186805}
+{'type': 'train', 'e': 1522, 'avgloss': 0.025733854425580877}
+{'type': 'train', 'e': 1523, 'avgloss': 0.025903724428070218}
+{'type': 'train', 'e': 1524, 'avgloss': 0.026467058219407733}
+{'type': 'train', 'e': 1525, 'avgloss': 0.02691546700110561}
+{'type': 'train', 'e': 1526, 'avgloss': 0.02491769714182929}
+{'type': 'train', 'e': 1527, 'avgloss': 0.02853715674657571}
+{'type': 'train', 'e': 1528, 'avgloss': 0.027562329055447327}
+{'type': 'train', 'e': 1529, 'avgloss': 0.026592333850107695}
+{'type': 'val', 'e': 1530, 'avgloss': 0.02786356171495036, 'avgvalmse': np.float32(0.23044324), 'beforemse': np.float32(0.30480334)}
+{'type': 'train', 'e': 1531, 'avgloss': 0.028114260223351027}
+{'type': 'train', 'e': 1532, 'avgloss': 0.026105645161710288}
+{'type': 'train', 'e': 1533, 'avgloss': 0.02630634419620037}
+{'type': 'train', 'e': 1534, 'avgloss': 0.028223325351351185}
+{'type': 'train', 'e': 1535, 'avgloss': 0.027722055190487913}
+{'type': 'train', 'e': 1536, 'avgloss': 0.027148064127878138}
+{'type': 'train', 'e': 1537, 'avgloss': 0.025600960184084743}
+{'type': 'train', 'e': 1538, 'avgloss': 0.02625553045225771}
+{'type': 'train', 'e': 1539, 'avgloss': 0.02457422067068125}
+{'type': 'val', 'e': 1540, 'avgloss': 0.028073188113538844, 'avgvalmse': np.float32(0.28257588), 'beforemse': np.float32(0.31561694)}
+{'type': 'train', 'e': 1541, 'avgloss': 0.026746280981521858}
+{'type': 'train', 'e': 1542, 'avgloss': 0.02551599258654996}
+{'type': 'train', 'e': 1543, 'avgloss': 0.02694501169025898}
+{'type': 'train', 'e': 1544, 'avgloss': 0.026831615520151036}
+{'type': 'train', 'e': 1545, 'avgloss': 0.024459387028687878}
+{'type': 'train', 'e': 1546, 'avgloss': 0.026757435677082914}
+{'type': 'train', 'e': 1547, 'avgloss': 0.026711788028478622}
+{'type': 'train', 'e': 1548, 'avgloss': 0.025461093669659214}
+{'type': 'train', 'e': 1549, 'avgloss': 0.025039731279799814}
+{'type': 'val', 'e': 1550, 'avgloss': 0.02548628927845704, 'avgvalmse': np.float32(0.23233604), 'beforemse': np.float32(0.3750634)}
+{'type': 'train', 'e': 1551, 'avgloss': 0.02518123927477159}
+{'type': 'train', 'e': 1552, 'avgloss': 0.02503717102502522}
+{'type': 'train', 'e': 1553, 'avgloss': 0.02749342706642653}
+{'type': 'train', 'e': 1554, 'avgloss': 0.028390360702025264}
+{'type': 'train', 'e': 1555, 'avgloss': 0.028096163253250876}
+{'type': 'train', 'e': 1556, 'avgloss': 0.028892918931026208}
+{'type': 'train', 'e': 1557, 'avgloss': 0.02795489299062051}
+{'type': 'train', 'e': 1558, 'avgloss': 0.026384054536097927}
+{'type': 'train', 'e': 1559, 'avgloss': 0.027423114564857985}
+{'type': 'val', 'e': 1560, 'avgloss': 0.02646842108745324, 'avgvalmse': np.float32(0.19852702), 'beforemse': np.float32(0.2866777)}
+{'type': 'train', 'e': 1561, 'avgloss': 0.02650663599764046}
+{'type': 'train', 'e': 1562, 'avgloss': 0.029447188110728013}
+{'type': 'train', 'e': 1563, 'avgloss': 0.029466791666652028}
+{'type': 'train', 'e': 1564, 'avgloss': 0.027853490490662425}
+{'type': 'train', 'e': 1565, 'avgloss': 0.025416132356775433}
+{'type': 'train', 'e': 1566, 'avgloss': 0.02702804115649901}
+{'type': 'train', 'e': 1567, 'avgloss': 0.02673503923180856}
+{'type': 'train', 'e': 1568, 'avgloss': 0.026998890171709814}
+{'type': 'train', 'e': 1569, 'avgloss': 0.026917625022561925}
+{'type': 'val', 'e': 1570, 'avgloss': 0.02737054983644109, 'avgvalmse': np.float32(0.26778936), 'beforemse': np.float32(0.32756594)}
+{'type': 'train', 'e': 1571, 'avgloss': 0.02679790688776656}
+{'type': 'train', 'e': 1572, 'avgloss': 0.02680591101709165}
+{'type': 'train', 'e': 1573, 'avgloss': 0.02715577675323737}
+{'type': 'train', 'e': 1574, 'avgloss': 0.02675400674343109}
+{'type': 'train', 'e': 1575, 'avgloss': 0.028892442780105693}
+{'type': 'train', 'e': 1576, 'avgloss': 0.027726913067071063}
+{'type': 'train', 'e': 1577, 'avgloss': 0.02931365380553823}
+{'type': 'train', 'e': 1578, 'avgloss': 0.026055114245728442}
+{'type': 'train', 'e': 1579, 'avgloss': 0.025718571422131437}
+{'type': 'val', 'e': 1580, 'avgloss': 0.030562365917783035, 'avgvalmse': np.float32(0.27754185), 'beforemse': np.float32(0.34529147)}
+{'type': 'train', 'e': 1581, 'avgloss': 0.026774682888859196}
+{'type': 'train', 'e': 1582, 'avgloss': 0.02748558297753334}
+{'type': 'train', 'e': 1583, 'avgloss': 0.027313138701413806}
+{'type': 'train', 'e': 1584, 'avgloss': 0.026251830846855517}
+{'type': 'train', 'e': 1585, 'avgloss': 0.02645692337108286}
+{'type': 'train', 'e': 1586, 'avgloss': 0.024972627527619664}
+{'type': 'train', 'e': 1587, 'avgloss': 0.027035558596253395}
+{'type': 'train', 'e': 1588, 'avgloss': 0.02855087150084345}
+{'type': 'train', 'e': 1589, 'avgloss': 0.02616735381123267}
+{'type': 'val', 'e': 1590, 'avgloss': 0.024661417952493617, 'avgvalmse': np.float32(0.2448235), 'beforemse': np.float32(0.268615)}
+{'type': 'train', 'e': 1591, 'avgloss': 0.027233499739515155}
+{'type': 'train', 'e': 1592, 'avgloss': 0.02683301760177863}
+{'type': 'train', 'e': 1593, 'avgloss': 0.02564552955721554}
+{'type': 'train', 'e': 1594, 'avgloss': 0.025567505606695226}
+{'type': 'train', 'e': 1595, 'avgloss': 0.024670721865014025}
+{'type': 'train', 'e': 1596, 'avgloss': 0.024926334423454183}
+{'type': 'train', 'e': 1597, 'avgloss': 0.027269245174370314}
+{'type': 'train', 'e': 1598, 'avgloss': 0.023285846274934317}
+{'type': 'train', 'e': 1599, 'avgloss': 0.024877293819659634}
+{'type': 'val', 'e': 1600, 'avgloss': 0.02553251297458222, 'avgvalmse': np.float32(0.22265868), 'beforemse': np.float32(0.29251298)}
+{'type': 'train', 'e': 1601, 'avgloss': 0.02437443962614787}
+{'type': 'train', 'e': 1602, 'avgloss': 0.02607896757361136}
+{'type': 'train', 'e': 1603, 'avgloss': 0.02618543656640931}
+{'type': 'train', 'e': 1604, 'avgloss': 0.02557587525562236}
+{'type': 'train', 'e': 1605, 'avgloss': 0.025740319666893857}
+{'type': 'train', 'e': 1606, 'avgloss': 0.024626315914486583}
+{'type': 'train', 'e': 1607, 'avgloss': 0.025462261057998006}
+{'type': 'train', 'e': 1608, 'avgloss': 0.02495857494834222}
+{'type': 'train', 'e': 1609, 'avgloss': 0.024734864501576675}
+{'type': 'val', 'e': 1610, 'avgloss': 0.02413904784541381, 'avgvalmse': np.float32(0.21408488), 'beforemse': np.float32(0.28835925)}
+{'type': 'train', 'e': 1611, 'avgloss': 0.02506841356424909}
+{'type': 'train', 'e': 1612, 'avgloss': 0.026678155813562244}
+{'type': 'train', 'e': 1613, 'avgloss': 0.026224697106762937}
+{'type': 'train', 'e': 1614, 'avgloss': 0.02611897474056796}
+{'type': 'train', 'e': 1615, 'avgloss': 0.02809376593090986}
+{'type': 'train', 'e': 1616, 'avgloss': 0.026086833818178428}
+{'type': 'train', 'e': 1617, 'avgloss': 0.02603790213010813}
+{'type': 'train', 'e': 1618, 'avgloss': 0.025914773933197324}
+{'type': 'train', 'e': 1619, 'avgloss': 0.02845277598029689}
+{'type': 'val', 'e': 1620, 'avgloss': 0.026145890159042257, 'avgvalmse': np.float32(0.25807545), 'beforemse': np.float32(0.30576357)}
+{'type': 'train', 'e': 1621, 'avgloss': 0.027456457187470636}
+{'type': 'train', 'e': 1622, 'avgloss': 0.02702164571536215}
+{'type': 'train', 'e': 1623, 'avgloss': 0.026440240540786794}
+{'type': 'train', 'e': 1624, 'avgloss': 0.025555611637077834}
+{'type': 'train', 'e': 1625, 'avgloss': 0.026198215782642365}
+{'type': 'train', 'e': 1626, 'avgloss': 0.026843037848409853}
+{'type': 'train', 'e': 1627, 'avgloss': 0.02659760797886472}
+{'type': 'train', 'e': 1628, 'avgloss': 0.025790198951175337}
+{'type': 'train', 'e': 1629, 'avgloss': 0.027553806081414223}
+{'type': 'val', 'e': 1630, 'avgloss': 0.025673777453209225, 'avgvalmse': np.float32(0.264287), 'beforemse': np.float32(0.29540005)}
+{'type': 'train', 'e': 1631, 'avgloss': 0.02625832324357409}
+{'type': 'train', 'e': 1632, 'avgloss': 0.026078574555484874}
+{'type': 'train', 'e': 1633, 'avgloss': 0.025229454040527344}
+{'type': 'train', 'e': 1634, 'avgloss': 0.026456026213341637}
+{'type': 'train', 'e': 1635, 'avgloss': 0.025527028072821468}
+{'type': 'train', 'e': 1636, 'avgloss': 0.025477786205316846}
+{'type': 'train', 'e': 1637, 'avgloss': 0.02604660950601101}
+{'type': 'train', 'e': 1638, 'avgloss': 0.027963371261170034}
+{'type': 'train', 'e': 1639, 'avgloss': 0.028042729355786975}
+{'type': 'val', 'e': 1640, 'avgloss': 0.024839931314713078, 'avgvalmse': np.float32(0.25507155), 'beforemse': np.float32(0.30753213)}
+{'type': 'train', 'e': 1641, 'avgloss': 0.026758324256853053}
+{'type': 'train', 'e': 1642, 'avgloss': 0.02702791537893446}
+{'type': 'train', 'e': 1643, 'avgloss': 0.025901297793576594}
+{'type': 'train', 'e': 1644, 'avgloss': 0.025962746457049723}
+{'type': 'train', 'e': 1645, 'avgloss': 0.023444207679284245}
+{'type': 'train', 'e': 1646, 'avgloss': 0.02510121876471921}
+{'type': 'train', 'e': 1647, 'avgloss': 0.026151317122735475}
+{'type': 'train', 'e': 1648, 'avgloss': 0.02601789732120539}
+{'type': 'train', 'e': 1649, 'avgloss': 0.02369140068951406}
+{'type': 'val', 'e': 1650, 'avgloss': 0.02689522534216705, 'avgvalmse': np.float32(0.2747178), 'beforemse': np.float32(0.3192082)}
+{'type': 'train', 'e': 1651, 'avgloss': 0.027438094839453697}
+{'type': 'train', 'e': 1652, 'avgloss': 0.0248343877886471}
+{'type': 'train', 'e': 1653, 'avgloss': 0.026041386060808833}
+{'type': 'train', 'e': 1654, 'avgloss': 0.02466519657326372}
+{'type': 'train', 'e': 1655, 'avgloss': 0.023127239491594464}
+{'type': 'train', 'e': 1656, 'avgloss': 0.02331165802714072}
+{'type': 'train', 'e': 1657, 'avgloss': 0.02421397921678267}
+{'type': 'train', 'e': 1658, 'avgloss': 0.02672562130579823}
+{'type': 'train', 'e': 1659, 'avgloss': 0.026637330161113488}
+{'type': 'val', 'e': 1660, 'avgloss': 0.02785998720087503, 'avgvalmse': np.float32(0.26611295), 'beforemse': np.float32(0.33422318)}
+{'type': 'train', 'e': 1661, 'avgloss': 0.029591658985928485}
+{'type': 'train', 'e': 1662, 'avgloss': 0.02806111170273078}
+{'type': 'train', 'e': 1663, 'avgloss': 0.028345427720954542}
+{'type': 'train', 'e': 1664, 'avgloss': 0.028356764563604406}
+{'type': 'train', 'e': 1665, 'avgloss': 0.028250041172692652}
+{'type': 'train', 'e': 1666, 'avgloss': 0.028176519725667804}
+{'type': 'train', 'e': 1667, 'avgloss': 0.027160616787640673}
+{'type': 'train', 'e': 1668, 'avgloss': 0.028724049365049915}
+{'type': 'train', 'e': 1669, 'avgloss': 0.026851504648986616}
+{'type': 'val', 'e': 1670, 'avgloss': 0.025577962594596965, 'avgvalmse': np.float32(0.21977963), 'beforemse': np.float32(0.28723988)}
+{'type': 'train', 'e': 1671, 'avgloss': 0.026539589915620655}
+{'type': 'train', 'e': 1672, 'avgloss': 0.025818365969155963}
+{'type': 'train', 'e': 1673, 'avgloss': 0.02647915482521057}
+{'type': 'train', 'e': 1674, 'avgloss': 0.02478342169993802}
+{'type': 'train', 'e': 1675, 'avgloss': 0.027566706222531042}
+{'type': 'train', 'e': 1676, 'avgloss': 0.027614839767154894}
+{'type': 'train', 'e': 1677, 'avgloss': 0.02839708994877966}
+{'type': 'train', 'e': 1678, 'avgloss': 0.02660714932962468}
+{'type': 'train', 'e': 1679, 'avgloss': 0.02503443225041816}
+{'type': 'val', 'e': 1680, 'avgloss': 0.02483333529610383, 'avgvalmse': np.float32(0.23471867), 'beforemse': np.float32(0.27076265)}
+{'type': 'train', 'e': 1681, 'avgloss': 0.027086039318850164}
+{'type': 'train', 'e': 1682, 'avgloss': 0.023838389664888382}
+{'type': 'train', 'e': 1683, 'avgloss': 0.02506231967555849}
+{'type': 'train', 'e': 1684, 'avgloss': 0.02449253466176359}
+{'type': 'train', 'e': 1685, 'avgloss': 0.024389418234166346}
+{'type': 'train', 'e': 1686, 'avgloss': 0.02475405396207383}
+{'type': 'train', 'e': 1687, 'avgloss': 0.024115842080822115}
+{'type': 'train', 'e': 1688, 'avgloss': 0.02474841642144479}
+{'type': 'train', 'e': 1689, 'avgloss': 0.02730887608700677}
+{'type': 'val', 'e': 1690, 'avgloss': 0.025159840324991627, 'avgvalmse': np.float32(0.24218245), 'beforemse': np.float32(0.33399644)}
+{'type': 'train', 'e': 1691, 'avgloss': 0.025071567120520694}
+{'type': 'train', 'e': 1692, 'avgloss': 0.025721882322901173}
+{'type': 'train', 'e': 1693, 'avgloss': 0.024411018349622424}
+{'type': 'train', 'e': 1694, 'avgloss': 0.023860780228125423}
+{'type': 'train', 'e': 1695, 'avgloss': 0.0255001592204759}
+{'type': 'train', 'e': 1696, 'avgloss': 0.026756447886950092}
+{'type': 'train', 'e': 1697, 'avgloss': 0.02372917130981621}
+{'type': 'train', 'e': 1698, 'avgloss': 0.02376337702337064}
+{'type': 'train', 'e': 1699, 'avgloss': 0.02637050340050145}
+{'type': 'val', 'e': 1700, 'avgloss': 0.02815524802396172, 'avgvalmse': np.float32(0.21594197), 'beforemse': np.float32(0.3215176)}
+{'type': 'train', 'e': 1701, 'avgloss': 0.024113738615261882}
+{'type': 'train', 'e': 1702, 'avgloss': 0.02530592101577081}
+{'type': 'train', 'e': 1703, 'avgloss': 0.023551889940312033}
+{'type': 'train', 'e': 1704, 'avgloss': 0.025622060914572916}
+{'type': 'train', 'e': 1705, 'avgloss': 0.025051611426629518}
+{'type': 'train', 'e': 1706, 'avgloss': 0.025760712004021594}
+{'type': 'train', 'e': 1707, 'avgloss': 0.023144284655389032}
+{'type': 'train', 'e': 1708, 'avgloss': 0.024061417893359537}
+{'type': 'train', 'e': 1709, 'avgloss': 0.02401759598012033}
+{'type': 'val', 'e': 1710, 'avgloss': 0.024672748128834524, 'avgvalmse': np.float32(0.24483342), 'beforemse': np.float32(0.31052625)}
+{'type': 'train', 'e': 1711, 'avgloss': 0.025422650340356324}
+{'type': 'train', 'e': 1712, 'avgloss': 0.02759690602359019}
+{'type': 'train', 'e': 1713, 'avgloss': 0.025295469517770567}
+{'type': 'train', 'e': 1714, 'avgloss': 0.02446052059531212}
+{'type': 'train', 'e': 1715, 'avgloss': 0.022233254031131144}
+{'type': 'train', 'e': 1716, 'avgloss': 0.026452071278503065}
+{'type': 'train', 'e': 1717, 'avgloss': 0.024273894433128208}
+{'type': 'train', 'e': 1718, 'avgloss': 0.024193580703515755}
+{'type': 'train', 'e': 1719, 'avgloss': 0.02423291839659214}
+{'type': 'val', 'e': 1720, 'avgloss': 0.02381780822026102, 'avgvalmse': np.float32(0.24104826), 'beforemse': np.float32(0.31618384)}
+{'type': 'train', 'e': 1721, 'avgloss': 0.02612742742425517}
+{'type': 'train', 'e': 1722, 'avgloss': 0.02438667632247272}
+{'type': 'train', 'e': 1723, 'avgloss': 0.024790218786189432}
+{'type': 'train', 'e': 1724, 'avgloss': 0.023515185733374796}
+{'type': 'train', 'e': 1725, 'avgloss': 0.025665331435830968}
+{'type': 'train', 'e': 1726, 'avgloss': 0.027741726880010805}
+{'type': 'train', 'e': 1727, 'avgloss': 0.024969889047114474}
+{'type': 'train', 'e': 1728, 'avgloss': 0.02553505852426353}
+{'type': 'train', 'e': 1729, 'avgloss': 0.024873491376638412}
+{'type': 'val', 'e': 1730, 'avgloss': 0.025082006952480265, 'avgvalmse': np.float32(0.24723609), 'beforemse': np.float32(0.29020086)}
+{'type': 'train', 'e': 1731, 'avgloss': 0.026650449751239074}
+{'type': 'train', 'e': 1732, 'avgloss': 0.02407754281241643}
+{'type': 'train', 'e': 1733, 'avgloss': 0.025942545384168625}
+{'type': 'train', 'e': 1734, 'avgloss': 0.024981048644373293}
+{'type': 'train', 'e': 1735, 'avgloss': 0.024295197603733915}
+{'type': 'train', 'e': 1736, 'avgloss': 0.025236675907906733}
+{'type': 'train', 'e': 1737, 'avgloss': 0.025255504407380756}
+{'type': 'train', 'e': 1738, 'avgloss': 0.024516413478474868}
+{'type': 'train', 'e': 1739, 'avgloss': 0.023983600696450787}
+{'type': 'val', 'e': 1740, 'avgloss': 0.024353723482866036, 'avgvalmse': np.float32(0.27077305), 'beforemse': np.float32(0.4140199)}
+{'type': 'train', 'e': 1741, 'avgloss': 0.025300590615523488}
+{'type': 'train', 'e': 1742, 'avgloss': 0.02493292554036567}
+{'type': 'train', 'e': 1743, 'avgloss': 0.02702981047332287}
+{'type': 'train', 'e': 1744, 'avgloss': 0.02731428677706342}
+{'type': 'train', 'e': 1745, 'avgloss': 0.02576501236150139}
+{'type': 'train', 'e': 1746, 'avgloss': 0.02487772360051933}
+{'type': 'train', 'e': 1747, 'avgloss': 0.02437517223389525}
+{'type': 'train', 'e': 1748, 'avgloss': 0.024759228782434212}
+{'type': 'train', 'e': 1749, 'avgloss': 0.02390499932593421}
+{'type': 'val', 'e': 1750, 'avgloss': 0.02526022513446055, 'avgvalmse': np.float32(0.25102913), 'beforemse': np.float32(0.32294604)}
+{'type': 'train', 'e': 1751, 'avgloss': 0.026265281595681842}
+{'type': 'train', 'e': 1752, 'avgloss': 0.02658030322115672}
+{'type': 'train', 'e': 1753, 'avgloss': 0.027186181298212}
+{'type': 'train', 'e': 1754, 'avgloss': 0.02535223735398368}
+{'type': 'train', 'e': 1755, 'avgloss': 0.025977726143441703}
+{'type': 'train', 'e': 1756, 'avgloss': 0.024969329175196196}
+{'type': 'train', 'e': 1757, 'avgloss': 0.025363804086258535}
+{'type': 'train', 'e': 1758, 'avgloss': 0.024995959118792887}
+{'type': 'train', 'e': 1759, 'avgloss': 0.023971120385747207}
+{'type': 'val', 'e': 1760, 'avgloss': 0.023957884625384684, 'avgvalmse': np.float32(0.22685145), 'beforemse': np.float32(0.30749592)}
+{'type': 'train', 'e': 1761, 'avgloss': 0.026207423131716878}
+{'type': 'train', 'e': 1762, 'avgloss': 0.025871467237409792}
+{'type': 'train', 'e': 1763, 'avgloss': 0.026766302848332806}
+{'type': 'train', 'e': 1764, 'avgloss': 0.025206820058979486}
+{'type': 'train', 'e': 1765, 'avgloss': 0.02543456249527241}
+{'type': 'train', 'e': 1766, 'avgloss': 0.02577486467596732}
+{'type': 'train', 'e': 1767, 'avgloss': 0.025541224467911218}
+{'type': 'train', 'e': 1768, 'avgloss': 0.025673959110128253}
+{'type': 'train', 'e': 1769, 'avgloss': 0.023913452352740262}
+{'type': 'val', 'e': 1770, 'avgloss': 0.02418486548489646, 'avgvalmse': np.float32(0.23899971), 'beforemse': np.float32(0.27734518)}
+{'type': 'train', 'e': 1771, 'avgloss': 0.02419767832677615}
+{'type': 'train', 'e': 1772, 'avgloss': 0.02418228072163306}
+{'type': 'train', 'e': 1773, 'avgloss': 0.023891234378281393}
+{'type': 'train', 'e': 1774, 'avgloss': 0.023464003577828407}
+{'type': 'train', 'e': 1775, 'avgloss': 0.024530910641739245}
+{'type': 'train', 'e': 1776, 'avgloss': 0.02367246847011541}
+{'type': 'train', 'e': 1777, 'avgloss': 0.02431997343113548}
+{'type': 'train', 'e': 1778, 'avgloss': 0.025278520623320026}
+{'type': 'train', 'e': 1779, 'avgloss': 0.025858807916703978}
+{'type': 'val', 'e': 1780, 'avgloss': 0.024781870900800352, 'avgvalmse': np.float32(0.20851205), 'beforemse': np.float32(0.32406688)}
+{'type': 'train', 'e': 1781, 'avgloss': 0.024561287590155478}
+{'type': 'train', 'e': 1782, 'avgloss': 0.025216943143229736}
+{'type': 'train', 'e': 1783, 'avgloss': 0.02470576831776845}
+{'type': 'train', 'e': 1784, 'avgloss': 0.023705634141438885}
+{'type': 'train', 'e': 1785, 'avgloss': 0.025561791991716938}
+{'type': 'train', 'e': 1786, 'avgloss': 0.02536484755967793}
+{'type': 'train', 'e': 1787, 'avgloss': 0.02331767201815781}
+{'type': 'train', 'e': 1788, 'avgloss': 0.025355644524097443}
+{'type': 'train', 'e': 1789, 'avgloss': 0.024174231447671588}
+{'type': 'val', 'e': 1790, 'avgloss': 0.025553864671995764, 'avgvalmse': np.float32(0.22729887), 'beforemse': np.float32(0.30328777)}
+{'type': 'train', 'e': 1791, 'avgloss': 0.024184724806170715}
+{'type': 'train', 'e': 1792, 'avgloss': 0.024995434833200353}
+{'type': 'train', 'e': 1793, 'avgloss': 0.027110647606222255}
+{'type': 'train', 'e': 1794, 'avgloss': 0.02591537135212045}
+{'type': 'train', 'e': 1795, 'avgloss': 0.025555506299592946}
+{'type': 'train', 'e': 1796, 'avgloss': 0.02547316135544526}
+{'type': 'train', 'e': 1797, 'avgloss': 0.026778948248216982}
+{'type': 'train', 'e': 1798, 'avgloss': 0.026376490628248768}
+{'type': 'train', 'e': 1799, 'avgloss': 0.0272845834689705}
+{'type': 'val', 'e': 1800, 'avgloss': 0.02584308650540678, 'avgvalmse': np.float32(0.2677816), 'beforemse': np.float32(0.32103464)}
+{'type': 'train', 'e': 1801, 'avgloss': 0.024685440585017204}
+{'type': 'train', 'e': 1802, 'avgloss': 0.02628739638940284}
+{'type': 'train', 'e': 1803, 'avgloss': 0.0249598940932437}
+{'type': 'train', 'e': 1804, 'avgloss': 0.026512415883572477}
+{'type': 'train', 'e': 1805, 'avgloss': 0.026227450586463277}
+{'type': 'train', 'e': 1806, 'avgloss': 0.02444231127829928}
+{'type': 'train', 'e': 1807, 'avgloss': 0.024435926865982383}
+{'type': 'train', 'e': 1808, 'avgloss': 0.02417054115549514}
+{'type': 'train', 'e': 1809, 'avgloss': 0.0256761542864536}
+{'type': 'val', 'e': 1810, 'avgloss': 0.025747963766518393, 'avgvalmse': np.float32(0.23569758), 'beforemse': np.float32(0.29872182)}
+{'type': 'train', 'e': 1811, 'avgloss': 0.02722836266222753}
+{'type': 'train', 'e': 1812, 'avgloss': 0.026472310388558788}
+{'type': 'train', 'e': 1813, 'avgloss': 0.02509881820725767}
+{'type': 'train', 'e': 1814, 'avgloss': 0.02641768959399901}
+{'type': 'train', 'e': 1815, 'avgloss': 0.02354154922068119}
+{'type': 'train', 'e': 1816, 'avgloss': 0.023091162603936698}
+{'type': 'train', 'e': 1817, 'avgloss': 0.025539980024883623}
+{'type': 'train', 'e': 1818, 'avgloss': 0.02459576559302054}
+{'type': 'train', 'e': 1819, 'avgloss': 0.022753549739718437}
+{'type': 'val', 'e': 1820, 'avgloss': 0.02402573431793012, 'avgvalmse': np.float32(0.22676684), 'beforemse': np.float32(0.35793486)}
+{'type': 'train', 'e': 1821, 'avgloss': 0.024888899275346807}
+{'type': 'train', 'e': 1822, 'avgloss': 0.026641639537717168}
+{'type': 'train', 'e': 1823, 'avgloss': 0.024859942103687086}
+{'type': 'train', 'e': 1824, 'avgloss': 0.02324057056715614}
+{'type': 'train', 'e': 1825, 'avgloss': 0.02428503275701874}
+{'type': 'train', 'e': 1826, 'avgloss': 0.024825069465135272}
+{'type': 'train', 'e': 1827, 'avgloss': 0.023777863795035763}
+{'type': 'train', 'e': 1828, 'avgloss': 0.026171390555406873}
+{'type': 'train', 'e': 1829, 'avgloss': 0.02568039778423937}
+{'type': 'val', 'e': 1830, 'avgloss': 0.025787331654052986, 'avgvalmse': np.float32(0.22775404), 'beforemse': np.float32(0.28865644)}
+{'type': 'train', 'e': 1831, 'avgloss': 0.025948734855965563}
+{'type': 'train', 'e': 1832, 'avgloss': 0.023419386658229326}
+{'type': 'train', 'e': 1833, 'avgloss': 0.02450890878313466}
+{'type': 'train', 'e': 1834, 'avgloss': 0.023831692475237344}
+{'type': 'train', 'e': 1835, 'avgloss': 0.02628758108537448}
+{'type': 'train', 'e': 1836, 'avgloss': 0.02481144598047984}
+{'type': 'train', 'e': 1837, 'avgloss': 0.022561728562179365}
+{'type': 'train', 'e': 1838, 'avgloss': 0.025455386819023835}
+{'type': 'train', 'e': 1839, 'avgloss': 0.025196987547372516}
+{'type': 'val', 'e': 1840, 'avgloss': 0.02344758857629801, 'avgvalmse': np.float32(0.22890191), 'beforemse': np.float32(0.33053556)}
+{'type': 'train', 'e': 1841, 'avgloss': 0.02366336964462933}
+{'type': 'train', 'e': 1842, 'avgloss': 0.023091134958361324}
+{'type': 'train', 'e': 1843, 'avgloss': 0.0248744372082384}
+{'type': 'train', 'e': 1844, 'avgloss': 0.026413015629115858}
+{'type': 'train', 'e': 1845, 'avgloss': 0.02459070851144038}
+{'type': 'train', 'e': 1846, 'avgloss': 0.02287858508919415}
+{'type': 'train', 'e': 1847, 'avgloss': 0.02511517262380374}
+{'type': 'train', 'e': 1848, 'avgloss': 0.024404197931289673}
+{'type': 'train', 'e': 1849, 'avgloss': 0.02181290354775755}
+{'type': 'val', 'e': 1850, 'avgloss': 0.02355917219660784, 'avgvalmse': np.float32(0.2164439), 'beforemse': np.float32(0.31213006)}
+{'type': 'train', 'e': 1851, 'avgloss': 0.02329673735718978}
+{'type': 'train', 'e': 1852, 'avgloss': 0.024960677678647795}
+{'type': 'train', 'e': 1853, 'avgloss': 0.02321048659321509}
+{'type': 'train', 'e': 1854, 'avgloss': 0.02495774499287731}
+{'type': 'train', 'e': 1855, 'avgloss': 0.024864823410385532}
+{'type': 'train', 'e': 1856, 'avgloss': 0.024941195880896168}
+{'type': 'train', 'e': 1857, 'avgloss': 0.022751999724852413}
+{'type': 'train', 'e': 1858, 'avgloss': 0.024336352944374084}
+{'type': 'train', 'e': 1859, 'avgloss': 0.02492708026578552}
+{'type': 'val', 'e': 1860, 'avgloss': 0.023586243881206764, 'avgvalmse': np.float32(0.28867435), 'beforemse': np.float32(0.34423372)}
+{'type': 'train', 'e': 1861, 'avgloss': 0.0239137914031744}
+{'type': 'train', 'e': 1862, 'avgloss': 0.025065364708241663}
+{'type': 'train', 'e': 1863, 'avgloss': 0.024579258635640144}
+{'type': 'train', 'e': 1864, 'avgloss': 0.024824002365532675}
+{'type': 'train', 'e': 1865, 'avgloss': 0.026133452591143157}
+{'type': 'train', 'e': 1866, 'avgloss': 0.026660965069344168}
+{'type': 'train', 'e': 1867, 'avgloss': 0.02600875555684692}
+{'type': 'train', 'e': 1868, 'avgloss': 0.025488684149949176}
+{'type': 'train', 'e': 1869, 'avgloss': 0.0249799075291345}
+{'type': 'val', 'e': 1870, 'avgloss': 0.026769401309521573, 'avgvalmse': np.float32(0.23352428), 'beforemse': np.float32(0.36433497)}
+{'type': 'train', 'e': 1871, 'avgloss': 0.02455133680058153}
+{'type': 'train', 'e': 1872, 'avgloss': 0.026783162041714315}
+{'type': 'train', 'e': 1873, 'avgloss': 0.024727555678079004}
+{'type': 'train', 'e': 1874, 'avgloss': 0.026104197690361423}
+{'type': 'train', 'e': 1875, 'avgloss': 0.024335696901145735}
+{'type': 'train', 'e': 1876, 'avgloss': 0.02497720836024535}
+{'type': 'train', 'e': 1877, 'avgloss': 0.023663797954979696}
+{'type': 'train', 'e': 1878, 'avgloss': 0.024493075613128513}
+{'type': 'train', 'e': 1879, 'avgloss': 0.025529759396847925}
+{'type': 'val', 'e': 1880, 'avgloss': 0.022063629554682655, 'avgvalmse': np.float32(0.2913088), 'beforemse': np.float32(0.35442814)}
+{'type': 'train', 'e': 1881, 'avgloss': 0.021832686456802645}
+{'type': 'train', 'e': 1882, 'avgloss': 0.024682520447592986}
+{'type': 'train', 'e': 1883, 'avgloss': 0.022835314567936093}
+{'type': 'train', 'e': 1884, 'avgloss': 0.02347459300960365}
+{'type': 'train', 'e': 1885, 'avgloss': 0.02424267679452896}
+{'type': 'train', 'e': 1886, 'avgloss': 0.02337662900160802}
+{'type': 'train', 'e': 1887, 'avgloss': 0.02392800877753057}
+{'type': 'train', 'e': 1888, 'avgloss': 0.024573027009242458}
+{'type': 'train', 'e': 1889, 'avgloss': 0.02257669628842881}
+{'type': 'val', 'e': 1890, 'avgloss': 0.02332552502814092, 'avgvalmse': np.float32(0.22532551), 'beforemse': np.float32(0.3060859)}
+{'type': 'train', 'e': 1891, 'avgloss': 0.023115705600694605}
+{'type': 'train', 'e': 1892, 'avgloss': 0.02284944155498555}
+{'type': 'train', 'e': 1893, 'avgloss': 0.02423501602913204}
+{'type': 'train', 'e': 1894, 'avgloss': 0.024412111918392935}
+{'type': 'train', 'e': 1895, 'avgloss': 0.02478131769519103}
+{'type': 'train', 'e': 1896, 'avgloss': 0.02686053877206225}
+{'type': 'train', 'e': 1897, 'avgloss': 0.025819631881619756}
+{'type': 'train', 'e': 1898, 'avgloss': 0.024736034830934124}
+{'type': 'train', 'e': 1899, 'avgloss': 0.02627210250418437}
+{'type': 'val', 'e': 1900, 'avgloss': 0.025235577437438463, 'avgvalmse': np.float32(0.26919246), 'beforemse': np.float32(0.34583056)}
+{'type': 'train', 'e': 1901, 'avgloss': 0.025465500688082295}
+{'type': 'train', 'e': 1902, 'avgloss': 0.02480990351422837}
+{'type': 'train', 'e': 1903, 'avgloss': 0.023817704696404308}
+{'type': 'train', 'e': 1904, 'avgloss': 0.024687444202994045}
+{'type': 'train', 'e': 1905, 'avgloss': 0.028293490409851074}
+{'type': 'train', 'e': 1906, 'avgloss': 0.026323237995568075}
+{'type': 'train', 'e': 1907, 'avgloss': 0.026035720874604425}
+{'type': 'train', 'e': 1908, 'avgloss': 0.02728970829201372}
+{'type': 'train', 'e': 1909, 'avgloss': 0.024413247445696278}
+{'type': 'val', 'e': 1910, 'avgloss': 0.025555333514746866, 'avgvalmse': np.float32(0.281907), 'beforemse': np.float32(0.31779388)}
+{'type': 'train', 'e': 1911, 'avgloss': 0.026431612572387644}
+{'type': 'train', 'e': 1912, 'avgloss': 0.025413522496819496}
+{'type': 'train', 'e': 1913, 'avgloss': 0.027257828434046946}
+{'type': 'train', 'e': 1914, 'avgloss': 0.025825318929396178}
+{'type': 'train', 'e': 1915, 'avgloss': 0.023933879835040944}
+{'type': 'train', 'e': 1916, 'avgloss': 0.024512033713491338}
+{'type': 'train', 'e': 1917, 'avgloss': 0.025070328853632275}
+{'type': 'train', 'e': 1918, 'avgloss': 0.025274204580407394}
+{'type': 'train', 'e': 1919, 'avgloss': 0.02479250503605918}
+{'type': 'val', 'e': 1920, 'avgloss': 0.024339657570970685, 'avgvalmse': np.float32(0.22760661), 'beforemse': np.float32(0.2790096)}
+{'type': 'train', 'e': 1921, 'avgloss': 0.02451656592127524}
+{'type': 'train', 'e': 1922, 'avgloss': 0.023553160166269856}
+{'type': 'train', 'e': 1923, 'avgloss': 0.024429013756544965}
+{'type': 'train', 'e': 1924, 'avgloss': 0.022995428182184696}
+{'type': 'train', 'e': 1925, 'avgloss': 0.026102208385342045}
+{'type': 'train', 'e': 1926, 'avgloss': 0.023790004222016586}
+{'type': 'train', 'e': 1927, 'avgloss': 0.02511944690425145}
+{'type': 'train', 'e': 1928, 'avgloss': 0.02264713848892011}
+{'type': 'train', 'e': 1929, 'avgloss': 0.02340981432873952}
+{'type': 'val', 'e': 1930, 'avgloss': 0.025614079578142417, 'avgvalmse': np.float32(0.24259603), 'beforemse': np.float32(0.36708447)}
+{'type': 'train', 'e': 1931, 'avgloss': 0.02500803111807296}
+{'type': 'train', 'e': 1932, 'avgloss': 0.021605652953056914}
+{'type': 'train', 'e': 1933, 'avgloss': 0.022325872982803145}
+{'type': 'train', 'e': 1934, 'avgloss': 0.022773002127283497}
+{'type': 'train', 'e': 1935, 'avgloss': 0.021078861269511674}
+{'type': 'train', 'e': 1936, 'avgloss': 0.02254005609766433}
+{'type': 'train', 'e': 1937, 'avgloss': 0.02444998067068426}
+{'type': 'train', 'e': 1938, 'avgloss': 0.0216153393940706}
+{'type': 'train', 'e': 1939, 'avgloss': 0.023523658906158647}
+{'type': 'val', 'e': 1940, 'avgloss': 0.02421876670498597, 'avgvalmse': np.float32(0.22030647), 'beforemse': np.float32(0.27196208)}
+{'type': 'train', 'e': 1941, 'avgloss': 0.022930864342733434}
+{'type': 'train', 'e': 1942, 'avgloss': 0.025133526442866577}
+{'type': 'train', 'e': 1943, 'avgloss': 0.024275769038419975}
+{'type': 'train', 'e': 1944, 'avgloss': 0.02397940121591091}
+{'type': 'train', 'e': 1945, 'avgloss': 0.024076976568291063}
+{'type': 'train', 'e': 1946, 'avgloss': 0.02619068520633798}
+{'type': 'train', 'e': 1947, 'avgloss': 0.024585239001010593}
+{'type': 'train', 'e': 1948, 'avgloss': 0.026682534892308086}
+{'type': 'train', 'e': 1949, 'avgloss': 0.026368488704687672}
+{'type': 'val', 'e': 1950, 'avgloss': 0.02657810363330339, 'avgvalmse': np.float32(0.24757855), 'beforemse': np.float32(0.33443448)}
+{'type': 'train', 'e': 1951, 'avgloss': 0.024760676253783077}
+{'type': 'train', 'e': 1952, 'avgloss': 0.02525703334494641}
+{'type': 'train', 'e': 1953, 'avgloss': 0.022853640349287736}
+{'type': 'train', 'e': 1954, 'avgloss': 0.02256874259757368}
+{'type': 'train', 'e': 1955, 'avgloss': 0.023424399036325906}
+{'type': 'train', 'e': 1956, 'avgloss': 0.023764533726008313}
+{'type': 'train', 'e': 1957, 'avgloss': 0.023261623261006253}
+{'type': 'train', 'e': 1958, 'avgloss': 0.023826016015128085}
+{'type': 'train', 'e': 1959, 'avgloss': 0.024859494970817315}
+{'type': 'val', 'e': 1960, 'avgloss': 0.023000155918692287, 'avgvalmse': np.float32(0.20339353), 'beforemse': np.float32(0.28134343)}
+{'type': 'train', 'e': 1961, 'avgloss': 0.02337893020165594}
+{'type': 'train', 'e': 1962, 'avgloss': 0.024821437307094272}
+{'type': 'train', 'e': 1963, 'avgloss': 0.024212068829097246}
+{'type': 'train', 'e': 1964, 'avgloss': 0.02512332610785961}
+{'type': 'train', 'e': 1965, 'avgloss': 0.026693833207613545}
+{'type': 'train', 'e': 1966, 'avgloss': 0.024752497771068624}
+{'type': 'train', 'e': 1967, 'avgloss': 0.02547457500507957}
+{'type': 'train', 'e': 1968, 'avgloss': 0.026598806836103137}
+{'type': 'train', 'e': 1969, 'avgloss': 0.02340453941571085}
+{'type': 'val', 'e': 1970, 'avgloss': 0.02221818385939849, 'avgvalmse': np.float32(0.25347245), 'beforemse': np.float32(0.32612488)}
+{'type': 'train', 'e': 1971, 'avgloss': 0.024062617534869594}
+{'type': 'train', 'e': 1972, 'avgloss': 0.024168129030026887}
+{'type': 'train', 'e': 1973, 'avgloss': 0.02428152480799901}
+{'type': 'train', 'e': 1974, 'avgloss': 0.02308174707975827}
+{'type': 'train', 'e': 1975, 'avgloss': 0.025792224822860015}
+{'type': 'train', 'e': 1976, 'avgloss': 0.026074542614974473}
+{'type': 'train', 'e': 1977, 'avgloss': 0.023732115171457593}
+{'type': 'train', 'e': 1978, 'avgloss': 0.023605499024453917}
+{'type': 'train', 'e': 1979, 'avgloss': 0.024478980487114506}
+{'type': 'val', 'e': 1980, 'avgloss': 0.023681176532255977, 'avgvalmse': np.float32(0.25877282), 'beforemse': np.float32(0.31125298)}
+{'type': 'train', 'e': 1981, 'avgloss': 0.02177470853846324}
+{'type': 'train', 'e': 1982, 'avgloss': 0.02464131952116364}
+{'type': 'train', 'e': 1983, 'avgloss': 0.024682015278621725}
+{'type': 'train', 'e': 1984, 'avgloss': 0.024117686736740564}
+{'type': 'train', 'e': 1985, 'avgloss': 0.023682227603306894}
+{'type': 'train', 'e': 1986, 'avgloss': 0.025124802695293175}
+{'type': 'train', 'e': 1987, 'avgloss': 0.02425804498948549}
+{'type': 'train', 'e': 1988, 'avgloss': 0.022657742919890506}
+{'type': 'train', 'e': 1989, 'avgloss': 0.021934206352422114}
+{'type': 'val', 'e': 1990, 'avgloss': 0.024260258694228373, 'avgvalmse': np.float32(0.23363231), 'beforemse': np.float32(0.27488536)}
+{'type': 'train', 'e': 1991, 'avgloss': 0.02268485862173532}
+{'type': 'train', 'e': 1992, 'avgloss': 0.022577706234235512}
+{'type': 'train', 'e': 1993, 'avgloss': 0.02241435200956307}
+{'type': 'train', 'e': 1994, 'avgloss': 0.022956891181437594}
+{'type': 'train', 'e': 1995, 'avgloss': 0.02309953480174667}
+{'type': 'train', 'e': 1996, 'avgloss': 0.022996480723744946}
+{'type': 'train', 'e': 1997, 'avgloss': 0.02579205257720069}
+{'type': 'train', 'e': 1998, 'avgloss': 0.024551002406760267}
+{'type': 'train', 'e': 1999, 'avgloss': 0.023258257657289505}
+{'type': 'val', 'e': 2000, 'avgloss': 0.02307241831563021, 'avgvalmse': np.float32(0.22423439), 'beforemse': np.float32(0.31796527)}
+{'type': 'train', 'e': 2001, 'avgloss': 0.02370077224546357}
+{'type': 'train', 'e': 2002, 'avgloss': 0.02327583230247623}
+{'type': 'train', 'e': 2003, 'avgloss': 0.023467517801021274}
+{'type': 'train', 'e': 2004, 'avgloss': 0.022856132176361586}
+{'type': 'train', 'e': 2005, 'avgloss': 0.023723009875730464}
+{'type': 'train', 'e': 2006, 'avgloss': 0.023665523940795345}
+{'type': 'train', 'e': 2007, 'avgloss': 0.023321045758692843}
+{'type': 'train', 'e': 2008, 'avgloss': 0.024122350898228194}
+{'type': 'train', 'e': 2009, 'avgloss': 0.022783918012129634}
+{'type': 'val', 'e': 2010, 'avgloss': 0.023478716807930095, 'avgvalmse': np.float32(0.2410109), 'beforemse': np.float32(0.38232812)}
+{'type': 'train', 'e': 2011, 'avgloss': 0.022062595149404125}
+{'type': 'train', 'e': 2012, 'avgloss': 0.022194662964657733}
+{'type': 'train', 'e': 2013, 'avgloss': 0.02272598151313631}
+{'type': 'train', 'e': 2014, 'avgloss': 0.023905121280174507}
+{'type': 'train', 'e': 2015, 'avgloss': 0.023999427494249846}
+{'type': 'train', 'e': 2016, 'avgloss': 0.024999789893627167}
+{'type': 'train', 'e': 2017, 'avgloss': 0.02354045447550322}
+{'type': 'train', 'e': 2018, 'avgloss': 0.021870444381707592}
+{'type': 'train', 'e': 2019, 'avgloss': 0.023270008007162495}
+{'type': 'val', 'e': 2020, 'avgloss': 0.02247683860753712, 'avgvalmse': np.float32(0.23893292), 'beforemse': np.float32(0.29721984)}
+{'type': 'train', 'e': 2021, 'avgloss': 0.024192871133747854}
+{'type': 'train', 'e': 2022, 'avgloss': 0.023571545944402094}
+{'type': 'train', 'e': 2023, 'avgloss': 0.022600906067772916}
+{'type': 'train', 'e': 2024, 'avgloss': 0.025062407808084237}
+{'type': 'train', 'e': 2025, 'avgloss': 0.022009031749085375}
+{'type': 'train', 'e': 2026, 'avgloss': 0.02275599681429173}
+{'type': 'train', 'e': 2027, 'avgloss': 0.021643801445239468}
+{'type': 'train', 'e': 2028, 'avgloss': 0.024328372392215226}
+{'type': 'train', 'e': 2029, 'avgloss': 0.024062731254257654}
+{'type': 'val', 'e': 2030, 'avgloss': 0.0243256379311022, 'avgvalmse': np.float32(0.21850008), 'beforemse': np.float32(0.3099755)}
+{'type': 'train', 'e': 2031, 'avgloss': 0.02519542518022813}
+{'type': 'train', 'e': 2032, 'avgloss': 0.023737142646783276}
+{'type': 'train', 'e': 2033, 'avgloss': 0.02300325781106949}
+{'type': 'train', 'e': 2034, 'avgloss': 0.022866302414944296}
+{'type': 'train', 'e': 2035, 'avgloss': 0.023033253162315016}
+{'type': 'train', 'e': 2036, 'avgloss': 0.021836548455451663}
+{'type': 'train', 'e': 2037, 'avgloss': 0.0215074095482889}
+{'type': 'train', 'e': 2038, 'avgloss': 0.021996162047511654}
+{'type': 'train', 'e': 2039, 'avgloss': 0.02411339471214696}
+{'type': 'val', 'e': 2040, 'avgloss': 0.023650529843411948, 'avgvalmse': np.float32(0.20125294), 'beforemse': np.float32(0.26928496)}
+{'type': 'train', 'e': 2041, 'avgloss': 0.024541253420083148}
+{'type': 'train', 'e': 2042, 'avgloss': 0.023285146018392162}
+{'type': 'train', 'e': 2043, 'avgloss': 0.023631611250733073}
+{'type': 'train', 'e': 2044, 'avgloss': 0.02188225904185521}
+{'type': 'train', 'e': 2045, 'avgloss': 0.02481281169151005}
+{'type': 'train', 'e': 2046, 'avgloss': 0.02431246775545572}
+{'type': 'train', 'e': 2047, 'avgloss': 0.023789711247541402}
+{'type': 'train', 'e': 2048, 'avgloss': 0.02213129773736}
+{'type': 'train', 'e': 2049, 'avgloss': 0.023537126222723408}
+{'type': 'val', 'e': 2050, 'avgloss': 0.022240216206563145, 'avgvalmse': np.float32(0.24042232), 'beforemse': np.float32(0.32780913)}
+{'type': 'train', 'e': 2051, 'avgloss': 0.02237699033790513}
+{'type': 'train', 'e': 2052, 'avgloss': 0.02420818560609692}
+{'type': 'train', 'e': 2053, 'avgloss': 0.02471190249841464}
+{'type': 'train', 'e': 2054, 'avgloss': 0.023476615254031986}
+{'type': 'train', 'e': 2055, 'avgloss': 0.021929340339020678}
+{'type': 'train', 'e': 2056, 'avgloss': 0.024435227932898623}
+{'type': 'train', 'e': 2057, 'avgloss': 0.024371431454231863}
+{'type': 'train', 'e': 2058, 'avgloss': 0.025410019057361705}
+{'type': 'train', 'e': 2059, 'avgloss': 0.023903482936714824}
+{'type': 'val', 'e': 2060, 'avgloss': 0.0239718231911722, 'avgvalmse': np.float32(0.24564143), 'beforemse': np.float32(0.31983522)}
+{'type': 'train', 'e': 2061, 'avgloss': 0.020063817893203936}
+{'type': 'train', 'e': 2062, 'avgloss': 0.023332476910007626}
+{'type': 'train', 'e': 2063, 'avgloss': 0.02240967779959503}
+{'type': 'train', 'e': 2064, 'avgloss': 0.025681652912968082}
+{'type': 'train', 'e': 2065, 'avgloss': 0.023404556326568127}
+{'type': 'train', 'e': 2066, 'avgloss': 0.022972407211598597}
+{'type': 'train', 'e': 2067, 'avgloss': 0.022929468927414792}
+{'type': 'train', 'e': 2068, 'avgloss': 0.0230807598288122}
+{'type': 'train', 'e': 2069, 'avgloss': 0.022963377107915125}
+{'type': 'val', 'e': 2070, 'avgloss': 0.02413400076329708, 'avgvalmse': np.float32(0.29172304), 'beforemse': np.float32(0.36362866)}
+{'type': 'train', 'e': 2071, 'avgloss': 0.02305507238366102}
+{'type': 'train', 'e': 2072, 'avgloss': 0.02332054529535143}
+{'type': 'train', 'e': 2073, 'avgloss': 0.023203627647537934}
+{'type': 'train', 'e': 2074, 'avgloss': 0.024192270528721183}
+{'type': 'train', 'e': 2075, 'avgloss': 0.025323092447299706}
+{'type': 'train', 'e': 2076, 'avgloss': 0.022874913619537102}
+{'type': 'train', 'e': 2077, 'avgloss': 0.024963605560754474}
+{'type': 'train', 'e': 2078, 'avgloss': 0.026327636387003094}
+{'type': 'train', 'e': 2079, 'avgloss': 0.02409735037700126}
+{'type': 'val', 'e': 2080, 'avgloss': 0.022737354236213786, 'avgvalmse': np.float32(0.22902596), 'beforemse': np.float32(0.27872184)}
+{'type': 'train', 'e': 2081, 'avgloss': 0.023898328899552946}
+{'type': 'train', 'e': 2082, 'avgloss': 0.02324131611538561}
+{'type': 'train', 'e': 2083, 'avgloss': 0.022508916788195308}
+{'type': 'train', 'e': 2084, 'avgloss': 0.022357087386281865}
+{'type': 'train', 'e': 2085, 'avgloss': 0.022063543431852992}
+{'type': 'train', 'e': 2086, 'avgloss': 0.021712740098959522}
+{'type': 'train', 'e': 2087, 'avgloss': 0.02232825363937177}
+{'type': 'train', 'e': 2088, 'avgloss': 0.020842056819482854}
+{'type': 'train', 'e': 2089, 'avgloss': 0.02370232941680833}
+{'type': 'val', 'e': 2090, 'avgloss': 0.02512075879464024, 'avgvalmse': np.float32(0.25197354), 'beforemse': np.float32(0.29499677)}
+{'type': 'train', 'e': 2091, 'avgloss': 0.02475077354986417}
+{'type': 'train', 'e': 2092, 'avgloss': 0.023565467839178286}
+{'type': 'train', 'e': 2093, 'avgloss': 0.02443936310316387}
+{'type': 'train', 'e': 2094, 'avgloss': 0.024744308308551188}
+{'type': 'train', 'e': 2095, 'avgloss': 0.023621411258844954}
+{'type': 'train', 'e': 2096, 'avgloss': 0.025964763603712384}
+{'type': 'train', 'e': 2097, 'avgloss': 0.023958784037906872}
+{'type': 'train', 'e': 2098, 'avgloss': 0.022073585294971342}
+{'type': 'train', 'e': 2099, 'avgloss': 0.023928391600125713}
+{'type': 'val', 'e': 2100, 'avgloss': 0.023356799624468152, 'avgvalmse': np.float32(0.23135507), 'beforemse': np.float32(0.31411174)}
+{'type': 'train', 'e': 2101, 'avgloss': 0.023516780941894178}
+{'type': 'train', 'e': 2102, 'avgloss': 0.023818480439091985}
+{'type': 'train', 'e': 2103, 'avgloss': 0.022996972167962475}
+{'type': 'train', 'e': 2104, 'avgloss': 0.02219223544785851}
+{'type': 'train', 'e': 2105, 'avgloss': 0.02309126642189528}
+{'type': 'train', 'e': 2106, 'avgloss': 0.025288414700250877}
+{'type': 'train', 'e': 2107, 'avgloss': 0.02403641099992551}
+{'type': 'train', 'e': 2108, 'avgloss': 0.025895192042777414}
+{'type': 'train', 'e': 2109, 'avgloss': 0.02598017003191145}
+{'type': 'val', 'e': 2110, 'avgloss': 0.024200578857409328, 'avgvalmse': np.float32(0.22910546), 'beforemse': np.float32(0.29350725)}
+{'type': 'train', 'e': 2111, 'avgloss': 0.027222446214995887}
+{'type': 'train', 'e': 2112, 'avgloss': 0.024219285598710963}
+{'type': 'train', 'e': 2113, 'avgloss': 0.0234117802036436}
+{'type': 'train', 'e': 2114, 'avgloss': 0.023988521412799235}
+{'type': 'train', 'e': 2115, 'avgloss': 0.025740904341402807}
+{'type': 'train', 'e': 2116, 'avgloss': 0.024946530300535653}
+{'type': 'train', 'e': 2117, 'avgloss': 0.023648615534368315}
+{'type': 'train', 'e': 2118, 'avgloss': 0.02710014983619514}
+{'type': 'train', 'e': 2119, 'avgloss': 0.024359653409766525}
+{'type': 'val', 'e': 2120, 'avgloss': 0.025592504363310963, 'avgvalmse': np.float32(0.20941786), 'beforemse': np.float32(0.2583274)}
+{'type': 'train', 'e': 2121, 'avgloss': 0.02526630196524294}
+{'type': 'train', 'e': 2122, 'avgloss': 0.02431599668374187}
+{'type': 'train', 'e': 2123, 'avgloss': 0.023031074994880902}
+{'type': 'train', 'e': 2124, 'avgloss': 0.02564530407911853}
+{'type': 'train', 'e': 2125, 'avgloss': 0.024640612892414395}
+{'type': 'train', 'e': 2126, 'avgloss': 0.024201668994991404}
+{'type': 'train', 'e': 2127, 'avgloss': 0.025566193128102703}
+{'type': 'train', 'e': 2128, 'avgloss': 0.025028928330070095}
+{'type': 'train', 'e': 2129, 'avgloss': 0.02406981185470757}
+{'type': 'val', 'e': 2130, 'avgloss': 0.022205964024913937, 'avgvalmse': np.float32(0.2938551), 'beforemse': np.float32(0.3526378)}
+{'type': 'train', 'e': 2131, 'avgloss': 0.023758738840881147}
+{'type': 'train', 'e': 2132, 'avgloss': 0.025552912272120778}
+{'type': 'train', 'e': 2133, 'avgloss': 0.02446327182023149}
+{'type': 'train', 'e': 2134, 'avgloss': 0.021764128714015608}
+{'type': 'train', 'e': 2135, 'avgloss': 0.02281988470962173}
+{'type': 'train', 'e': 2136, 'avgloss': 0.02371747777062027}
+{'type': 'train', 'e': 2137, 'avgloss': 0.022840783294094235}
+{'type': 'train', 'e': 2138, 'avgloss': 0.02569592675488246}
+{'type': 'train', 'e': 2139, 'avgloss': 0.025721969573121322}
+{'type': 'val', 'e': 2140, 'avgloss': 0.025540183543374662, 'avgvalmse': np.float32(0.33350456), 'beforemse': np.float32(0.39455166)}
+{'type': 'train', 'e': 2141, 'avgloss': 0.0284236617582409}
+{'type': 'train', 'e': 2142, 'avgloss': 0.023084655894260658}
+{'type': 'train', 'e': 2143, 'avgloss': 0.024728566114055484}
+{'type': 'train', 'e': 2144, 'avgloss': 0.024901869167622766}
+{'type': 'train', 'e': 2145, 'avgloss': 0.022239305471119127}
+{'type': 'train', 'e': 2146, 'avgloss': 0.024107953141394415}
+{'type': 'train', 'e': 2147, 'avgloss': 0.022032972817358217}
+{'type': 'train', 'e': 2148, 'avgloss': 0.023567523121049528}
+{'type': 'train', 'e': 2149, 'avgloss': 0.024431808508540456}
+{'type': 'val', 'e': 2150, 'avgloss': 0.02567301710185252, 'avgvalmse': np.float32(0.21007101), 'beforemse': np.float32(0.25952384)}
+{'type': 'train', 'e': 2151, 'avgloss': 0.025350395688100866}
+{'type': 'train', 'e': 2152, 'avgloss': 0.024123767782983026}
+{'type': 'train', 'e': 2153, 'avgloss': 0.02680655029651366}
+{'type': 'train', 'e': 2154, 'avgloss': 0.024485533370783453}
+{'type': 'train', 'e': 2155, 'avgloss': 0.02286621634113161}
+{'type': 'train', 'e': 2156, 'avgloss': 0.022755014367009465}
+{'type': 'train', 'e': 2157, 'avgloss': 0.023582549471604198}
+{'type': 'train', 'e': 2158, 'avgloss': 0.024630073457956314}
+{'type': 'train', 'e': 2159, 'avgloss': 0.024111474913201834}
+{'type': 'val', 'e': 2160, 'avgloss': 0.02339272279488413, 'avgvalmse': np.float32(0.2311743), 'beforemse': np.float32(0.30335188)}
+{'type': 'train', 'e': 2161, 'avgloss': 0.024978160073882656}
+{'type': 'train', 'e': 2162, 'avgloss': 0.02288451222212691}
+{'type': 'train', 'e': 2163, 'avgloss': 0.022445569795213248}
+{'type': 'train', 'e': 2164, 'avgloss': 0.024470620935684757}
+{'type': 'train', 'e': 2165, 'avgloss': 0.02450944110751152}
+{'type': 'train', 'e': 2166, 'avgloss': 0.02408003091419998}
+{'type': 'train', 'e': 2167, 'avgloss': 0.022415732474703538}
+{'type': 'train', 'e': 2168, 'avgloss': 0.022381126978679708}
+{'type': 'train', 'e': 2169, 'avgloss': 0.02110464174888636}
+{'type': 'val', 'e': 2170, 'avgloss': 0.02270614973416454, 'avgvalmse': np.float32(0.22963367), 'beforemse': np.float32(0.314604)}
+{'type': 'train', 'e': 2171, 'avgloss': 0.023395554995850512}
+{'type': 'train', 'e': 2172, 'avgloss': 0.021350226463063768}
+{'type': 'train', 'e': 2173, 'avgloss': 0.0250255140034776}
+{'type': 'train', 'e': 2174, 'avgloss': 0.02457187295352158}
+{'type': 'train', 'e': 2175, 'avgloss': 0.022730086390909395}
+{'type': 'train', 'e': 2176, 'avgloss': 0.02357939660157028}
+{'type': 'train', 'e': 2177, 'avgloss': 0.024590803310275078}
+{'type': 'train', 'e': 2178, 'avgloss': 0.024160312929827916}
+{'type': 'train', 'e': 2179, 'avgloss': 0.0228475898896393}
+{'type': 'val', 'e': 2180, 'avgloss': 0.02459406117467504, 'avgvalmse': np.float32(0.24143372), 'beforemse': np.float32(0.32427907)}
+{'type': 'train', 'e': 2181, 'avgloss': 0.024303441867232323}
+{'type': 'train', 'e': 2182, 'avgloss': 0.02316094979055618}
+{'type': 'train', 'e': 2183, 'avgloss': 0.022374174655660203}
+{'type': 'train', 'e': 2184, 'avgloss': 0.023161803715323146}
+{'type': 'train', 'e': 2185, 'avgloss': 0.022908558774935573}
+{'type': 'train', 'e': 2186, 'avgloss': 0.023566458570329768}
+{'type': 'train', 'e': 2187, 'avgloss': 0.02285500939347242}
+{'type': 'train', 'e': 2188, 'avgloss': 0.0230426560891302}
+{'type': 'train', 'e': 2189, 'avgloss': 0.02487941449017901}
+{'type': 'val', 'e': 2190, 'avgloss': 0.023833267782863817, 'avgvalmse': np.float32(0.23709357), 'beforemse': np.float32(0.2749275)}
+{'type': 'train', 'e': 2191, 'avgloss': 0.024636433214733477}
+{'type': 'train', 'e': 2192, 'avgloss': 0.024483517792664077}
+{'type': 'train', 'e': 2193, 'avgloss': 0.022998481890872904}
+{'type': 'train', 'e': 2194, 'avgloss': 0.0229146922203271}
+{'type': 'train', 'e': 2195, 'avgloss': 0.021954230964183807}
+{'type': 'train', 'e': 2196, 'avgloss': 0.022265129477569933}
+{'type': 'train', 'e': 2197, 'avgloss': 0.020447738419630025}
+{'type': 'train', 'e': 2198, 'avgloss': 0.0207451932426346}
+{'type': 'train', 'e': 2199, 'avgloss': 0.021439624558153906}
+{'type': 'val', 'e': 2200, 'avgloss': 0.0265433093238818, 'avgvalmse': np.float32(0.2546825), 'beforemse': np.float32(0.3182081)}
+{'type': 'train', 'e': 2201, 'avgloss': 0.024526088057379974}
+{'type': 'train', 'e': 2202, 'avgloss': 0.023159406589050042}
+{'type': 'train', 'e': 2203, 'avgloss': 0.023347927845622365}
+{'type': 'train', 'e': 2204, 'avgloss': 0.02073504099328267}
+{'type': 'train', 'e': 2205, 'avgloss': 0.022356551630716575}
+{'type': 'train', 'e': 2206, 'avgloss': 0.022458404645715888}
+{'type': 'train', 'e': 2207, 'avgloss': 0.024307484395409886}
+{'type': 'train', 'e': 2208, 'avgloss': 0.021298142934316082}
+{'type': 'train', 'e': 2209, 'avgloss': 0.021691150669204563}
+{'type': 'val', 'e': 2210, 'avgloss': 0.022268743695397126, 'avgvalmse': np.float32(0.26575294), 'beforemse': np.float32(0.31892273)}
+{'type': 'train', 'e': 2211, 'avgloss': 0.021905050073799334}
+{'type': 'train', 'e': 2212, 'avgloss': 0.023252576099414574}
+{'type': 'train', 'e': 2213, 'avgloss': 0.023346816434672003}
+{'type': 'train', 'e': 2214, 'avgloss': 0.021924471923787343}
+{'type': 'train', 'e': 2215, 'avgloss': 0.022822569761621326}
+{'type': 'train', 'e': 2216, 'avgloss': 0.02253640923453005}
+{'type': 'train', 'e': 2217, 'avgloss': 0.021112991496920586}
+{'type': 'train', 'e': 2218, 'avgloss': 0.023947332054376602}
+{'type': 'train', 'e': 2219, 'avgloss': 0.021633450186958437}
+{'type': 'val', 'e': 2220, 'avgloss': 0.022481274840078856, 'avgvalmse': np.float32(0.22794949), 'beforemse': np.float32(0.2599984)}
+{'type': 'train', 'e': 2221, 'avgloss': 0.023232969994607725}
+{'type': 'train', 'e': 2222, 'avgloss': 0.022985009378508517}
+{'type': 'train', 'e': 2223, 'avgloss': 0.02132634646994503}
+{'type': 'train', 'e': 2224, 'avgloss': 0.023037620084850413}
+{'type': 'train', 'e': 2225, 'avgloss': 0.02408523328210178}
+{'type': 'train', 'e': 2226, 'avgloss': 0.02394770968117212}
+{'type': 'train', 'e': 2227, 'avgloss': 0.023958123534133558}
+{'type': 'train', 'e': 2228, 'avgloss': 0.024487846285889025}
+{'type': 'train', 'e': 2229, 'avgloss': 0.026484042308048197}
+{'type': 'val', 'e': 2230, 'avgloss': 0.02218019266269709, 'avgvalmse': np.float32(0.28489104), 'beforemse': np.float32(0.303928)}
+{'type': 'train', 'e': 2231, 'avgloss': 0.021787011211639958}
+{'type': 'train', 'e': 2232, 'avgloss': 0.021381459640044915}
+{'type': 'train', 'e': 2233, 'avgloss': 0.021576892290460437}
+{'type': 'train', 'e': 2234, 'avgloss': 0.021857194063302717}
+{'type': 'train', 'e': 2235, 'avgloss': 0.023446552063289442}
+{'type': 'train', 'e': 2236, 'avgloss': 0.022989220525089064}
+{'type': 'train', 'e': 2237, 'avgloss': 0.022344306797573443}
+{'type': 'train', 'e': 2238, 'avgloss': 0.021006966352854903}
+{'type': 'train', 'e': 2239, 'avgloss': 0.021501083319124422}
+{'type': 'val', 'e': 2240, 'avgloss': 0.02224398458278493, 'avgvalmse': np.float32(0.25950405), 'beforemse': np.float32(0.2996941)}
+{'type': 'train', 'e': 2241, 'avgloss': 0.021736078650543566}
+{'type': 'train', 'e': 2242, 'avgloss': 0.02165451136074568}
+{'type': 'train', 'e': 2243, 'avgloss': 0.023161497359213076}
+{'type': 'train', 'e': 2244, 'avgloss': 0.021381197644299584}
+{'type': 'train', 'e': 2245, 'avgloss': 0.02251983335927913}
+{'type': 'train', 'e': 2246, 'avgloss': 0.023068233638217573}
+{'type': 'train', 'e': 2247, 'avgloss': 0.022982350501574968}
+{'type': 'train', 'e': 2248, 'avgloss': 0.0220529427261729}
+{'type': 'train', 'e': 2249, 'avgloss': 0.02180709885923486}
+{'type': 'val', 'e': 2250, 'avgloss': 0.02298628372189246, 'avgvalmse': np.float32(0.2498864), 'beforemse': np.float32(0.30247918)}
+{'type': 'train', 'e': 2251, 'avgloss': 0.021431759637045234}
+{'type': 'train', 'e': 2252, 'avgloss': 0.022741698316837613}
+{'type': 'train', 'e': 2253, 'avgloss': 0.02305847122088859}
+{'type': 'train', 'e': 2254, 'avgloss': 0.026533310056517}
+{'type': 'train', 'e': 2255, 'avgloss': 0.025459830600180124}
+{'type': 'train', 'e': 2256, 'avgloss': 0.023808780077256654}
+{'type': 'train', 'e': 2257, 'avgloss': 0.023923003850014585}
+{'type': 'train', 'e': 2258, 'avgloss': 0.022487373630467215}
+{'type': 'train', 'e': 2259, 'avgloss': 0.020430911920572583}
+{'type': 'val', 'e': 2260, 'avgloss': 0.022884024797301544, 'avgvalmse': np.float32(0.24306388), 'beforemse': np.float32(0.241971)}
+{'type': 'train', 'e': 2261, 'avgloss': 0.02235012589708755}
+{'type': 'train', 'e': 2262, 'avgloss': 0.02163526195248491}
+{'type': 'train', 'e': 2263, 'avgloss': 0.020929216652324324}
+{'type': 'train', 'e': 2264, 'avgloss': 0.022315965279152517}
+{'type': 'train', 'e': 2265, 'avgloss': 0.024587089784051244}
+{'type': 'train', 'e': 2266, 'avgloss': 0.023627275208893576}
+{'type': 'train', 'e': 2267, 'avgloss': 0.022457243874669075}
+{'type': 'train', 'e': 2268, 'avgloss': 0.020394928410257165}
+{'type': 'train', 'e': 2269, 'avgloss': 0.02216419263889915}
+{'type': 'val', 'e': 2270, 'avgloss': 0.02348606572731545, 'avgvalmse': np.float32(0.27121022), 'beforemse': np.float32(0.34473717)}
+{'type': 'train', 'e': 2271, 'avgloss': 0.02446048687163152}
+{'type': 'train', 'e': 2272, 'avgloss': 0.02253970209705202}
+{'type': 'train', 'e': 2273, 'avgloss': 0.023308811709284782}
+{'type': 'train', 'e': 2274, 'avgloss': 0.022383272647857666}
+{'type': 'train', 'e': 2275, 'avgloss': 0.02249433845281601}
+{'type': 'train', 'e': 2276, 'avgloss': 0.021597962924524358}
+{'type': 'train', 'e': 2277, 'avgloss': 0.02463901278219725}
+{'type': 'train', 'e': 2278, 'avgloss': 0.023014632837944908}
+{'type': 'train', 'e': 2279, 'avgloss': 0.02374601942536078}
+{'type': 'val', 'e': 2280, 'avgloss': 0.021768912574962565, 'avgvalmse': np.float32(0.2786338), 'beforemse': np.float32(0.34603855)}
+{'type': 'train', 'e': 2281, 'avgloss': 0.021429414223683507}
+{'type': 'train', 'e': 2282, 'avgloss': 0.02264702908302608}
+{'type': 'train', 'e': 2283, 'avgloss': 0.023796526126955684}
+{'type': 'train', 'e': 2284, 'avgloss': 0.022385380279861}
+{'type': 'train', 'e': 2285, 'avgloss': 0.02156017299153303}
+{'type': 'train', 'e': 2286, 'avgloss': 0.02278709632197493}
+{'type': 'train', 'e': 2287, 'avgloss': 0.02150613471473518}
+{'type': 'train', 'e': 2288, 'avgloss': 0.0223181892774607}
+{'type': 'train', 'e': 2289, 'avgloss': 0.021419430935853405}
+{'type': 'val', 'e': 2290, 'avgloss': 0.020914160793549137, 'avgvalmse': np.float32(0.23937684), 'beforemse': np.float32(0.3231528)}
+{'type': 'train', 'e': 2291, 'avgloss': 0.021499517520791607}
+{'type': 'train', 'e': 2292, 'avgloss': 0.021222593213774656}
+{'type': 'train', 'e': 2293, 'avgloss': 0.022596784524227444}
+{'type': 'train', 'e': 2294, 'avgloss': 0.020758305529230518}
+{'type': 'train', 'e': 2295, 'avgloss': 0.021367201728648262}
+{'type': 'train', 'e': 2296, 'avgloss': 0.02329416102484653}
+{'type': 'train', 'e': 2297, 'avgloss': 0.02261320913308545}
+{'type': 'train', 'e': 2298, 'avgloss': 0.0227702268840451}
+{'type': 'train', 'e': 2299, 'avgloss': 0.023870638326594706}
+{'type': 'val', 'e': 2300, 'avgloss': 0.023806438242134294, 'avgvalmse': np.float32(0.29406944), 'beforemse': np.float32(0.3029226)}
+{'type': 'train', 'e': 2301, 'avgloss': 0.021171226803409427}
+{'type': 'train', 'e': 2302, 'avgloss': 0.0232413347418371}
+{'type': 'train', 'e': 2303, 'avgloss': 0.024384358015499617}
+{'type': 'train', 'e': 2304, 'avgloss': 0.022951207074679826}
+{'type': 'train', 'e': 2305, 'avgloss': 0.022698033404977697}
+{'type': 'train', 'e': 2306, 'avgloss': 0.022061286886271677}
+{'type': 'train', 'e': 2307, 'avgloss': 0.02309775440708587}
+{'type': 'train', 'e': 2308, 'avgloss': 0.02124683730500309}
+{'type': 'train', 'e': 2309, 'avgloss': 0.023176571942473714}
+{'type': 'val', 'e': 2310, 'avgloss': 0.02249796590522716, 'avgvalmse': np.float32(0.22818448), 'beforemse': np.float32(0.32950282)}
+{'type': 'train', 'e': 2311, 'avgloss': 0.0231393041383279}
+{'type': 'train', 'e': 2312, 'avgloss': 0.022521909130247014}
+{'type': 'train', 'e': 2313, 'avgloss': 0.02314046584069729}
+{'type': 'train', 'e': 2314, 'avgloss': 0.02302475753975542}
+{'type': 'train', 'e': 2315, 'avgloss': 0.022491428314855223}
+{'type': 'train', 'e': 2316, 'avgloss': 0.021379140009613412}
+{'type': 'train', 'e': 2317, 'avgloss': 0.022068449247040246}
+{'type': 'train', 'e': 2318, 'avgloss': 0.022842445263737125}
+{'type': 'train', 'e': 2319, 'avgloss': 0.021458601530053113}
+{'type': 'val', 'e': 2320, 'avgloss': 0.020745698950792615, 'avgvalmse': np.float32(0.22336607), 'beforemse': np.float32(0.29340807)}
+{'type': 'train', 'e': 2321, 'avgloss': 0.021994275776179212}
+{'type': 'train', 'e': 2322, 'avgloss': 0.023930241108724947}
+{'type': 'train', 'e': 2323, 'avgloss': 0.02190890354349425}
+{'type': 'train', 'e': 2324, 'avgloss': 0.022781603038311005}
+{'type': 'train', 'e': 2325, 'avgloss': 0.024496168192279965}
+{'type': 'train', 'e': 2326, 'avgloss': 0.023762985083617662}
+{'type': 'train', 'e': 2327, 'avgloss': 0.022410687059164047}
+{'type': 'train', 'e': 2328, 'avgloss': 0.024400303238316587}
+{'type': 'train', 'e': 2329, 'avgloss': 0.023946997660555337}
+{'type': 'val', 'e': 2330, 'avgloss': 0.02258879465884284, 'avgvalmse': np.float32(0.21643855), 'beforemse': np.float32(0.26831803)}
+{'type': 'train', 'e': 2331, 'avgloss': 0.020875629821890278}
+{'type': 'train', 'e': 2332, 'avgloss': 0.022107182854884548}
+{'type': 'train', 'e': 2333, 'avgloss': 0.02190687752475864}
+{'type': 'train', 'e': 2334, 'avgloss': 0.023429121626050847}
+{'type': 'train', 'e': 2335, 'avgloss': 0.023345229461004858}
+{'type': 'train', 'e': 2336, 'avgloss': 0.022670692274052846}
+{'type': 'train', 'e': 2337, 'avgloss': 0.024342520064429232}
+{'type': 'train', 'e': 2338, 'avgloss': 0.024947926500125936}
+{'type': 'train', 'e': 2339, 'avgloss': 0.021784702168875618}
+{'type': 'val', 'e': 2340, 'avgloss': 0.021699599333499606, 'avgvalmse': np.float32(0.32847267), 'beforemse': np.float32(0.3841373)}
+{'type': 'train', 'e': 2341, 'avgloss': 0.02282398252895004}
+{'type': 'train', 'e': 2342, 'avgloss': 0.02166165382062134}
+{'type': 'train', 'e': 2343, 'avgloss': 0.022539007379428336}
+{'type': 'train', 'e': 2344, 'avgloss': 0.02249778199352716}
+{'type': 'train', 'e': 2345, 'avgloss': 0.022813427016923304}
+{'type': 'train', 'e': 2346, 'avgloss': 0.02237051176397424}
+{'type': 'train', 'e': 2347, 'avgloss': 0.023040411895827242}
+{'type': 'train', 'e': 2348, 'avgloss': 0.023607546659676654}
+{'type': 'train', 'e': 2349, 'avgloss': 0.02506021616098128}
+{'type': 'val', 'e': 2350, 'avgloss': 0.023985397952951883, 'avgvalmse': np.float32(0.21931933), 'beforemse': np.float32(0.26643193)}
+{'type': 'train', 'e': 2351, 'avgloss': 0.023760758732494554}
+{'type': 'train', 'e': 2352, 'avgloss': 0.021930467043268054}
+{'type': 'train', 'e': 2353, 'avgloss': 0.022369388098779478}
+{'type': 'train', 'e': 2354, 'avgloss': 0.0214116175315882}
+{'type': 'train', 'e': 2355, 'avgloss': 0.022047567132272218}
+{'type': 'train', 'e': 2356, 'avgloss': 0.023018792663749895}
+{'type': 'train', 'e': 2357, 'avgloss': 0.022190497894036144}
+{'type': 'train', 'e': 2358, 'avgloss': 0.020397207797750047}
+{'type': 'train', 'e': 2359, 'avgloss': 0.023853263425591745}
+{'type': 'val', 'e': 2360, 'avgloss': 0.02327821207673926, 'avgvalmse': np.float32(0.19813001), 'beforemse': np.float32(0.26472571)}
+{'type': 'train', 'e': 2361, 'avgloss': 0.023399540860401958}
+{'type': 'train', 'e': 2362, 'avgloss': 0.022569978119511353}
+{'type': 'train', 'e': 2363, 'avgloss': 0.023116960435321455}
+{'type': 'train', 'e': 2364, 'avgloss': 0.020959420227690748}
+{'type': 'train', 'e': 2365, 'avgloss': 0.020796018113431177}
+{'type': 'train', 'e': 2366, 'avgloss': 0.02100096162604658}
+{'type': 'train', 'e': 2367, 'avgloss': 0.02456291872811945}
+{'type': 'train', 'e': 2368, 'avgloss': 0.023192872538378363}
+{'type': 'train', 'e': 2369, 'avgloss': 0.0224234934308027}
+{'type': 'val', 'e': 2370, 'avgloss': 0.023127429677467597, 'avgvalmse': np.float32(0.27480996), 'beforemse': np.float32(0.31208345)}
+{'type': 'train', 'e': 2371, 'avgloss': 0.02474841132367912}
+{'type': 'train', 'e': 2372, 'avgloss': 0.024914555055530446}
+{'type': 'train', 'e': 2373, 'avgloss': 0.025251344630592747}
+{'type': 'train', 'e': 2374, 'avgloss': 0.024278174203477408}
+{'type': 'train', 'e': 2375, 'avgloss': 0.02238808317404044}
+{'type': 'train', 'e': 2376, 'avgloss': 0.024668014412255662}
+{'type': 'train', 'e': 2377, 'avgloss': 0.022268774968228842}
+{'type': 'train', 'e': 2378, 'avgloss': 0.021979361086299543}
+{'type': 'train', 'e': 2379, 'avgloss': 0.02041448780188435}
+{'type': 'val', 'e': 2380, 'avgloss': 0.02150777943040195, 'avgvalmse': np.float32(0.2956209), 'beforemse': np.float32(0.29390123)}
+{'type': 'train', 'e': 2381, 'avgloss': 0.02177586200598039}
+{'type': 'train', 'e': 2382, 'avgloss': 0.021832229716605263}
+{'type': 'train', 'e': 2383, 'avgloss': 0.02289145332025854}
+{'type': 'train', 'e': 2384, 'avgloss': 0.021302432557077783}
+{'type': 'train', 'e': 2385, 'avgloss': 0.021972266859129855}
+{'type': 'train', 'e': 2386, 'avgloss': 0.020685211608284397}
+{'type': 'train', 'e': 2387, 'avgloss': 0.02152537907424726}
+{'type': 'train', 'e': 2388, 'avgloss': 0.022972893361982546}
+{'type': 'train', 'e': 2389, 'avgloss': 0.01896867925595296}
+{'type': 'val', 'e': 2390, 'avgloss': 0.020011408597623046, 'avgvalmse': np.float32(0.23794241), 'beforemse': np.float32(0.3093337)}
+{'type': 'train', 'e': 2391, 'avgloss': 0.020770833876572158}
+{'type': 'train', 'e': 2392, 'avgloss': 0.02441417435674291}
+{'type': 'train', 'e': 2393, 'avgloss': 0.024423280632809588}
+{'type': 'train', 'e': 2394, 'avgloss': 0.023441019173907608}
+{'type': 'train', 'e': 2395, 'avgloss': 0.02394416477335127}
+{'type': 'train', 'e': 2396, 'avgloss': 0.02512401273768199}
+{'type': 'train', 'e': 2397, 'avgloss': 0.02380371608428265}
+{'type': 'train', 'e': 2398, 'avgloss': 0.02213032426018464}
+{'type': 'train', 'e': 2399, 'avgloss': 0.022291984801229677}
+{'type': 'val', 'e': 2400, 'avgloss': 0.02179191232119736, 'avgvalmse': np.float32(0.24975044), 'beforemse': np.float32(0.2994324)}
+{'type': 'train', 'e': 2401, 'avgloss': 0.023836720244664895}
+{'type': 'train', 'e': 2402, 'avgloss': 0.023095815981689253}
+{'type': 'train', 'e': 2403, 'avgloss': 0.023087683182797934}
+{'type': 'train', 'e': 2404, 'avgloss': 0.022399530402923886}
+{'type': 'train', 'e': 2405, 'avgloss': 0.021942495025302235}
+{'type': 'train', 'e': 2406, 'avgloss': 0.02487865070763387}
+{'type': 'train', 'e': 2407, 'avgloss': 0.022769108414649963}
+{'type': 'train', 'e': 2408, 'avgloss': 0.02537544542237332}
+{'type': 'train', 'e': 2409, 'avgloss': 0.022886525055295544}
+{'type': 'val', 'e': 2410, 'avgloss': 0.02444026844674035, 'avgvalmse': np.float32(0.24351774), 'beforemse': np.float32(0.33925745)}
+{'type': 'train', 'e': 2411, 'avgloss': 0.02383711581167422}
+{'type': 'train', 'e': 2412, 'avgloss': 0.024694202271731275}
+{'type': 'train', 'e': 2413, 'avgloss': 0.023836901215346235}
+{'type': 'train', 'e': 2414, 'avgloss': 0.022192832670713727}
+{'type': 'train', 'e': 2415, 'avgloss': 0.023495091321436984}
+{'type': 'train', 'e': 2416, 'avgloss': 0.02279856389290408}
+{'type': 'train', 'e': 2417, 'avgloss': 0.02277347857230588}
+{'type': 'train', 'e': 2418, 'avgloss': 0.02364799713617877}
+{'type': 'train', 'e': 2419, 'avgloss': 0.023435056111530253}
+{'type': 'val', 'e': 2420, 'avgloss': 0.02357895544877178, 'avgvalmse': np.float32(0.23458897), 'beforemse': np.float32(0.30864847)}
+{'type': 'train', 'e': 2421, 'avgloss': 0.024009624103966513}
+{'type': 'train', 'e': 2422, 'avgloss': 0.02324858896042171}
+{'type': 'train', 'e': 2423, 'avgloss': 0.021945823278082043}
+{'type': 'train', 'e': 2424, 'avgloss': 0.021165420742411362}
+{'type': 'train', 'e': 2425, 'avgloss': 0.022697227467831812}
+{'type': 'train', 'e': 2426, 'avgloss': 0.022288445187242406}
+{'type': 'train', 'e': 2427, 'avgloss': 0.02245019243932084}
+{'type': 'train', 'e': 2428, 'avgloss': 0.022263746904699427}
+{'type': 'train', 'e': 2429, 'avgloss': 0.023072427236720136}
+{'type': 'val', 'e': 2430, 'avgloss': 0.020625085226799313, 'avgvalmse': np.float32(0.268765), 'beforemse': np.float32(0.35530695)}
+{'type': 'train', 'e': 2431, 'avgloss': 0.021877629094217952}
+{'type': 'train', 'e': 2432, 'avgloss': 0.022550620481764014}
+{'type': 'train', 'e': 2433, 'avgloss': 0.023016660719325666}
+{'type': 'train', 'e': 2434, 'avgloss': 0.023237571904533787}
+{'type': 'train', 'e': 2435, 'avgloss': 0.02127634959393426}
+{'type': 'train', 'e': 2436, 'avgloss': 0.021202800991503817}
+{'type': 'train', 'e': 2437, 'avgloss': 0.02259668570600058}
+{'type': 'train', 'e': 2438, 'avgloss': 0.024112163895839138}
+{'type': 'train', 'e': 2439, 'avgloss': 0.020600283763518457}
+{'type': 'val', 'e': 2440, 'avgloss': 0.021304820125040255, 'avgvalmse': np.float32(0.25280872), 'beforemse': np.float32(0.26861182)}
+{'type': 'train', 'e': 2441, 'avgloss': 0.020922672983847167}
+{'type': 'train', 'e': 2442, 'avgloss': 0.022500223872300825}
+{'type': 'train', 'e': 2443, 'avgloss': 0.02190294126538854}
+{'type': 'train', 'e': 2444, 'avgloss': 0.02232392955767481}
+{'type': 'train', 'e': 2445, 'avgloss': 0.02146837149599665}
+{'type': 'train', 'e': 2446, 'avgloss': 0.020350121010683085}
+{'type': 'train', 'e': 2447, 'avgloss': 0.020485122197944867}
+{'type': 'train', 'e': 2448, 'avgloss': 0.021725512844951528}
+{'type': 'train', 'e': 2449, 'avgloss': 0.020333695176400636}
+{'type': 'val', 'e': 2450, 'avgloss': 0.020242773878731225, 'avgvalmse': np.float32(0.27081504), 'beforemse': np.float32(0.3339547)}
+{'type': 'train', 'e': 2451, 'avgloss': 0.021439350651283013}
+{'type': 'train', 'e': 2452, 'avgloss': 0.01973848309563963}
+{'type': 'train', 'e': 2453, 'avgloss': 0.02129178180506355}
+{'type': 'train', 'e': 2454, 'avgloss': 0.019974035505009324}
+{'type': 'train', 'e': 2455, 'avgloss': 0.020949371649246467}
+{'type': 'train', 'e': 2456, 'avgloss': 0.02274663628716218}
+{'type': 'train', 'e': 2457, 'avgloss': 0.02364451511714019}
+{'type': 'train', 'e': 2458, 'avgloss': 0.021174638434068152}
+{'type': 'train', 'e': 2459, 'avgloss': 0.020900579561528406}
+{'type': 'val', 'e': 2460, 'avgloss': 0.021769925265720014, 'avgvalmse': np.float32(0.2564954), 'beforemse': np.float32(0.3418386)}
+{'type': 'train', 'e': 2461, 'avgloss': 0.021371169898070787}
+{'type': 'train', 'e': 2462, 'avgloss': 0.020997738171564907}
+{'type': 'train', 'e': 2463, 'avgloss': 0.022687250650242755}
+{'type': 'train', 'e': 2464, 'avgloss': 0.020822807950408834}
+{'type': 'train', 'e': 2465, 'avgloss': 0.024137987019984347}
+{'type': 'train', 'e': 2466, 'avgloss': 0.023572868716559912}
+{'type': 'train', 'e': 2467, 'avgloss': 0.023194868754791587}
+{'type': 'train', 'e': 2468, 'avgloss': 0.022871568897052816}
+{'type': 'train', 'e': 2469, 'avgloss': 0.021410068595095685}
+{'type': 'val', 'e': 2470, 'avgloss': 0.02199082409864978, 'avgvalmse': np.float32(0.25745356), 'beforemse': np.float32(0.36840943)}
+{'type': 'train', 'e': 2471, 'avgloss': 0.023447971104791288}
+{'type': 'train', 'e': 2472, 'avgloss': 0.023227552736276073}
+{'type': 'train', 'e': 2473, 'avgloss': 0.023704613902066882}
+{'type': 'train', 'e': 2474, 'avgloss': 0.02041303018402112}
+{'type': 'train', 'e': 2475, 'avgloss': 0.02353621259527771}
+{'type': 'train', 'e': 2476, 'avgloss': 0.022812864498088236}
+{'type': 'train', 'e': 2477, 'avgloss': 0.022835935907144295}
+{'type': 'train', 'e': 2478, 'avgloss': 0.023398262889761674}
+{'type': 'train', 'e': 2479, 'avgloss': 0.021248238798426956}
+{'type': 'val', 'e': 2480, 'avgloss': 0.020371243014539544, 'avgvalmse': np.float32(0.29884753), 'beforemse': np.float32(0.3373617)}
+{'type': 'train', 'e': 2481, 'avgloss': 0.02095562366670684}
+{'type': 'train', 'e': 2482, 'avgloss': 0.022143151660106684}
+{'type': 'train', 'e': 2483, 'avgloss': 0.02140898536890745}
+{'type': 'train', 'e': 2484, 'avgloss': 0.021879939705525573}
+{'type': 'train', 'e': 2485, 'avgloss': 0.02057811892346332}
+{'type': 'train', 'e': 2486, 'avgloss': 0.022573537144221757}
+{'type': 'train', 'e': 2487, 'avgloss': 0.021561924466177038}
+{'type': 'train', 'e': 2488, 'avgloss': 0.023693625177992016}
+{'type': 'train', 'e': 2489, 'avgloss': 0.021863756456265326}
+{'type': 'val', 'e': 2490, 'avgloss': 0.02266023298235316, 'avgvalmse': np.float32(0.2575219), 'beforemse': np.float32(0.3508017)}
+{'type': 'train', 'e': 2491, 'avgloss': 0.024822284516535308}
+{'type': 'train', 'e': 2492, 'avgloss': 0.02612811983808091}
+{'type': 'train', 'e': 2493, 'avgloss': 0.02290785596951058}
+{'type': 'train', 'e': 2494, 'avgloss': 0.02252931412505476}
+{'type': 'train', 'e': 2495, 'avgloss': 0.024544320118270423}
+{'type': 'train', 'e': 2496, 'avgloss': 0.0221658398054148}
+{'type': 'train', 'e': 2497, 'avgloss': 0.02171574513378896}
+{'type': 'train', 'e': 2498, 'avgloss': 0.02252410420853841}
+{'type': 'train', 'e': 2499, 'avgloss': 0.02142631576249474}
